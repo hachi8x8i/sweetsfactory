@@ -1,0 +1,19 @@
+import Vue from "vue";
+import App from "./App.vue";
+import router from "./router";
+import store from "./store";
+import vuetify from "./plugin/vuetify";
+import axios from "axios";
+import _ from "lodash";
+
+Vue.config.productionTip = false;
+
+Vue.prototype.$axios = axios;
+Vue.prototype.$_ = _;
+
+new Vue({
+  router,
+  store,
+  vuetify,
+  render: h => h(App)
+}).$mount("#app");
