@@ -5,9 +5,7 @@
       <v-col class="pa-0" xl="12" lg="12" md="12" sm="12" cols="12">
         <v-card class="translucent" tile>
           <v-container class="mx-0 px-4 pt-4" style="max-width:100%">
-            <v-row class="mx-0 pb-2 title font-weight-regular">
-              Order Plot
-            </v-row>
+            <v-row class="mx-0 pb-2 title font-weight-regular">Order Plot</v-row>
             <v-row class="mx-0">
               <v-col cols="10" class="pa-0">
                 <ToggleButtons
@@ -27,18 +25,14 @@
       <v-col class="pa-2" xl="3" lg="3" md="4" sm="12" cols="12">
         <v-card class="translucent overflow-y-auto" height="600px" tile>
           <v-toolbar dense class="transparent" flat>
-            <v-toolbar-title>
-              Order ID:{{ prm_tabledata[0].val }}
-            </v-toolbar-title>
+            <v-toolbar-title>Order ID:{{ prm_tabledata[0].val }}</v-toolbar-title>
           </v-toolbar>
           <v-simple-table dense class="transparent">
             <template v-slot:default>
               <tbody>
                 <tr v-for="obj in prm_tabledata" :key="obj.key">
                   <td>{{ obj.label }}</td>
-                  <td v-if="obj.dig">
-                    {{ Math.round(obj.val * obj.dig * 10) / 10 + obj.unit }}
-                  </td>
+                  <td v-if="obj.dig">{{ Math.round(obj.val * obj.dig * 10) / 10 + obj.unit }}</td>
                   <td v-else>{{ obj.val }}</td>
                 </tr>
               </tbody>
@@ -50,8 +44,7 @@
       <v-col class="pa-2" xl="9" lg="9" md="8" sm="12" cols="12">
         <v-card class="translucent" tile>
           <v-overlay :absolute="true" :value="isTimeDataloading">
-            <v-progress-circular indeterminate></v-progress-circular>
-            Timeseries data loading...
+            <v-progress-circular indeterminate></v-progress-circular>Timeseries data loading...
           </v-overlay>
           <v-toolbar dense class="transparent" flat>
             <v-toolbar-title>Order {{ prm_tabledata[1].val }}</v-toolbar-title>
@@ -64,8 +57,7 @@
             :items-per-page="10"
             class="transparent px-6"
             dense
-          >
-          </v-data-table>
+          ></v-data-table>
         </v-card>
       </v-col>
     </v-row>
@@ -314,7 +306,6 @@ export default {
         );
       };
       let viewdata_ary = this.firstdata.filter(func_filter);
-      //いったんフィルタしない
 
       viewdata_ary.forEach(element => {
         element.x = new Date(element.x);
@@ -535,6 +526,8 @@ export default {
         }
       }
 
+      console.log(this.viewdata);
+
       if (this.switch_scatter === "Productivity") {
         this.chartOptions_plot.yAxis.max = 1;
         this.chartOptions_plot.yAxis.title.text = null;
@@ -545,7 +538,7 @@ export default {
         });
       } else if (this.switch_scatter === "Volume") {
         this.chartOptions_plot.yAxis.max = null;
-        this.chartOptions_plot.yAxis.title.text = "sheets";
+        this.chartOptions_plot.yAxis.title.text = "packages";
         this.$_.forEach(this.viewdata, function(ary) {
           ary.forEach(function(value) {
             value["y"] = value["prod_volume"];
@@ -558,11 +551,7 @@ export default {
           //単位：mの場合
           this.$_.forEach(this.viewdata, function(ary) {
             ary.forEach(function(value) {
-              value["y"] =
-                (value["prod_volume"] *
-                  value["sheetsize_length_mm"] *
-                  value["sheetsize_width_mm"]) /
-                1000000;
+              value["y"] = value["weight"];
             });
           });
           this.chartOptions_plot.yAxis.title.text = "㎡";
@@ -570,13 +559,7 @@ export default {
           //単位：inの場合
           this.$_.forEach(this.viewdata, function(ary) {
             ary.forEach(function(value) {
-              value["y"] =
-                (((value["prod_volume"] *
-                  value["sheetsize_length_mm"] *
-                  value["sheetsize_width_mm"]) /
-                  1000000) *
-                  1550) /
-                1000;
+              value["y"] = value["weight"];
             });
           });
           this.chartOptions_plot.yAxis.title.text = "K in²";
@@ -586,60 +569,43 @@ export default {
       this.chartOptions_plot.series = [];
       let dataarr = [];
 
-      if (this.viewdata["A"]) {
+      if (this.viewdata["Candy"]) {
         if (this.productivity) {
           this.chartOptions_plot.series.push({
-            name: "A",
+            name: "Candy",
             color: "#4a71f4",
-            data: this.viewdata["A"]
+            data: this.viewdata["Candy"]
           });
-        } else {
-          //無料会員
-          dataarr = dataarr.concat(this.viewdata["A"]);
         }
       }
-      if (this.viewdata["B"]) {
+      if (this.viewdata["Chocolate"]) {
         if (this.productivity) {
           this.chartOptions_plot.series.push({
-            name: "B",
+            name: "Chocolate",
             color: "#87c03a",
-            data: this.viewdata["B"]
+            data: this.viewdata["Chocolate"]
           });
-        } else {
-          dataarr = dataarr.concat(this.viewdata["B"]);
         }
       }
-      if (this.viewdata["C"]) {
+      if (this.viewdata["Cookie"]) {
         if (this.productivity) {
           this.chartOptions_plot.series.push({
-            name: "C",
+            name: "Cookie",
             color: "#daa02a",
-            data: this.viewdata["C"]
+            data: this.viewdata["Cookie"]
           });
-        } else {
-          dataarr = dataarr.concat(this.viewdata["C"]);
         }
       }
-      if (this.viewdata["D"]) {
+      if (this.viewdata["Gum"]) {
         if (this.productivity) {
           this.chartOptions_plot.series.push({
-            name: "D",
+            name: "Gum",
             color: "#da3c41",
-            data: this.viewdata["D"]
+            data: this.viewdata["Gum"]
           });
-        } else {
-          dataarr = dataarr.concat(this.viewdata["D"]);
         }
       }
-
-      if (!this.productivity) {
-        //無料会員の場合セグメント区分なし
-        this.chartOptions_plot.series.push({
-          name: "order",
-          color: "#da3c41",
-          data: dataarr
-        });
-      }
+      console.log(this.chartOptions_plot);
     },
 
     convertBoxsize(boxsize) {

@@ -14,21 +14,14 @@
             min-width="290px"
           >
             <template v-slot:activator="{ on }">
-              <v-text-field
-                v-model="from_date"
-                label="From"
-                readonly
-                v-on="on"
-              ></v-text-field>
+              <v-text-field v-model="from_date" label="From" readonly v-on="on"></v-text-field>
               <v-icon
                 style="position:absolute; right:50px; top:20px;"
                 @click="clearDate('from')"
-                >cancel</v-icon
-              >
+              >cancel</v-icon>
               <v-icon
                 style="position:absolute; right:20px; top:20px; z-index:-1;"
-                >mdi-calendar-today</v-icon
-              >
+              >mdi-calendar-today</v-icon>
             </template>
             <v-date-picker
               v-model="from_date"
@@ -50,21 +43,14 @@
             min-width="290px"
           >
             <template v-slot:activator="{ on }">
-              <v-text-field
-                v-model="to_date"
-                label="To"
-                readonly
-                v-on="on"
-              ></v-text-field>
+              <v-text-field v-model="to_date" label="To" readonly v-on="on"></v-text-field>
               <v-icon
                 style="position:absolute; right:50px; top:20px;"
                 @click="clearDate('to')"
-                >cancel</v-icon
-              >
+              >cancel</v-icon>
               <v-icon
                 style="position:absolute; right:20px; top:20px; z-index:-1;"
-                >mdi-calendar-today</v-icon
-              >
+              >mdi-calendar-today</v-icon>
             </template>
             <v-date-picker
               v-model="to_date"
@@ -113,35 +99,21 @@
 
           <v-tooltip bottom button>
             <template v-slot:activator="{ on }">
-              <v-btn
-                style="position:absolute; right:11px; top:14px"
-                icon
-                v-on="on"
-              >
+              <v-btn style="position:absolute; right:11px; top:14px" icon v-on="on">
                 <v-icon>help</v-icon>
               </v-btn>
             </template>
           </v-tooltip>
         </v-list-item-content>
       </v-list-item>
-      <v-list-item
-        v-if="this.$route.path === '/' || this.$route.path == '/list'"
-      >
+      <v-list-item v-if="this.$route.path === '/' || this.$route.path == '/list'">
         <v-list-item-content class="py-0">
-          <v-text-field
-            v-model="selectorderid"
-            label="Order ID"
-            @change="edit_filter('plant')"
-          ></v-text-field>
+          <v-text-field v-model="selectorderid" label="Order ID" @change="edit_filter('plant')"></v-text-field>
         </v-list-item-content>
       </v-list-item>
       <v-list-item v-if="this.$route.path === '/'">
         <v-list-item-content class="py-0">
-          <v-text-field
-            v-model="selectorderno"
-            label="Order NO"
-            @change="edit_filter('plant')"
-          ></v-text-field>
+          <v-text-field v-model="selectorderno" label="Order NO" @change="edit_filter('plant')"></v-text-field>
         </v-list-item-content>
       </v-list-item>
       <v-list-item v-if="this.$route.path === '/condition'">
@@ -252,7 +224,7 @@ export default {
     }
   },
   async created() {
-    //   this.convertData();
+    this.convertData();
 
     //state割り当て
     this.selectregion = this.stateFilterData.selectregion;
@@ -475,8 +447,6 @@ export default {
         return (
           (this.selectregion.length == 0 ||
             this.selectregion.indexOf(item.region) >= 0) &&
-          (this.selectcustomer.length == 0 ||
-            this.selectcustomer.indexOf(item.customer) >= 0) &&
           (!this.to_date ||
             new Date(item.prod_start_time_local) < new Date(this.to_date)) &&
           (!this.from_date ||
@@ -648,7 +618,6 @@ export default {
         delete order.loss_rate;
         delete order.loss_volume;
         delete order.nominal_prod_speed;
-        delete order.prod_volume;
         delete order.rcmd_speed;
         delete order.supplied_volume;
 

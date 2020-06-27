@@ -6,10 +6,7 @@
           <v-toolbar dense class="transparent" flat>
             <v-toolbar-title>Order</v-toolbar-title>
           </v-toolbar>
-          <highcharts
-            v-if="Object.keys(viewdata).length > 0"
-            :options="orderDonut"
-          />
+          <highcharts v-if="Object.keys(viewdata).length > 0" :options="orderDonut" />
         </v-card>
       </v-col>
 
@@ -18,10 +15,7 @@
           <v-toolbar dense class="transparent" flat>
             <v-toolbar-title>Volume</v-toolbar-title>
           </v-toolbar>
-          <highcharts
-            v-if="Object.keys(viewdata).length > 0"
-            :options="volDonut"
-          />
+          <highcharts v-if="Object.keys(viewdata).length > 0" :options="volDonut" />
         </v-card>
       </v-col>
 
@@ -30,21 +24,10 @@
           <v-toolbar dense class="transparent" flat>
             <v-toolbar-title>Weight</v-toolbar-title>
           </v-toolbar>
-          <highcharts
-            v-if="Object.keys(viewdata).length > 0"
-            :options="volsizeDonut"
-          />
+          <highcharts v-if="Object.keys(viewdata).length > 0" :options="weightDonut" />
         </v-card>
       </v-col>
-      <v-col
-        v-if="productivity"
-        class="pa-2"
-        xl="3"
-        lg="3"
-        md="3"
-        sm="6"
-        cols="12"
-      >
+      <v-col v-if="productivity" class="pa-2" xl="3" lg="3" md="3" sm="6" cols="12">
         <v-card class="translucent" tile>
           <v-toolbar dense class="transparent" flat>
             <v-toolbar-title>Productivity</v-toolbar-title>
@@ -55,14 +38,11 @@
                   <v-icon>help</v-icon>
                 </v-btn>
               </template>
-              <span> </span>
+              <span></span>
             </v-tooltip>
           </v-toolbar>
 
-          <highcharts
-            v-if="Object.keys(viewdata).length > 0"
-            :options="prodDonut"
-          />
+          <highcharts v-if="Object.keys(viewdata).length > 0" :options="prodDonut" />
         </v-card>
       </v-col>
     </v-row>
@@ -94,7 +74,7 @@ export default {
         Volume: {
           donut_data: {}
         },
-        "Volume x Size": {
+        Weight: {
           donut_data: {}
         },
         Productivity: {
@@ -105,7 +85,7 @@ export default {
       //Setting for Highcharts
       orderDonut: {},
       volDonut: {},
-      volsizeDonut: {},
+      weightDonut: {},
       prodDonut: {},
       defaultOptions: {
         chart: {
@@ -197,18 +177,17 @@ export default {
         }
       );
     },
-    volsizeTotal: function() {
-      let volsizedata = this.donuts_objs["Volume x Size"].donut_data
-        .datasets[0];
+    weightTotal: function() {
+      let weightdata = this.donuts_objs.Weight.donut_data.datasets[0];
       if (!this.unit_inch) {
         //単位：mの場合
-        return volsizedata.data.reduce(function(a, x) {
+        return weightdata.data.reduce(function(a, x) {
           return a + x;
         });
       } else {
         //単位：inの場合
         return Math.round(
-          (volsizedata.data.reduce(function(a, x) {
+          (weightdata.data.reduce(function(a, x) {
             return a + x;
           }) *
             1550) /
@@ -240,10 +219,11 @@ export default {
   },
   methods: {
     createDonutData() {
-      let view_A = this.viewdata["A"] ? this.viewdata["A"] : [];
-      let view_B = this.viewdata["B"] ? this.viewdata["B"] : [];
-      let view_C = this.viewdata["C"] ? this.viewdata["C"] : [];
-      let view_D = this.viewdata["D"] ? this.viewdata["D"] : [];
+      //★セグメント名をいちいち指定せずにドーナツデータ作れないのか？
+      let view_A = this.viewdata["Candy"] ? this.viewdata["Candy"] : [];
+      let view_B = this.viewdata["Chocolate"] ? this.viewdata["Chocolate"] : [];
+      let view_C = this.viewdata["Cookie"] ? this.viewdata["Cookie"] : [];
+      let view_D = this.viewdata["Gum"] ? this.viewdata["Gum"] : [];
 
       let count_a = view_A.length;
       let count_b = view_B.length;
@@ -267,20 +247,14 @@ export default {
       let sump_D = view_D.reduce(func_sumproductivity, 0);
 
       const func_sumshtxs = (accumulator, currentValue) => {
-        return (
-          accumulator +
-          parseInt(
-            (currentValue["prod_volume"] *
-              currentValue["sheetsize_length_mm"] *
-              currentValue["sheetsize_width_mm"]) /
-              1000000
-          )
-        );
+        return accumulator + parseInt(currentValue["weight"]);
       };
       let sumshtxs_A = view_A.reduce(func_sumshtxs, 0);
       let sumshtxs_B = view_B.reduce(func_sumshtxs, 0);
       let sumshtxs_C = view_C.reduce(func_sumshtxs, 0);
       let sumshtxs_D = view_D.reduce(func_sumshtxs, 0);
+
+      console.log(this.donuts_objs);
 
       this.donuts_objs["Order"].donut_data = {
         datasets: [
@@ -298,7 +272,7 @@ export default {
         ],
         labels: ["A", "B", "C", "D"]
       };
-      this.donuts_objs["Volume x Size"].donut_data = {
+      this.donuts_objs["Weight"].donut_data = {
         datasets: [
           {
             data: [sumshtxs_A, sumshtxs_B, sumshtxs_C, sumshtxs_D]
@@ -324,7 +298,7 @@ export default {
     pushData() {
       this.orderDonut = this.$_.cloneDeep(this.defaultOptions);
       this.volDonut = this.$_.cloneDeep(this.defaultOptions);
-      this.volsizeDonut = this.$_.cloneDeep(this.defaultOptions);
+      this.weightDonut = this.$_.cloneDeep(this.defaultOptions);
       this.prodDonut = this.$_.cloneDeep(this.defaultOptions);
 
       this.orderDonut.subtitle.text =
@@ -333,7 +307,7 @@ export default {
       this.volDonut.subtitle.text =
         "<span style='position:absolute; top:47px; left:10px; font-size:14px;'>packages</span>";
 
-      this.volsizeDonut.subtitle.text =
+      this.weightDonut.subtitle.text =
         "<span style='position:absolute; top:47px; left:-10px; font-size:14px;'>kg</span>";
 
       this.prodDonut.subtitle.text =
@@ -345,94 +319,42 @@ export default {
       if (this.productivity) {
         //有料会員の場合内訳も表示する
         let orderarr = [
-          ["A", this.donuts_objs.Order.donut_data.datasets[0].data[0]],
-          ["B", this.donuts_objs.Order.donut_data.datasets[0].data[1]],
-          ["C", this.donuts_objs.Order.donut_data.datasets[0].data[2]],
-          ["D", this.donuts_objs.Order.donut_data.datasets[0].data[3]]
+          ["Candy", this.donuts_objs.Order.donut_data.datasets[0].data[0]],
+          ["Chocolate", this.donuts_objs.Order.donut_data.datasets[0].data[1]],
+          ["Cookie", this.donuts_objs.Order.donut_data.datasets[0].data[2]],
+          ["Gum", this.donuts_objs.Order.donut_data.datasets[0].data[3]]
         ];
 
         orderarr.forEach(el => this.orderDonut.series[0].data.push(el));
         this.orderDonut.title.text = this.orderTotal.toLocaleString();
 
+        console.log(this.orderDonut);
+
         let volarr = [
-          ["A", this.donuts_objs.Volume.donut_data.datasets[0].data[0]],
-          ["B", this.donuts_objs.Volume.donut_data.datasets[0].data[1]],
-          ["C", this.donuts_objs.Volume.donut_data.datasets[0].data[2]],
-          ["D", this.donuts_objs.Volume.donut_data.datasets[0].data[3]]
+          ["Candy", this.donuts_objs.Volume.donut_data.datasets[0].data[0]],
+          ["Chocolate", this.donuts_objs.Volume.donut_data.datasets[0].data[1]],
+          ["Cookie", this.donuts_objs.Volume.donut_data.datasets[0].data[2]],
+          ["Gum", this.donuts_objs.Volume.donut_data.datasets[0].data[3]]
         ];
 
         volarr.forEach(el => this.volDonut.series[0].data.push(el));
         this.volDonut.title.text = this.volTotal.toLocaleString();
 
-        let volsizearr = [];
+        let weightarr = [];
+        console.log(this.donuts_objs);
 
-        if (!this.unit_inch) {
-          //単位：mの場合
-          volsizearr = [
-            [
-              "A",
-              this.donuts_objs["Volume x Size"].donut_data.datasets[0].data[0]
-            ],
-            [
-              "B",
-              this.donuts_objs["Volume x Size"].donut_data.datasets[0].data[1]
-            ],
-            [
-              "C",
-              this.donuts_objs["Volume x Size"].donut_data.datasets[0].data[2]
-            ],
-            [
-              "D",
-              this.donuts_objs["Volume x Size"].donut_data.datasets[0].data[3]
-            ]
-          ];
-        } else {
-          //単位：inの場合
-          volsizearr = [
-            [
-              "A",
-              Math.round(
-                (this.donuts_objs["Volume x Size"].donut_data.datasets[0]
-                  .data[0] *
-                  1550) /
-                  1000
-              )
-            ],
-            [
-              "B",
-              Math.round(
-                (this.donuts_objs["Volume x Size"].donut_data.datasets[0]
-                  .data[1] *
-                  1550) /
-                  1000
-              )
-            ],
-            [
-              "C",
-              Math.round(
-                (this.donuts_objs["Volume x Size"].donut_data.datasets[0]
-                  .data[2] *
-                  1550) /
-                  1000
-              )
-            ],
-            [
-              "D",
-              Math.round(
-                (this.donuts_objs["Volume x Size"].donut_data.datasets[0]
-                  .data[3] *
-                  1550) /
-                  1000
-              )
-            ]
-          ];
+        weightarr = [
+          ["Candy", this.donuts_objs["Weight"].donut_data.datasets[0].data[0]],
+          [
+            "Chocolate",
+            this.donuts_objs["Weight"].donut_data.datasets[0].data[1]
+          ],
+          ["Cookie", this.donuts_objs["Weight"].donut_data.datasets[0].data[2]],
+          ["Gum", this.donuts_objs["Weight"].donut_data.datasets[0].data[3]]
+        ];
 
-          this.volsizeDonut.subtitle.text =
-            "<span style='position:absolute; top:47px; left:-10px; font-size:14px;'>kg</span>";
-        }
-
-        volsizearr.forEach(el => this.volsizeDonut.series[0].data.push(el));
-        this.volsizeDonut.title.text = this.volsizeTotal.toLocaleString();
+        weightarr.forEach(el => this.weightDonut.series[0].data.push(el));
+        this.weightDonut.title.text = this.weightTotal.toLocaleString();
 
         let prodarr = [
           ["A", this.donuts_objs.Productivity.donut_data.datasets[0].data[0]],
@@ -441,38 +363,8 @@ export default {
 
         prodarr.forEach(el => this.prodDonut.series[0].data.push(el));
         this.prodDonut.title.text = this.prodTotal.toLocaleString();
-      } else {
-        //有料会員でない場合は合計値のみ表示する
-        this.orderDonut.series[0].data.push(["", null]);
-        this.orderDonut.title.text = this.orderTotal.toLocaleString();
-        this.orderDonut.chart.height = "100px";
-        this.orderDonut.title.y = 10;
-        this.orderDonut.subtitle.y = -40;
-
-        this.volDonut.series[0].data.push(["", null]);
-        this.volDonut.title.text = this.volTotal.toLocaleString();
-        this.volDonut.chart.height = "100px";
-        this.volDonut.title.y = 10;
-        this.volDonut.subtitle.y = -40;
-
-        this.volsizeDonut.series[0].data.push(["", null]);
-        this.volsizeDonut.title.text = this.volsizeTotal.toLocaleString();
-        this.volsizeDonut.chart.height = "100px";
-        this.volsizeDonut.title.y = 10;
-        this.volsizeDonut.subtitle.y = -40;
-
-        if (!this.unit_inch) {
-          //単位：mの場合
-          this.volsizeDonut.title.text = this.volsizeTotal.toLocaleString();
-        } else {
-          //単位：inの場合
-          this.volsizeDonut.title.text = this.volsizeTotal.toLocaleString();
-          this.volsizeDonut.subtitle.text =
-            "<span style='position:absolute; top:47px; left:-10px; font-size:14px;'>kg</span>";
-        }
-        this.prodDonut.series[0].data.push(["", null]);
-        this.prodDonut.title.text = this.prodTotal.toLocaleString();
       }
+      console.log(this.orderDonut);
     }
   }
 };
