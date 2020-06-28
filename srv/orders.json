@@ -10184,6 +10184,2556 @@
   },
   {
     "order_no": "5599",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-13T12:18:10",
+    "prod_end_time_local": "2019-12-13T12:46:09",
+    "prod_time": 14.1,
+    "stop_time": 6.9,
+    "prod_volume": 1589,
+    "stop_count": 3,
+    "prod_speed_ratio": 0.322,
+    "productivity": 0.216,
+    "stop_count_per_vol": 18.88,
+    "segment": "Chocolate",
+    "x": "2019-12-13T12:18:10",
+    "y": 0.216,
+    "weight": 849.1
+  },
+  {
+    "order_no": "5600",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-13T12:46:11",
+    "prod_end_time_local": "2019-12-13T13:41:09",
+    "prod_time": 14.2,
+    "stop_time": 27.8,
+    "prod_volume": 1236,
+    "stop_count": 3,
+    "prod_speed_ratio": 0.249,
+    "productivity": 0.084,
+    "stop_count_per_vol": 24.272,
+    "segment": "Chocolate",
+    "x": "2019-12-13T12:46:11",
+    "y": 0.084,
+    "weight": 480.7
+  },
+  {
+    "order_no": "5601",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-13T13:50:11",
+    "prod_end_time_local": "2019-12-13T20:08:08",
+    "prod_time": 291.8,
+    "stop_time": 65.2,
+    "prod_volume": 36975,
+    "stop_count": 28,
+    "prod_speed_ratio": 0.362,
+    "productivity": 0.296,
+    "stop_count_per_vol": 7.573,
+    "segment": "Gum",
+    "x": "2019-12-13T13:50:11",
+    "y": 0.296,
+    "weight": 13205
+  },
+  {
+    "order_no": "5602",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-13T20:08:10",
+    "prod_end_time_local": "2019-12-13T23:34:08",
+    "prod_time": 140.7,
+    "stop_time": 39.3,
+    "prod_volume": 25050,
+    "stop_count": 11,
+    "prod_speed_ratio": 0.509,
+    "productivity": 0.398,
+    "stop_count_per_vol": 4.391,
+    "segment": "Gum",
+    "x": "2019-12-13T20:08:10",
+    "y": 0.398,
+    "weight": 20308.5
+  },
+  {
+    "order_no": "5603",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-13T23:34:10",
+    "prod_end_time_local": "2019-12-14T03:35:08",
+    "prod_time": 157.6,
+    "stop_time": 35.6,
+    "prod_volume": 19375,
+    "stop_count": 18,
+    "prod_speed_ratio": 0.351,
+    "productivity": 0.287,
+    "stop_count_per_vol": 9.29,
+    "segment": "Gum",
+    "x": "2019-12-13T23:34:10",
+    "y": 0.287,
+    "weight": 7179.9
+  },
+  {
+    "order_no": "5604",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-14T03:35:09",
+    "prod_end_time_local": "2019-12-14T05:37:08",
+    "prod_time": 96.1,
+    "stop_time": 11.9,
+    "prod_volume": 20806,
+    "stop_count": 8,
+    "prod_speed_ratio": 0.619,
+    "productivity": 0.55,
+    "stop_count_per_vol": 3.845,
+    "segment": "Cookie",
+    "x": "2019-12-14T03:35:09",
+    "y": 0.55,
+    "weight": 17665.5
+  },
+  {
+    "order_no": "5605",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-14T05:37:10",
+    "prod_end_time_local": "2019-12-14T08:10:10",
+    "prod_time": 94.2,
+    "stop_time": 50.9,
+    "prod_volume": 20400,
+    "stop_count": 5,
+    "prod_speed_ratio": 0.619,
+    "productivity": 0.402,
+    "stop_count_per_vol": 2.451,
+    "segment": "Gum",
+    "x": "2019-12-14T05:37:10",
+    "y": 0.402,
+    "weight": 16831.4
+  },
+  {
+    "order_no": "5606",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-14T08:10:13",
+    "prod_end_time_local": "2019-12-14T10:38:08",
+    "prod_time": 87.4,
+    "stop_time": 51.6,
+    "prod_volume": 8601,
+    "stop_count": 19,
+    "prod_speed_ratio": 0.281,
+    "productivity": 0.177,
+    "stop_count_per_vol": 22.09,
+    "segment": "Gum",
+    "x": "2019-12-14T08:10:13",
+    "y": 0.177,
+    "weight": 3008.9
+  },
+  {
+    "order_no": "5607",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-14T10:38:10",
+    "prod_end_time_local": "2019-12-14T11:48:09",
+    "prod_time": 33.1,
+    "stop_time": 25.9,
+    "prod_volume": 3063,
+    "stop_count": 6,
+    "prod_speed_ratio": 0.264,
+    "productivity": 0.148,
+    "stop_count_per_vol": 19.589,
+    "segment": "Gum",
+    "x": "2019-12-14T10:38:10",
+    "y": 0.148,
+    "weight": 2087
+  },
+  {
+    "order_no": "5608",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-14T11:48:10",
+    "prod_end_time_local": "2019-12-14T12:38:09",
+    "prod_time": 24.1,
+    "stop_time": 7.9,
+    "prod_volume": 3021,
+    "stop_count": 3,
+    "prod_speed_ratio": 0.359,
+    "productivity": 0.27,
+    "stop_count_per_vol": 9.93,
+    "segment": "Chocolate",
+    "x": "2019-12-14T11:48:10",
+    "y": 0.27,
+    "weight": 2302.8
+  },
+  {
+    "order_no": "5609",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-14T12:38:10",
+    "prod_end_time_local": "2019-12-15T08:10:09",
+    "prod_time": 69.3,
+    "stop_time": 1078.8,
+    "prod_volume": 7712,
+    "stop_count": 11,
+    "prod_speed_ratio": 0.318,
+    "productivity": 0.019,
+    "stop_count_per_vol": 14.263,
+    "segment": "Gum",
+    "x": "2019-12-14T12:38:10",
+    "y": 0.019,
+    "weight": 5833.9
+  },
+  {
+    "order_no": "5610",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-15T08:10:10",
+    "prod_end_time_local": "2019-12-15T10:36:09",
+    "prod_time": 53.1,
+    "stop_time": 30.9,
+    "prod_volume": 6236,
+    "stop_count": 4,
+    "prod_speed_ratio": 0.336,
+    "productivity": 0.212,
+    "stop_count_per_vol": 6.414,
+    "segment": "Chocolate",
+    "x": "2019-12-15T08:10:10",
+    "y": 0.212,
+    "weight": 4146.6
+  },
+  {
+    "order_no": "5611",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-15T10:36:11",
+    "prod_end_time_local": "2019-12-15T12:14:09",
+    "prod_time": 38.1,
+    "stop_time": 10,
+    "prod_volume": 3464,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.26,
+    "productivity": 0.206,
+    "stop_count_per_vol": 5.774,
+    "segment": "Chocolate",
+    "x": "2019-12-15T10:36:11",
+    "y": 0.206,
+    "weight": 2536.2
+  },
+  {
+    "order_no": "5612",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-15T12:14:10",
+    "prod_end_time_local": "2019-12-15T21:01:08",
+    "prod_time": 184.2,
+    "stop_time": 323.8,
+    "prod_volume": 20365,
+    "stop_count": 8,
+    "prod_speed_ratio": 0.316,
+    "productivity": 0.115,
+    "stop_count_per_vol": 3.928,
+    "segment": "Gum",
+    "x": "2019-12-15T12:14:10",
+    "y": 0.115,
+    "weight": 7440
+  },
+  {
+    "order_no": "5613",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-15T21:01:10",
+    "prod_end_time_local": "2019-12-15T22:36:08",
+    "prod_time": 35,
+    "stop_time": 38.2,
+    "prod_volume": 6184,
+    "stop_count": 8,
+    "prod_speed_ratio": 0.505,
+    "productivity": 0.241,
+    "stop_count_per_vol": 12.937,
+    "segment": "Gum",
+    "x": "2019-12-15T21:01:10",
+    "y": 0.241,
+    "weight": 3846.4
+  },
+  {
+    "order_no": "5614",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-15T22:36:10",
+    "prod_end_time_local": "2019-12-16T02:01:56",
+    "prod_time": 79,
+    "stop_time": 79.8,
+    "prod_volume": 5711,
+    "stop_count": 14,
+    "prod_speed_ratio": 0.207,
+    "productivity": 0.103,
+    "stop_count_per_vol": 24.514,
+    "segment": "Gum",
+    "x": "2019-12-15T22:36:10",
+    "y": 0.103,
+    "weight": 6262.2
+  },
+  {
+    "order_no": "5615",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-16T02:02:09",
+    "prod_end_time_local": "2019-12-16T03:24:08",
+    "prod_time": 29.2,
+    "stop_time": 18.9,
+    "prod_volume": 4373,
+    "stop_count": 9,
+    "prod_speed_ratio": 0.429,
+    "productivity": 0.26,
+    "stop_count_per_vol": 20.581,
+    "segment": "Gum",
+    "x": "2019-12-16T02:02:09",
+    "y": 0.26,
+    "weight": 4065.2
+  },
+  {
+    "order_no": "5616",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-16T03:24:09",
+    "prod_end_time_local": "2019-12-16T07:25:09",
+    "prod_time": 128.5,
+    "stop_time": 101.7,
+    "prod_volume": 15969,
+    "stop_count": 20,
+    "prod_speed_ratio": 0.355,
+    "productivity": 0.198,
+    "stop_count_per_vol": 12.524,
+    "segment": "Gum",
+    "x": "2019-12-16T03:24:09",
+    "y": 0.198,
+    "weight": 5289.7
+  },
+  {
+    "order_no": "5617",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-16T07:25:11",
+    "prod_end_time_local": "2019-12-16T10:34:09",
+    "prod_time": 138.2,
+    "stop_time": 27.8,
+    "prod_volume": 26039,
+    "stop_count": 9,
+    "prod_speed_ratio": 0.538,
+    "productivity": 0.448,
+    "stop_count_per_vol": 3.456,
+    "segment": "Gum",
+    "x": "2019-12-16T07:25:11",
+    "y": 0.448,
+    "weight": 15439
+  },
+  {
+    "order_no": "5618",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-16T10:34:10",
+    "prod_end_time_local": "2019-12-16T12:59:09",
+    "prod_time": 76.1,
+    "stop_time": 54.9,
+    "prod_volume": 16337,
+    "stop_count": 4,
+    "prod_speed_ratio": 0.614,
+    "productivity": 0.356,
+    "stop_count_per_vol": 2.448,
+    "segment": "Chocolate",
+    "x": "2019-12-16T10:34:10",
+    "y": 0.356,
+    "weight": 3816.8
+  },
+  {
+    "order_no": "5619",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-16T12:59:10",
+    "prod_end_time_local": "2019-12-16T14:48:08",
+    "prod_time": 79.2,
+    "stop_time": 9.8,
+    "prod_volume": 12262,
+    "stop_count": 7,
+    "prod_speed_ratio": 0.443,
+    "productivity": 0.394,
+    "stop_count_per_vol": 5.709,
+    "segment": "Gum",
+    "x": "2019-12-16T12:59:10",
+    "y": 0.394,
+    "weight": 11715
+  },
+  {
+    "order_no": "5620",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-16T14:48:09",
+    "prod_end_time_local": "2019-12-17T10:48:09",
+    "prod_time": 46.2,
+    "stop_time": 1142.8,
+    "prod_volume": 2998,
+    "stop_count": 6,
+    "prod_speed_ratio": 0.185,
+    "productivity": 0.007,
+    "stop_count_per_vol": 20.013,
+    "segment": "Gum",
+    "x": "2019-12-16T14:48:09",
+    "y": 0.007,
+    "weight": 1077.7
+  },
+  {
+    "order_no": "5621",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-17T10:48:10",
+    "prod_end_time_local": "2019-12-17T14:02:09",
+    "prod_time": 124.3,
+    "stop_time": 66.7,
+    "prod_volume": 16984,
+    "stop_count": 12,
+    "prod_speed_ratio": 0.39,
+    "productivity": 0.254,
+    "stop_count_per_vol": 7.065,
+    "segment": "Gum",
+    "x": "2019-12-17T10:48:10",
+    "y": 0.254,
+    "weight": 15934
+  },
+  {
+    "order_no": "5622",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-17T14:02:11",
+    "prod_end_time_local": "2019-12-17T14:48:09",
+    "prod_time": 20.1,
+    "stop_time": 21.9,
+    "prod_volume": 3448,
+    "stop_count": 5,
+    "prod_speed_ratio": 0.49,
+    "productivity": 0.235,
+    "stop_count_per_vol": 14.501,
+    "segment": "Gum",
+    "x": "2019-12-17T14:02:11",
+    "y": 0.235,
+    "weight": 1925.3
+  },
+  {
+    "order_no": "5623",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-17T14:48:11",
+    "prod_end_time_local": "2019-12-17T16:25:09",
+    "prod_time": 62.3,
+    "stop_time": 30.7,
+    "prod_volume": 9162,
+    "stop_count": 9,
+    "prod_speed_ratio": 0.42,
+    "productivity": 0.281,
+    "stop_count_per_vol": 9.823,
+    "segment": "Gum",
+    "x": "2019-12-17T14:48:11",
+    "y": 0.281,
+    "weight": 3993.2
+  },
+  {
+    "order_no": "5624",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-17T16:25:10",
+    "prod_end_time_local": "2019-12-17T16:38:09",
+    "prod_time": 9,
+    "stop_time": 0,
+    "prod_volume": 1032,
+    "stop_count": 0,
+    "prod_speed_ratio": 0.328,
+    "productivity": 0.328,
+    "stop_count_per_vol": 0,
+    "segment": "Chocolate",
+    "x": "2019-12-17T16:25:10",
+    "y": 0.328,
+    "weight": 505.7
+  },
+  {
+    "order_no": "5625",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-17T16:38:10",
+    "prod_end_time_local": "2019-12-17T17:23:09",
+    "prod_time": 33.1,
+    "stop_time": 6.9,
+    "prod_volume": 5253,
+    "stop_count": 3,
+    "prod_speed_ratio": 0.454,
+    "productivity": 0.375,
+    "stop_count_per_vol": 5.711,
+    "segment": "Chocolate",
+    "x": "2019-12-17T16:38:10",
+    "y": 0.375,
+    "weight": 4248.2
+  },
+  {
+    "order_no": "5626",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-17T17:23:11",
+    "prod_end_time_local": "2019-12-17T17:48:08",
+    "prod_time": 16,
+    "stop_time": 1,
+    "prod_volume": 2902,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.517,
+    "productivity": 0.488,
+    "stop_count_per_vol": 3.446,
+    "segment": "Chocolate",
+    "x": "2019-12-17T17:23:11",
+    "y": 0.488,
+    "weight": 1620.5
+  },
+  {
+    "order_no": "5627",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-17T18:31:10",
+    "prod_end_time_local": "2019-12-17T18:54:56",
+    "prod_time": 10.2,
+    "stop_time": 8.8,
+    "prod_volume": 700,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.196,
+    "productivity": 0.105,
+    "stop_count_per_vol": 14.286,
+    "segment": "Chocolate",
+    "x": "2019-12-17T18:31:10",
+    "y": 0.105,
+    "weight": 574.2
+  },
+  {
+    "order_no": "5628",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-17T18:55:08",
+    "prod_end_time_local": "2019-12-17T19:07:56",
+    "prod_time": 7,
+    "stop_time": 0,
+    "prod_volume": 701,
+    "stop_count": 0,
+    "prod_speed_ratio": 0.286,
+    "productivity": 0.286,
+    "stop_count_per_vol": 0,
+    "segment": "Chocolate",
+    "x": "2019-12-17T18:55:08",
+    "y": 0.286,
+    "weight": 535.6
+  },
+  {
+    "order_no": "5629",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-17T19:08:08",
+    "prod_end_time_local": "2019-12-17T19:16:09",
+    "prod_time": 5.2,
+    "stop_time": 0,
+    "prod_volume": 405,
+    "stop_count": 0,
+    "prod_speed_ratio": 0.222,
+    "productivity": 0.222,
+    "stop_count_per_vol": 0,
+    "segment": "Chocolate",
+    "x": "2019-12-17T19:08:08",
+    "y": 0.222,
+    "weight": 294.8
+  },
+  {
+    "order_no": "5630",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-17T19:16:11",
+    "prod_end_time_local": "2019-12-17T19:29:09",
+    "prod_time": 7,
+    "stop_time": 0,
+    "prod_volume": 905,
+    "stop_count": 0,
+    "prod_speed_ratio": 0.369,
+    "productivity": 0.369,
+    "stop_count_per_vol": 0,
+    "segment": "Chocolate",
+    "x": "2019-12-17T19:16:11",
+    "y": 0.369,
+    "weight": 659.8
+  },
+  {
+    "order_no": "5631",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-17T20:04:09",
+    "prod_end_time_local": "2019-12-17T21:25:08",
+    "prod_time": 59.4,
+    "stop_time": 11.8,
+    "prod_volume": 9273,
+    "stop_count": 5,
+    "prod_speed_ratio": 0.446,
+    "productivity": 0.372,
+    "stop_count_per_vol": 5.392,
+    "segment": "Gum",
+    "x": "2019-12-17T20:04:09",
+    "y": 0.372,
+    "weight": 6213.9
+  },
+  {
+    "order_no": "5632",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-17T21:25:10",
+    "prod_end_time_local": "2019-12-17T22:17:08",
+    "prod_time": 30.1,
+    "stop_time": 5.9,
+    "prod_volume": 4199,
+    "stop_count": 3,
+    "prod_speed_ratio": 0.399,
+    "productivity": 0.333,
+    "stop_count_per_vol": 7.145,
+    "segment": "Chocolate",
+    "x": "2019-12-17T21:25:10",
+    "y": 0.333,
+    "weight": 1779.7
+  },
+  {
+    "order_no": "5633",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-17T22:17:10",
+    "prod_end_time_local": "2019-12-18T00:35:56",
+    "prod_time": 86.9,
+    "stop_time": 35.9,
+    "prod_volume": 3254,
+    "stop_count": 13,
+    "prod_speed_ratio": 0.107,
+    "productivity": 0.076,
+    "stop_count_per_vol": 39.951,
+    "segment": "Gum",
+    "x": "2019-12-17T22:17:10",
+    "y": 0.076,
+    "weight": 3825.7
+  },
+  {
+    "order_no": "5634",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-18T00:36:08",
+    "prod_end_time_local": "2019-12-18T01:35:57",
+    "prod_time": 43,
+    "stop_time": 6,
+    "prod_volume": 10191,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.677,
+    "productivity": 0.594,
+    "stop_count_per_vol": 1.963,
+    "segment": "Candy",
+    "x": "2019-12-18T00:36:08",
+    "y": 0.594,
+    "weight": 7018
+  },
+  {
+    "order_no": "5635",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-18T01:36:08",
+    "prod_end_time_local": "2019-12-18T02:01:08",
+    "prod_time": 12,
+    "stop_time": 7,
+    "prod_volume": 1306,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.31,
+    "productivity": 0.196,
+    "stop_count_per_vol": 15.314,
+    "segment": "Chocolate",
+    "x": "2019-12-18T01:36:08",
+    "y": 0.196,
+    "weight": 1001.5
+  },
+  {
+    "order_no": "5636",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-18T02:01:09",
+    "prod_end_time_local": "2019-12-18T03:59:07",
+    "prod_time": 91.1,
+    "stop_time": 12.9,
+    "prod_volume": 9501,
+    "stop_count": 3,
+    "prod_speed_ratio": 0.298,
+    "productivity": 0.261,
+    "stop_count_per_vol": 3.158,
+    "segment": "Chocolate",
+    "x": "2019-12-18T02:01:09",
+    "y": 0.261,
+    "weight": 6526.2
+  },
+  {
+    "order_no": "5637",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-18T03:59:08",
+    "prod_end_time_local": "2019-12-18T08:03:09",
+    "prod_time": 106.8,
+    "stop_time": 87.5,
+    "prod_volume": 17098,
+    "stop_count": 8,
+    "prod_speed_ratio": 0.458,
+    "productivity": 0.252,
+    "stop_count_per_vol": 4.679,
+    "segment": "Gum",
+    "x": "2019-12-18T03:59:08",
+    "y": 0.252,
+    "weight": 11715.2
+  },
+  {
+    "order_no": "5638",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-18T08:03:11",
+    "prod_end_time_local": "2019-12-18T10:23:09",
+    "prod_time": 44.1,
+    "stop_time": 59.9,
+    "prod_volume": 5198,
+    "stop_count": 7,
+    "prod_speed_ratio": 0.336,
+    "productivity": 0.143,
+    "stop_count_per_vol": 13.467,
+    "segment": "Gum",
+    "x": "2019-12-18T08:03:11",
+    "y": 0.143,
+    "weight": 3630
+  },
+  {
+    "order_no": "5639",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-18T10:23:11",
+    "prod_end_time_local": "2019-12-18T12:12:09",
+    "prod_time": 54.2,
+    "stop_time": 17.8,
+    "prod_volume": 2697,
+    "stop_count": 8,
+    "prod_speed_ratio": 0.142,
+    "productivity": 0.107,
+    "stop_count_per_vol": 29.663,
+    "segment": "Gum",
+    "x": "2019-12-18T10:23:11",
+    "y": 0.107,
+    "weight": 1959.2
+  },
+  {
+    "order_no": "5640",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-18T12:12:11",
+    "prod_end_time_local": "2019-12-18T16:04:09",
+    "prod_time": 61.4,
+    "stop_time": 149.5,
+    "prod_volume": 8065,
+    "stop_count": 16,
+    "prod_speed_ratio": 0.375,
+    "productivity": 0.109,
+    "stop_count_per_vol": 19.839,
+    "segment": "Gum",
+    "x": "2019-12-18T12:12:11",
+    "y": 0.109,
+    "weight": 2730.8
+  },
+  {
+    "order_no": "5641",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-18T16:04:11",
+    "prod_end_time_local": "2019-12-18T23:23:08",
+    "prod_time": 206.9,
+    "stop_time": 29.1,
+    "prod_volume": 35255,
+    "stop_count": 13,
+    "prod_speed_ratio": 0.487,
+    "productivity": 0.427,
+    "stop_count_per_vol": 3.687,
+    "segment": "Gum",
+    "x": "2019-12-18T16:04:11",
+    "y": 0.427,
+    "weight": 13263.4
+  },
+  {
+    "order_no": "5642",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-18T23:23:10",
+    "prod_end_time_local": "2019-12-19T00:26:56",
+    "prod_time": 47.1,
+    "stop_time": 2.7,
+    "prod_volume": 9949,
+    "stop_count": 3,
+    "prod_speed_ratio": 0.604,
+    "productivity": 0.571,
+    "stop_count_per_vol": 3.015,
+    "segment": "Candy",
+    "x": "2019-12-18T23:23:10",
+    "y": 0.571,
+    "weight": 7287.7
+  },
+  {
+    "order_no": "5643",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T00:27:08",
+    "prod_end_time_local": "2019-12-19T01:52:08",
+    "prod_time": 65.9,
+    "stop_time": 11.4,
+    "prod_volume": 10836,
+    "stop_count": 5,
+    "prod_speed_ratio": 0.47,
+    "productivity": 0.401,
+    "stop_count_per_vol": 4.614,
+    "segment": "Gum",
+    "x": "2019-12-19T00:27:08",
+    "y": 0.401,
+    "weight": 8616
+  },
+  {
+    "order_no": "5644",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T01:52:09",
+    "prod_end_time_local": "2019-12-19T04:41:08",
+    "prod_time": 124.4,
+    "stop_time": 35.6,
+    "prod_volume": 20237,
+    "stop_count": 14,
+    "prod_speed_ratio": 0.465,
+    "productivity": 0.361,
+    "stop_count_per_vol": 6.918,
+    "segment": "Gum",
+    "x": "2019-12-19T01:52:09",
+    "y": 0.361,
+    "weight": 16772.4
+  },
+  {
+    "order_no": "5645",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T04:41:09",
+    "prod_end_time_local": "2019-12-19T06:26:08",
+    "prod_time": 64.2,
+    "stop_time": 31.8,
+    "prod_volume": 7055,
+    "stop_count": 12,
+    "prod_speed_ratio": 0.314,
+    "productivity": 0.21,
+    "stop_count_per_vol": 17.009,
+    "segment": "Gum",
+    "x": "2019-12-19T04:41:09",
+    "y": 0.21,
+    "weight": 5143.3
+  },
+  {
+    "order_no": "5646",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T06:26:10",
+    "prod_end_time_local": "2019-12-19T07:21:09",
+    "prod_time": 24.2,
+    "stop_time": 20.9,
+    "prod_volume": 3063,
+    "stop_count": 7,
+    "prod_speed_ratio": 0.362,
+    "productivity": 0.194,
+    "stop_count_per_vol": 22.853,
+    "segment": "Gum",
+    "x": "2019-12-19T06:26:10",
+    "y": 0.194,
+    "weight": 2104.7
+  },
+  {
+    "order_no": "5647",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T07:21:10",
+    "prod_end_time_local": "2019-12-19T09:32:09",
+    "prod_time": 75.2,
+    "stop_time": 51.9,
+    "prod_volume": 10942,
+    "stop_count": 7,
+    "prod_speed_ratio": 0.416,
+    "productivity": 0.246,
+    "stop_count_per_vol": 6.397,
+    "segment": "Gum",
+    "x": "2019-12-19T07:21:10",
+    "y": 0.246,
+    "weight": 9372.3
+  },
+  {
+    "order_no": "5648",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T09:32:11",
+    "prod_end_time_local": "2019-12-19T09:56:09",
+    "prod_time": 19,
+    "stop_time": 0,
+    "prod_volume": 2100,
+    "stop_count": 0,
+    "prod_speed_ratio": 0.316,
+    "productivity": 0.316,
+    "stop_count_per_vol": 0,
+    "segment": "Chocolate",
+    "x": "2019-12-19T09:32:11",
+    "y": 0.316,
+    "weight": 1417.3
+  },
+  {
+    "order_no": "5649",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T09:56:11",
+    "prod_end_time_local": "2019-12-19T10:15:09",
+    "prod_time": 11,
+    "stop_time": 0,
+    "prod_volume": 1143,
+    "stop_count": 0,
+    "prod_speed_ratio": 0.297,
+    "productivity": 0.297,
+    "stop_count_per_vol": 0,
+    "segment": "Chocolate",
+    "x": "2019-12-19T09:56:11",
+    "y": 0.297,
+    "weight": 771.4
+  },
+  {
+    "order_no": "5650",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T10:15:11",
+    "prod_end_time_local": "2019-12-19T10:38:09",
+    "prod_time": 10.1,
+    "stop_time": 7.9,
+    "prod_volume": 1054,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.299,
+    "productivity": 0.167,
+    "stop_count_per_vol": 18.975,
+    "segment": "Chocolate",
+    "x": "2019-12-19T10:15:11",
+    "y": 0.167,
+    "weight": 887.2
+  },
+  {
+    "order_no": "5651",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T11:01:10",
+    "prod_end_time_local": "2019-12-19T11:18:09",
+    "prod_time": 7.1,
+    "stop_time": 3,
+    "prod_volume": 522,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.212,
+    "productivity": 0.149,
+    "stop_count_per_vol": 38.314,
+    "segment": "Chocolate",
+    "x": "2019-12-19T11:01:10",
+    "y": 0.149,
+    "weight": 222.3
+  },
+  {
+    "order_no": "5652",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T11:18:10",
+    "prod_end_time_local": "2019-12-19T11:45:08",
+    "prod_time": 14.1,
+    "stop_time": 3.9,
+    "prod_volume": 833,
+    "stop_count": 3,
+    "prod_speed_ratio": 0.169,
+    "productivity": 0.132,
+    "stop_count_per_vol": 36.014,
+    "segment": "Chocolate",
+    "x": "2019-12-19T11:18:10",
+    "y": 0.132,
+    "weight": 769.2
+  },
+  {
+    "order_no": "5653",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T11:45:10",
+    "prod_end_time_local": "2019-12-19T12:48:09",
+    "prod_time": 42.2,
+    "stop_time": 16.8,
+    "prod_volume": 9612,
+    "stop_count": 8,
+    "prod_speed_ratio": 0.651,
+    "productivity": 0.465,
+    "stop_count_per_vol": 8.323,
+    "segment": "Gum",
+    "x": "2019-12-19T11:45:10",
+    "y": 0.465,
+    "weight": 6441
+  },
+  {
+    "order_no": "5654",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T12:56:11",
+    "prod_end_time_local": "2019-12-19T13:11:09",
+    "prod_time": 8,
+    "stop_time": 2,
+    "prod_volume": 1412,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.503,
+    "productivity": 0.403,
+    "stop_count_per_vol": 7.082,
+    "segment": "Chocolate",
+    "x": "2019-12-19T12:56:11",
+    "y": 0.403,
+    "weight": 946.2
+  },
+  {
+    "order_no": "5655",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T13:11:10",
+    "prod_end_time_local": "2019-12-19T16:27:09",
+    "prod_time": 109.2,
+    "stop_time": 75.8,
+    "prod_volume": 23948,
+    "stop_count": 12,
+    "prod_speed_ratio": 0.626,
+    "productivity": 0.37,
+    "stop_count_per_vol": 5.011,
+    "segment": "Gum",
+    "x": "2019-12-19T13:11:10",
+    "y": 0.37,
+    "weight": 19999.5
+  },
+  {
+    "order_no": "5656",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T16:27:10",
+    "prod_end_time_local": "2019-12-19T19:21:09",
+    "prod_time": 33.2,
+    "stop_time": 22.8,
+    "prod_volume": 2074,
+    "stop_count": 6,
+    "prod_speed_ratio": 0.179,
+    "productivity": 0.106,
+    "stop_count_per_vol": 28.93,
+    "segment": "Gum",
+    "x": "2019-12-19T16:27:10",
+    "y": 0.106,
+    "weight": 2922.4
+  },
+  {
+    "order_no": "5657",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T19:21:11",
+    "prod_end_time_local": "2019-12-19T22:59:08",
+    "prod_time": 149.7,
+    "stop_time": 65.3,
+    "prod_volume": 25370,
+    "stop_count": 15,
+    "prod_speed_ratio": 0.484,
+    "productivity": 0.337,
+    "stop_count_per_vol": 5.912,
+    "segment": "Gum",
+    "x": "2019-12-19T19:21:11",
+    "y": 0.337,
+    "weight": 13681.5
+  },
+  {
+    "order_no": "5658",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-19T22:59:10",
+    "prod_end_time_local": "2019-12-20T02:47:56",
+    "prod_time": 85.4,
+    "stop_time": 124.4,
+    "prod_volume": 4089,
+    "stop_count": 7,
+    "prod_speed_ratio": 0.137,
+    "productivity": 0.056,
+    "stop_count_per_vol": 17.119,
+    "segment": "Gum",
+    "x": "2019-12-19T22:59:10",
+    "y": 0.056,
+    "weight": 5469.4
+  },
+  {
+    "order_no": "5659",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-20T02:48:08",
+    "prod_end_time_local": "2019-12-20T07:07:09",
+    "prod_time": 10,
+    "stop_time": 232,
+    "prod_volume": 1030,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.294,
+    "productivity": 0.012,
+    "stop_count_per_vol": 9.709,
+    "segment": "Chocolate",
+    "x": "2019-12-20T02:48:08",
+    "y": 0.012,
+    "weight": 751.1
+  },
+  {
+    "order_no": "5660",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-20T07:07:10",
+    "prod_end_time_local": "2019-12-20T08:24:09",
+    "prod_time": 27.1,
+    "stop_time": 22,
+    "prod_volume": 3099,
+    "stop_count": 3,
+    "prod_speed_ratio": 0.327,
+    "productivity": 0.181,
+    "stop_count_per_vol": 9.681,
+    "segment": "Chocolate",
+    "x": "2019-12-20T07:07:10",
+    "y": 0.181,
+    "weight": 2654.4
+  },
+  {
+    "order_no": "5661",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-20T08:24:10",
+    "prod_end_time_local": "2019-12-20T09:24:09",
+    "prod_time": 43.1,
+    "stop_time": 8.9,
+    "prod_volume": 9546,
+    "stop_count": 3,
+    "prod_speed_ratio": 0.633,
+    "productivity": 0.525,
+    "stop_count_per_vol": 3.143,
+    "segment": "Candy",
+    "x": "2019-12-20T08:24:10",
+    "y": 0.525,
+    "weight": 8176.6
+  },
+  {
+    "order_no": "5662",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-20T09:24:10",
+    "prod_end_time_local": "2019-12-20T10:11:09",
+    "prod_time": 14.1,
+    "stop_time": 25.9,
+    "prod_volume": 2076,
+    "stop_count": 5,
+    "prod_speed_ratio": 0.421,
+    "productivity": 0.148,
+    "stop_count_per_vol": 24.085,
+    "segment": "Gum",
+    "x": "2019-12-20T09:24:10",
+    "y": 0.148,
+    "weight": 927.1
+  },
+  {
+    "order_no": "5663",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-20T10:11:11",
+    "prod_end_time_local": "2019-12-20T10:41:09",
+    "prod_time": 20,
+    "stop_time": 1,
+    "prod_volume": 3046,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.434,
+    "productivity": 0.414,
+    "stop_count_per_vol": 3.283,
+    "segment": "Chocolate",
+    "x": "2019-12-20T10:11:11",
+    "y": 0.414,
+    "weight": 2312.3
+  },
+  {
+    "order_no": "5664",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-20T10:41:10",
+    "prod_end_time_local": "2019-12-20T11:08:09",
+    "prod_time": 15.1,
+    "stop_time": 4.9,
+    "prod_volume": 1892,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.359,
+    "productivity": 0.27,
+    "stop_count_per_vol": 10.571,
+    "segment": "Chocolate",
+    "x": "2019-12-20T10:41:10",
+    "y": 0.27,
+    "weight": 1464.5
+  },
+  {
+    "order_no": "5665",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-20T11:08:10",
+    "prod_end_time_local": "2019-12-20T11:23:09",
+    "prod_time": 8,
+    "stop_time": 2,
+    "prod_volume": 1032,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.368,
+    "productivity": 0.295,
+    "stop_count_per_vol": 9.69,
+    "segment": "Chocolate",
+    "x": "2019-12-20T11:08:10",
+    "y": 0.295,
+    "weight": 427.5
+  },
+  {
+    "order_no": "5666",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-20T11:23:10",
+    "prod_end_time_local": "2019-12-20T12:57:09",
+    "prod_time": 65.3,
+    "stop_time": 20.8,
+    "prod_volume": 9678,
+    "stop_count": 10,
+    "prod_speed_ratio": 0.424,
+    "productivity": 0.322,
+    "stop_count_per_vol": 10.333,
+    "segment": "Gum",
+    "x": "2019-12-20T11:23:10",
+    "y": 0.322,
+    "weight": 8323.5
+  },
+  {
+    "order_no": "5667",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-20T12:57:11",
+    "prod_end_time_local": "2019-12-20T18:36:08",
+    "prod_time": 257.8,
+    "stop_time": 66.2,
+    "prod_volume": 50694,
+    "stop_count": 28,
+    "prod_speed_ratio": 0.562,
+    "productivity": 0.447,
+    "stop_count_per_vol": 5.523,
+    "segment": "Gum",
+    "x": "2019-12-20T12:57:11",
+    "y": 0.447,
+    "weight": 35453.9
+  },
+  {
+    "order_no": "5668",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-20T18:36:10",
+    "prod_end_time_local": "2019-12-21T01:21:56",
+    "prod_time": 271.6,
+    "stop_time": 102.5,
+    "prod_volume": 25324,
+    "stop_count": 27,
+    "prod_speed_ratio": 0.266,
+    "productivity": 0.193,
+    "stop_count_per_vol": 10.662,
+    "segment": "Gum",
+    "x": "2019-12-20T18:36:10",
+    "y": 0.193,
+    "weight": 21657.3
+  },
+  {
+    "order_no": "5669",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-21T01:22:08",
+    "prod_end_time_local": "2019-12-21T03:38:08",
+    "prod_time": 76.3,
+    "stop_time": 26.7,
+    "prod_volume": 11407,
+    "stop_count": 5,
+    "prod_speed_ratio": 0.427,
+    "productivity": 0.316,
+    "stop_count_per_vol": 4.383,
+    "segment": "Gum",
+    "x": "2019-12-21T01:22:08",
+    "y": 0.316,
+    "weight": 6373.3
+  },
+  {
+    "order_no": "5670",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-21T03:38:09",
+    "prod_end_time_local": "2019-12-21T07:00:08",
+    "prod_time": 135.3,
+    "stop_time": 51.7,
+    "prod_volume": 14580,
+    "stop_count": 9,
+    "prod_speed_ratio": 0.308,
+    "productivity": 0.223,
+    "stop_count_per_vol": 6.173,
+    "segment": "Gum",
+    "x": "2019-12-21T03:38:09",
+    "y": 0.223,
+    "weight": 12506.5
+  },
+  {
+    "order_no": "5671",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-21T07:00:09",
+    "prod_end_time_local": "2019-12-21T09:20:08",
+    "prod_time": 75.6,
+    "stop_time": 55.4,
+    "prod_volume": 5387,
+    "stop_count": 25,
+    "prod_speed_ratio": 0.204,
+    "productivity": 0.117,
+    "stop_count_per_vol": 46.408,
+    "segment": "Gum",
+    "x": "2019-12-21T07:00:09",
+    "y": 0.117,
+    "weight": 2810.5
+  },
+  {
+    "order_no": "5672",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-21T09:20:10",
+    "prod_end_time_local": "2019-12-21T09:58:08",
+    "prod_time": 14,
+    "stop_time": 4,
+    "prod_volume": 1258,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.256,
+    "productivity": 0.2,
+    "stop_count_per_vol": 7.949,
+    "segment": "Chocolate",
+    "x": "2019-12-21T09:20:10",
+    "y": 0.2,
+    "weight": 1369.9
+  },
+  {
+    "order_no": "5673",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-21T09:58:10",
+    "prod_end_time_local": "2019-12-21T11:32:09",
+    "prod_time": 46.4,
+    "stop_time": 38.6,
+    "prod_volume": 3581,
+    "stop_count": 17,
+    "prod_speed_ratio": 0.221,
+    "productivity": 0.12,
+    "stop_count_per_vol": 47.473,
+    "segment": "Gum",
+    "x": "2019-12-21T09:58:10",
+    "y": 0.12,
+    "weight": 5937.2
+  },
+  {
+    "order_no": "5674",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-23T11:23:27",
+    "prod_end_time_local": "2019-12-23T14:42:25",
+    "prod_time": 162.4,
+    "stop_time": 29.6,
+    "prod_volume": 29657,
+    "stop_count": 13,
+    "prod_speed_ratio": 0.522,
+    "productivity": 0.441,
+    "stop_count_per_vol": 4.383,
+    "segment": "Gum",
+    "x": "2019-12-23T11:23:27",
+    "y": 0.441,
+    "weight": 24000.8
+  },
+  {
+    "order_no": "5675",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-23T15:12:27",
+    "prod_end_time_local": "2019-12-23T17:05:25",
+    "prod_time": 45.1,
+    "stop_time": 58.9,
+    "prod_volume": 8665,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.549,
+    "productivity": 0.238,
+    "stop_count_per_vol": 2.308,
+    "segment": "Chocolate",
+    "x": "2019-12-23T15:12:27",
+    "y": 0.238,
+    "weight": 4363.8
+  },
+  {
+    "order_no": "5676",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-23T17:05:26",
+    "prod_end_time_local": "2019-12-23T21:08:24",
+    "prod_time": 148.2,
+    "stop_time": 22.8,
+    "prod_volume": 12563,
+    "stop_count": 12,
+    "prod_speed_ratio": 0.242,
+    "productivity": 0.21,
+    "stop_count_per_vol": 9.552,
+    "segment": "Gum",
+    "x": "2019-12-23T17:05:26",
+    "y": 0.21,
+    "weight": 10744
+  },
+  {
+    "order_no": "5677",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-23T21:08:25",
+    "prod_end_time_local": "2019-12-23T23:52:24",
+    "prod_time": 110.2,
+    "stop_time": 16.8,
+    "prod_volume": 20460,
+    "stop_count": 8,
+    "prod_speed_ratio": 0.531,
+    "productivity": 0.46,
+    "stop_count_per_vol": 3.91,
+    "segment": "Gum",
+    "x": "2019-12-23T21:08:25",
+    "y": 0.46,
+    "weight": 13722.6
+  },
+  {
+    "order_no": "5678",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-23T23:52:25",
+    "prod_end_time_local": "2019-12-24T02:19:24",
+    "prod_time": 125.2,
+    "stop_time": 19.9,
+    "prod_volume": 10591,
+    "stop_count": 10,
+    "prod_speed_ratio": 0.242,
+    "productivity": 0.209,
+    "stop_count_per_vol": 9.442,
+    "segment": "Gum",
+    "x": "2019-12-23T23:52:25",
+    "y": 0.209,
+    "weight": 7103.4
+  },
+  {
+    "order_no": "5679",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-24T02:19:25",
+    "prod_end_time_local": "2019-12-24T05:08:24",
+    "prod_time": 133.2,
+    "stop_time": 26.8,
+    "prod_volume": 25399,
+    "stop_count": 14,
+    "prod_speed_ratio": 0.545,
+    "productivity": 0.454,
+    "stop_count_per_vol": 5.512,
+    "segment": "Gum",
+    "x": "2019-12-24T02:19:25",
+    "y": 0.454,
+    "weight": 17763.3
+  },
+  {
+    "order_no": "5680",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-24T05:08:25",
+    "prod_end_time_local": "2019-12-24T06:56:24",
+    "prod_time": 40.1,
+    "stop_time": 40.9,
+    "prod_volume": 7962,
+    "stop_count": 4,
+    "prod_speed_ratio": 0.568,
+    "productivity": 0.281,
+    "stop_count_per_vol": 5.024,
+    "segment": "Chocolate",
+    "x": "2019-12-24T05:08:25",
+    "y": 0.281,
+    "weight": 5503.6
+  },
+  {
+    "order_no": "5681",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-24T06:56:25",
+    "prod_end_time_local": "2019-12-24T07:44:25",
+    "prod_time": 30.1,
+    "stop_time": 8.9,
+    "prod_volume": 3255,
+    "stop_count": 5,
+    "prod_speed_ratio": 0.309,
+    "productivity": 0.238,
+    "stop_count_per_vol": 15.361,
+    "segment": "Gum",
+    "x": "2019-12-24T06:56:25",
+    "y": 0.238,
+    "weight": 3629.4
+  },
+  {
+    "order_no": "5682",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-24T07:44:26",
+    "prod_end_time_local": "2019-12-27T11:27:48",
+    "prod_time": 290.7,
+    "stop_time": 4239.7,
+    "prod_volume": 14989,
+    "stop_count": 23,
+    "prod_speed_ratio": 0.147,
+    "productivity": 0.009,
+    "stop_count_per_vol": 15.345,
+    "segment": "Gum",
+    "x": "2019-12-24T07:44:26",
+    "y": 0.009,
+    "weight": 24693.5
+  },
+  {
+    "order_no": "5683",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-27T11:27:50",
+    "prod_end_time_local": "2019-12-27T12:58:48",
+    "prod_time": 51.3,
+    "stop_time": 37.7,
+    "prod_volume": 11185,
+    "stop_count": 10,
+    "prod_speed_ratio": 0.623,
+    "productivity": 0.359,
+    "stop_count_per_vol": 8.941,
+    "segment": "Gum",
+    "x": "2019-12-27T11:27:50",
+    "y": 0.359,
+    "weight": 2652.8
+  },
+  {
+    "order_no": "5684",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-27T12:58:50",
+    "prod_end_time_local": "2019-12-27T13:53:48",
+    "prod_time": 33.1,
+    "stop_time": 7.9,
+    "prod_volume": 7466,
+    "stop_count": 4,
+    "prod_speed_ratio": 0.644,
+    "productivity": 0.52,
+    "stop_count_per_vol": 5.358,
+    "segment": "Candy",
+    "x": "2019-12-27T12:58:50",
+    "y": 0.52,
+    "weight": 2931.3
+  },
+  {
+    "order_no": "5685",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-27T13:53:50",
+    "prod_end_time_local": "2019-12-27T14:18:48",
+    "prod_time": 17,
+    "stop_time": 2,
+    "prod_volume": 3781,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.634,
+    "productivity": 0.569,
+    "stop_count_per_vol": 5.29,
+    "segment": "Candy",
+    "x": "2019-12-27T13:53:50",
+    "y": 0.569,
+    "weight": 958.4
+  },
+  {
+    "order_no": "5686",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-27T14:26:50",
+    "prod_end_time_local": "2019-12-27T15:25:48",
+    "prod_time": 33.6,
+    "stop_time": 3.6,
+    "prod_volume": 4702,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.4,
+    "productivity": 0.361,
+    "stop_count_per_vol": 4.254,
+    "segment": "Chocolate",
+    "x": "2019-12-27T14:26:50",
+    "y": 0.361,
+    "weight": 2514
+  },
+  {
+    "order_no": "5687",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-27T15:25:50",
+    "prod_end_time_local": "2019-12-27T19:12:52",
+    "prod_time": 212.1,
+    "stop_time": 8,
+    "prod_volume": 6759,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.091,
+    "productivity": 0.088,
+    "stop_count_per_vol": 1.48,
+    "segment": "Chocolate",
+    "x": "2019-12-27T15:25:50",
+    "y": 0.088,
+    "weight": 3632.4
+  },
+  {
+    "order_no": "5688",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-27T21:05:57",
+    "prod_end_time_local": "2019-12-27T22:35:55",
+    "prod_time": 70,
+    "stop_time": 1,
+    "prod_volume": 11059,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.451,
+    "productivity": 0.445,
+    "stop_count_per_vol": 0.904,
+    "segment": "Chocolate",
+    "x": "2019-12-27T21:05:57",
+    "y": 0.445,
+    "weight": 7410.7
+  },
+  {
+    "order_no": "5689",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-27T22:35:56",
+    "prod_end_time_local": "2019-12-27T23:15:54",
+    "prod_time": 36,
+    "stop_time": 1,
+    "prod_volume": 5227,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.415,
+    "productivity": 0.404,
+    "stop_count_per_vol": 1.913,
+    "segment": "Chocolate",
+    "x": "2019-12-27T22:35:56",
+    "y": 0.404,
+    "weight": 2575.7
+  },
+  {
+    "order_no": "5690",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-27T23:15:55",
+    "prod_end_time_local": "2019-12-27T23:40:55",
+    "prod_time": 17,
+    "stop_time": 0,
+    "prod_volume": 3046,
+    "stop_count": 0,
+    "prod_speed_ratio": 0.512,
+    "productivity": 0.512,
+    "stop_count_per_vol": 0,
+    "segment": "Candy",
+    "x": "2019-12-27T23:15:55",
+    "y": 0.512,
+    "weight": 1997.3
+  },
+  {
+    "order_no": "5691",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-27T23:40:56",
+    "prod_end_time_local": "2019-12-28T01:02:54",
+    "prod_time": 64.3,
+    "stop_time": 7.7,
+    "prod_volume": 10276,
+    "stop_count": 6,
+    "prod_speed_ratio": 0.456,
+    "productivity": 0.408,
+    "stop_count_per_vol": 5.839,
+    "segment": "Gum",
+    "x": "2019-12-27T23:40:56",
+    "y": 0.408,
+    "weight": 7802.6
+  },
+  {
+    "order_no": "5692",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-28T01:02:55",
+    "prod_end_time_local": "2019-12-28T02:48:54",
+    "prod_time": 76.3,
+    "stop_time": 19.7,
+    "prod_volume": 11667,
+    "stop_count": 6,
+    "prod_speed_ratio": 0.437,
+    "productivity": 0.347,
+    "stop_count_per_vol": 5.143,
+    "segment": "Gum",
+    "x": "2019-12-28T01:02:55",
+    "y": 0.347,
+    "weight": 9918.2
+  },
+  {
+    "order_no": "5693",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-28T02:48:55",
+    "prod_end_time_local": "2019-12-28T03:54:54",
+    "prod_time": 25.3,
+    "stop_time": 29.7,
+    "prod_volume": 2482,
+    "stop_count": 5,
+    "prod_speed_ratio": 0.28,
+    "productivity": 0.129,
+    "stop_count_per_vol": 20.145,
+    "segment": "Gum",
+    "x": "2019-12-28T02:48:55",
+    "y": 0.129,
+    "weight": 2375.2
+  },
+  {
+    "order_no": "5694",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-28T03:54:55",
+    "prod_end_time_local": "2019-12-30T06:15:38",
+    "prod_time": 81.2,
+    "stop_time": 2932.6,
+    "prod_volume": 7196,
+    "stop_count": 9,
+    "prod_speed_ratio": 0.253,
+    "productivity": 0.007,
+    "stop_count_per_vol": 12.507,
+    "segment": "Gum",
+    "x": "2019-12-28T03:54:55",
+    "y": 0.007,
+    "weight": 8062.9
+  },
+  {
+    "order_no": "5695",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-30T06:15:39",
+    "prod_end_time_local": "2019-12-30T07:30:39",
+    "prod_time": 25.1,
+    "stop_time": 9.9,
+    "prod_volume": 3422,
+    "stop_count": 5,
+    "prod_speed_ratio": 0.39,
+    "productivity": 0.279,
+    "stop_count_per_vol": 14.611,
+    "segment": "Gum",
+    "x": "2019-12-30T06:15:39",
+    "y": 0.279,
+    "weight": 3815.6
+  },
+  {
+    "order_no": "5696",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-30T07:30:41",
+    "prod_end_time_local": "2019-12-30T08:04:38",
+    "prod_time": 19,
+    "stop_time": 8,
+    "prod_volume": 1749,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.263,
+    "productivity": 0.185,
+    "stop_count_per_vol": 5.718,
+    "segment": "Chocolate",
+    "x": "2019-12-30T07:30:41",
+    "y": 0.185,
+    "weight": 1187.8
+  },
+  {
+    "order_no": "5697",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-30T08:04:39",
+    "prod_end_time_local": "2019-12-30T08:33:39",
+    "prod_time": 14.1,
+    "stop_time": 8.9,
+    "prod_volume": 1360,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.276,
+    "productivity": 0.169,
+    "stop_count_per_vol": 14.706,
+    "segment": "Chocolate",
+    "x": "2019-12-30T08:04:39",
+    "y": 0.169,
+    "weight": 943.1
+  },
+  {
+    "order_no": "5698",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-30T08:33:41",
+    "prod_end_time_local": "2019-12-30T15:35:39",
+    "prod_time": 346.5,
+    "stop_time": 46.5,
+    "prod_volume": 29901,
+    "stop_count": 16,
+    "prod_speed_ratio": 0.247,
+    "productivity": 0.217,
+    "stop_count_per_vol": 5.351,
+    "segment": "Gum",
+    "x": "2019-12-30T08:33:41",
+    "y": 0.217,
+    "weight": 22020.6
+  },
+  {
+    "order_no": "5699",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-30T15:35:41",
+    "prod_end_time_local": "2019-12-30T17:48:40",
+    "prod_time": 90.4,
+    "stop_time": 24.6,
+    "prod_volume": 19178,
+    "stop_count": 12,
+    "prod_speed_ratio": 0.606,
+    "productivity": 0.476,
+    "stop_count_per_vol": 6.257,
+    "segment": "Gum",
+    "x": "2019-12-30T15:35:41",
+    "y": 0.476,
+    "weight": 13038
+  },
+  {
+    "order_no": "5700",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-30T17:48:42",
+    "prod_end_time_local": "2019-12-30T21:28:47",
+    "prod_time": 115.6,
+    "stop_time": 75.5,
+    "prod_volume": 15753,
+    "stop_count": 19,
+    "prod_speed_ratio": 0.389,
+    "productivity": 0.236,
+    "stop_count_per_vol": 12.061,
+    "segment": "Gum",
+    "x": "2019-12-30T17:48:42",
+    "y": 0.236,
+    "weight": 13512.8
+  },
+  {
+    "order_no": "5701",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-30T21:28:49",
+    "prod_end_time_local": "2019-12-31T00:32:47",
+    "prod_time": 114.3,
+    "stop_time": 56.7,
+    "prod_volume": 21427,
+    "stop_count": 12,
+    "prod_speed_ratio": 0.536,
+    "productivity": 0.358,
+    "stop_count_per_vol": 5.6,
+    "segment": "Gum",
+    "x": "2019-12-30T21:28:49",
+    "y": 0.358,
+    "weight": 10194.6
+  },
+  {
+    "order_no": "5702",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-31T00:32:49",
+    "prod_end_time_local": "2019-12-31T03:59:47",
+    "prod_time": 137.2,
+    "stop_time": 59.8,
+    "prod_volume": 21261,
+    "stop_count": 12,
+    "prod_speed_ratio": 0.443,
+    "productivity": 0.308,
+    "stop_count_per_vol": 5.644,
+    "segment": "Gum",
+    "x": "2019-12-31T00:32:49",
+    "y": 0.308,
+    "weight": 9250.4
+  },
+  {
+    "order_no": "5703",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2019-12-31T03:59:48",
+    "prod_end_time_local": "2020-01-07T08:13:56",
+    "prod_time": 1481.4,
+    "stop_time": 8842.7,
+    "prod_volume": 13977,
+    "stop_count": 10,
+    "prod_speed_ratio": 0.027,
+    "productivity": 0.004,
+    "stop_count_per_vol": 7.155,
+    "segment": "Gum",
+    "x": "2019-12-31T03:59:48",
+    "y": 0.004,
+    "weight": 0
+  },
+  {
+    "order_no": "5704",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-07T08:13:58",
+    "prod_end_time_local": "2020-01-07T08:25:56",
+    "prod_time": 11,
+    "stop_time": 0,
+    "prod_volume": 29863,
+    "stop_count": 0,
+    "prod_speed_ratio": 7.757,
+    "productivity": 7.757,
+    "stop_count_per_vol": 0,
+    "segment": "Candy",
+    "x": "2020-01-07T08:13:58",
+    "y": 7.757,
+    "weight": 14965.7
+  },
+  {
+    "order_no": "5705",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-07T08:25:58",
+    "prod_end_time_local": "2020-01-07T11:25:56",
+    "prod_time": 130.4,
+    "stop_time": 26.6,
+    "prod_volume": 20457,
+    "stop_count": 14,
+    "prod_speed_ratio": 0.448,
+    "productivity": 0.372,
+    "stop_count_per_vol": 6.844,
+    "segment": "Gum",
+    "x": "2020-01-07T08:25:58",
+    "y": 0.372,
+    "weight": 9293.1
+  },
+  {
+    "order_no": "5706",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-07T11:25:58",
+    "prod_end_time_local": "2020-01-07T13:14:57",
+    "prod_time": 72.3,
+    "stop_time": 26.7,
+    "prod_volume": 10161,
+    "stop_count": 10,
+    "prod_speed_ratio": 0.401,
+    "productivity": 0.293,
+    "stop_count_per_vol": 9.842,
+    "segment": "Gum",
+    "x": "2020-01-07T11:25:58",
+    "y": 0.293,
+    "weight": 7678.2
+  },
+  {
+    "order_no": "5707",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-07T13:14:58",
+    "prod_end_time_local": "2020-01-07T16:20:56",
+    "prod_time": 122.8,
+    "stop_time": 56.2,
+    "prod_volume": 9591,
+    "stop_count": 17,
+    "prod_speed_ratio": 0.223,
+    "productivity": 0.153,
+    "stop_count_per_vol": 17.725,
+    "segment": "Gum",
+    "x": "2020-01-07T13:14:58",
+    "y": 0.153,
+    "weight": 10694.2
+  },
+  {
+    "order_no": "5708",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-07T16:20:58",
+    "prod_end_time_local": "2020-01-07T18:08:56",
+    "prod_time": 71.3,
+    "stop_time": 16.7,
+    "prod_volume": 10391,
+    "stop_count": 10,
+    "prod_speed_ratio": 0.417,
+    "productivity": 0.337,
+    "stop_count_per_vol": 9.624,
+    "segment": "Gum",
+    "x": "2020-01-07T16:20:58",
+    "y": 0.337,
+    "weight": 8430.9
+  },
+  {
+    "order_no": "5709",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-07T18:08:57",
+    "prod_end_time_local": "2020-01-07T19:12:56",
+    "prod_time": 40.2,
+    "stop_time": 18.8,
+    "prod_volume": 3906,
+    "stop_count": 8,
+    "prod_speed_ratio": 0.284,
+    "productivity": 0.193,
+    "stop_count_per_vol": 20.481,
+    "segment": "Gum",
+    "x": "2020-01-07T18:08:57",
+    "y": 0.193,
+    "weight": 6469.7
+  },
+  {
+    "order_no": "5710",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-07T19:12:58",
+    "prod_end_time_local": "2020-01-07T20:10:31",
+    "prod_time": 29.2,
+    "stop_time": 17.8,
+    "prod_volume": 5607,
+    "stop_count": 5,
+    "prod_speed_ratio": 0.549,
+    "productivity": 0.341,
+    "stop_count_per_vol": 8.917,
+    "segment": "Gum",
+    "x": "2020-01-07T19:12:58",
+    "y": 0.341,
+    "weight": 3663
+  },
+  {
+    "order_no": "5711",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-07T20:10:33",
+    "prod_end_time_local": "2020-01-07T20:56:31",
+    "prod_time": 23.1,
+    "stop_time": 14.9,
+    "prod_volume": 2396,
+    "stop_count": 4,
+    "prod_speed_ratio": 0.296,
+    "productivity": 0.18,
+    "stop_count_per_vol": 16.694,
+    "segment": "Chocolate",
+    "x": "2020-01-07T20:10:33",
+    "y": 0.18,
+    "weight": 1134.2
+  },
+  {
+    "order_no": "5712",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-07T20:56:33",
+    "prod_end_time_local": "2020-01-07T21:31:31",
+    "prod_time": 11,
+    "stop_time": 6,
+    "prod_volume": 2588,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.67,
+    "productivity": 0.435,
+    "stop_count_per_vol": 3.864,
+    "segment": "Chocolate",
+    "x": "2020-01-07T20:56:33",
+    "y": 0.435,
+    "weight": 1445.1
+  },
+  {
+    "order_no": "5713",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-07T21:31:33",
+    "prod_end_time_local": "2020-01-07T21:53:19",
+    "prod_time": 12.9,
+    "stop_time": 2.9,
+    "prod_volume": 2535,
+    "stop_count": 3,
+    "prod_speed_ratio": 0.562,
+    "productivity": 0.458,
+    "stop_count_per_vol": 11.834,
+    "segment": "Chocolate",
+    "x": "2020-01-07T21:31:33",
+    "y": 0.458,
+    "weight": 1931.4
+  },
+  {
+    "order_no": "5714",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-07T21:53:31",
+    "prod_end_time_local": "2020-01-07T22:34:23",
+    "prod_time": 23,
+    "stop_time": 11.8,
+    "prod_volume": 4493,
+    "stop_count": 4,
+    "prod_speed_ratio": 0.557,
+    "productivity": 0.368,
+    "stop_count_per_vol": 8.903,
+    "segment": "Chocolate",
+    "x": "2020-01-07T21:53:31",
+    "y": 0.368,
+    "weight": 4134.4
+  },
+  {
+    "order_no": "5715",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-07T22:34:31",
+    "prod_end_time_local": "2020-01-07T23:23:31",
+    "prod_time": 20.1,
+    "stop_time": 20.9,
+    "prod_volume": 2638,
+    "stop_count": 5,
+    "prod_speed_ratio": 0.374,
+    "productivity": 0.184,
+    "stop_count_per_vol": 18.954,
+    "segment": "Gum",
+    "x": "2020-01-07T22:34:31",
+    "y": 0.184,
+    "weight": 986.7
+  },
+  {
+    "order_no": "5716",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-07T23:23:33",
+    "prod_end_time_local": "2020-01-08T01:14:19",
+    "prod_time": 75.2,
+    "stop_time": 14.6,
+    "prod_volume": 6168,
+    "stop_count": 6,
+    "prod_speed_ratio": 0.234,
+    "productivity": 0.196,
+    "stop_count_per_vol": 9.728,
+    "segment": "Gum",
+    "x": "2020-01-07T23:23:33",
+    "y": 0.196,
+    "weight": 3218
+  },
+  {
+    "order_no": "5717",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T01:14:31",
+    "prod_end_time_local": "2020-01-08T01:38:20",
+    "prod_time": 4.8,
+    "stop_time": 0,
+    "prod_volume": 900,
+    "stop_count": 0,
+    "prod_speed_ratio": 0.534,
+    "productivity": 0.534,
+    "stop_count_per_vol": 0,
+    "segment": "Candy",
+    "x": "2020-01-08T01:14:31",
+    "y": 0.534,
+    "weight": 759.1
+  },
+  {
+    "order_no": "5718",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T01:38:31",
+    "prod_end_time_local": "2020-01-08T02:45:31",
+    "prod_time": 42.6,
+    "stop_time": 19.4,
+    "prod_volume": 4636,
+    "stop_count": 10,
+    "prod_speed_ratio": 0.311,
+    "productivity": 0.214,
+    "stop_count_per_vol": 21.57,
+    "segment": "Gum",
+    "x": "2020-01-08T01:38:31",
+    "y": 0.214,
+    "weight": 5194.5
+  },
+  {
+    "order_no": "5719",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T02:45:32",
+    "prod_end_time_local": "2020-01-08T04:27:31",
+    "prod_time": 58.8,
+    "stop_time": 12.2,
+    "prod_volume": 5517,
+    "stop_count": 6,
+    "prod_speed_ratio": 0.268,
+    "productivity": 0.222,
+    "stop_count_per_vol": 10.875,
+    "segment": "Gum",
+    "x": "2020-01-08T02:45:32",
+    "y": 0.222,
+    "weight": 4063
+  },
+  {
+    "order_no": "5720",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T04:27:32",
+    "prod_end_time_local": "2020-01-08T05:18:31",
+    "prod_time": 21,
+    "stop_time": 9,
+    "prod_volume": 3161,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.429,
+    "productivity": 0.301,
+    "stop_count_per_vol": 6.327,
+    "segment": "Chocolate",
+    "x": "2020-01-08T04:27:32",
+    "y": 0.301,
+    "weight": 2906.7
+  },
+  {
+    "order_no": "5721",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T05:18:33",
+    "prod_end_time_local": "2020-01-08T07:36:32",
+    "prod_time": 118.2,
+    "stop_time": 15.8,
+    "prod_volume": 16330,
+    "stop_count": 11,
+    "prod_speed_ratio": 0.395,
+    "productivity": 0.348,
+    "stop_count_per_vol": 6.736,
+    "segment": "Gum",
+    "x": "2020-01-08T05:18:33",
+    "y": 0.348,
+    "weight": 8869.1
+  },
+  {
+    "order_no": "5722",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T08:03:35",
+    "prod_end_time_local": "2020-01-08T09:14:32",
+    "prod_time": 33.1,
+    "stop_time": 31.9,
+    "prod_volume": 5569,
+    "stop_count": 4,
+    "prod_speed_ratio": 0.48,
+    "productivity": 0.245,
+    "stop_count_per_vol": 7.183,
+    "segment": "Chocolate",
+    "x": "2020-01-08T08:03:35",
+    "y": 0.245,
+    "weight": 1761.6
+  },
+  {
+    "order_no": "5723",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T09:14:33",
+    "prod_end_time_local": "2020-01-08T09:31:32",
+    "prod_time": 5,
+    "stop_time": 0,
+    "prod_volume": 950,
+    "stop_count": 0,
+    "prod_speed_ratio": 0.543,
+    "productivity": 0.543,
+    "stop_count_per_vol": 0,
+    "segment": "Candy",
+    "x": "2020-01-08T09:14:33",
+    "y": 0.543,
+    "weight": 520.3
+  },
+  {
+    "order_no": "5724",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T09:31:33",
+    "prod_end_time_local": "2020-01-08T10:28:32",
+    "prod_time": 30.1,
+    "stop_time": 12.9,
+    "prod_volume": 4991,
+    "stop_count": 5,
+    "prod_speed_ratio": 0.473,
+    "productivity": 0.332,
+    "stop_count_per_vol": 10.018,
+    "segment": "Gum",
+    "x": "2020-01-08T09:31:33",
+    "y": 0.332,
+    "weight": 3142.8
+  },
+  {
+    "order_no": "5725",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T10:28:34",
+    "prod_end_time_local": "2020-01-08T11:07:32",
+    "prod_time": 23.1,
+    "stop_time": 10,
+    "prod_volume": 5043,
+    "stop_count": 3,
+    "prod_speed_ratio": 0.625,
+    "productivity": 0.437,
+    "stop_count_per_vol": 5.949,
+    "segment": "Chocolate",
+    "x": "2020-01-08T10:28:34",
+    "y": 0.437,
+    "weight": 1963.1
+  },
+  {
+    "order_no": "5726",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T11:07:33",
+    "prod_end_time_local": "2020-01-08T11:29:32",
+    "prod_time": 10.1,
+    "stop_time": 6,
+    "prod_volume": 1023,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.291,
+    "productivity": 0.183,
+    "stop_count_per_vol": 19.55,
+    "segment": "Chocolate",
+    "x": "2020-01-08T11:07:33",
+    "y": 0.183,
+    "weight": 621.1
+  },
+  {
+    "order_no": "5727",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T11:29:34",
+    "prod_end_time_local": "2020-01-08T11:57:32",
+    "prod_time": 14.1,
+    "stop_time": 4,
+    "prod_volume": 1956,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.398,
+    "productivity": 0.31,
+    "stop_count_per_vol": 10.225,
+    "segment": "Chocolate",
+    "x": "2020-01-08T11:29:34",
+    "y": 0.31,
+    "weight": 1431.8
+  },
+  {
+    "order_no": "5728",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T11:57:34",
+    "prod_end_time_local": "2020-01-08T13:57:32",
+    "prod_time": 96.2,
+    "stop_time": 19.8,
+    "prod_volume": 10325,
+    "stop_count": 10,
+    "prod_speed_ratio": 0.307,
+    "productivity": 0.254,
+    "stop_count_per_vol": 9.685,
+    "segment": "Gum",
+    "x": "2020-01-08T11:57:34",
+    "y": 0.254,
+    "weight": 3612
+  },
+  {
+    "order_no": "5729",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T13:57:34",
+    "prod_end_time_local": "2020-01-08T15:59:32",
+    "prod_time": 94.3,
+    "stop_time": 21.7,
+    "prod_volume": 12203,
+    "stop_count": 10,
+    "prod_speed_ratio": 0.37,
+    "productivity": 0.301,
+    "stop_count_per_vol": 8.195,
+    "segment": "Gum",
+    "x": "2020-01-08T13:57:34",
+    "y": 0.301,
+    "weight": 3055.1
+  },
+  {
+    "order_no": "5730",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T15:59:33",
+    "prod_end_time_local": "2020-01-08T21:17:31",
+    "prod_time": 105.3,
+    "stop_time": 183.7,
+    "prod_volume": 15948,
+    "stop_count": 9,
+    "prod_speed_ratio": 0.433,
+    "productivity": 0.158,
+    "stop_count_per_vol": 5.643,
+    "segment": "Gum",
+    "x": "2020-01-08T15:59:33",
+    "y": 0.158,
+    "weight": 10954.6
+  },
+  {
+    "order_no": "5731",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-08T21:17:33",
+    "prod_end_time_local": "2020-01-09T02:10:31",
+    "prod_time": 222.4,
+    "stop_time": 32.6,
+    "prod_volume": 40895,
+    "stop_count": 17,
+    "prod_speed_ratio": 0.525,
+    "productivity": 0.458,
+    "stop_count_per_vol": 4.157,
+    "segment": "Gum",
+    "x": "2020-01-08T21:17:33",
+    "y": 0.458,
+    "weight": 47874.8
+  },
+  {
+    "order_no": "5732",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-09T02:10:32",
+    "prod_end_time_local": "2020-01-09T04:04:31",
+    "prod_time": 93.1,
+    "stop_time": 14,
+    "prod_volume": 12079,
+    "stop_count": 4,
+    "prod_speed_ratio": 0.371,
+    "productivity": 0.323,
+    "stop_count_per_vol": 3.312,
+    "segment": "Chocolate",
+    "x": "2020-01-09T02:10:32",
+    "y": 0.323,
+    "weight": 6748.7
+  },
+  {
+    "order_no": "5733",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-09T04:04:32",
+    "prod_end_time_local": "2020-01-09T04:25:31",
+    "prod_time": 11,
+    "stop_time": 2,
+    "prod_volume": 958,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.248,
+    "productivity": 0.211,
+    "stop_count_per_vol": 10.438,
+    "segment": "Chocolate",
+    "x": "2020-01-09T04:04:32",
+    "y": 0.211,
+    "weight": 882.8
+  },
+  {
+    "order_no": "5734",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-09T04:25:32",
+    "prod_end_time_local": "2020-01-09T05:26:32",
+    "prod_time": 47.1,
+    "stop_time": 10,
+    "prod_volume": 5084,
+    "stop_count": 3,
+    "prod_speed_ratio": 0.309,
+    "productivity": 0.255,
+    "stop_count_per_vol": 5.901,
+    "segment": "Chocolate",
+    "x": "2020-01-09T04:25:32",
+    "y": 0.255,
+    "weight": 1977
+  },
+  {
+    "order_no": "5735",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-09T05:26:33",
+    "prod_end_time_local": "2020-01-09T05:57:31",
+    "prod_time": 26,
+    "stop_time": 0,
+    "prod_volume": 5212,
+    "stop_count": 0,
+    "prod_speed_ratio": 0.573,
+    "productivity": 0.573,
+    "stop_count_per_vol": 0,
+    "segment": "Candy",
+    "x": "2020-01-09T05:26:33",
+    "y": 0.573,
+    "weight": 2075.2
+  },
+  {
+    "order_no": "5736",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-09T05:57:32",
+    "prod_end_time_local": "2020-01-09T10:46:33",
+    "prod_time": 29,
+    "stop_time": 247,
+    "prod_volume": 3130,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.308,
+    "productivity": 0.032,
+    "stop_count_per_vol": 6.39,
+    "segment": "Chocolate",
+    "x": "2020-01-09T05:57:32",
+    "y": 0.032,
+    "weight": 1555.3
+  },
+  {
+    "order_no": "5737",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-09T10:46:35",
+    "prod_end_time_local": "2020-01-09T15:35:32",
+    "prod_time": 26.1,
+    "stop_time": 202.9,
+    "prod_volume": 472,
+    "stop_count": 11,
+    "prod_speed_ratio": 0.052,
+    "productivity": 0.006,
+    "stop_count_per_vol": 233.051,
+    "segment": "Gum",
+    "x": "2020-01-09T10:46:35",
+    "y": 0.006,
+    "weight": 265.1
+  },
+  {
+    "order_no": "5738",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-09T15:35:34",
+    "prod_end_time_local": "2020-01-09T17:56:31",
+    "prod_time": 70.2,
+    "stop_time": 36.8,
+    "prod_volume": 10407,
+    "stop_count": 8,
+    "prod_speed_ratio": 0.423,
+    "productivity": 0.278,
+    "stop_count_per_vol": 7.687,
+    "segment": "Gum",
+    "x": "2020-01-09T15:35:34",
+    "y": 0.278,
+    "weight": 9612.4
+  },
+  {
+    "order_no": "5739",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-09T17:56:33",
+    "prod_end_time_local": "2020-01-09T18:32:31",
+    "prod_time": 20.1,
+    "stop_time": 7.9,
+    "prod_volume": 2803,
+    "stop_count": 3,
+    "prod_speed_ratio": 0.399,
+    "productivity": 0.286,
+    "stop_count_per_vol": 10.703,
+    "segment": "Chocolate",
+    "x": "2020-01-09T17:56:33",
+    "y": 0.286,
+    "weight": 1878.3
+  },
+  {
+    "order_no": "5740",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-09T18:32:33",
+    "prod_end_time_local": "2020-01-09T21:04:31",
+    "prod_time": 19.1,
+    "stop_time": 121.9,
+    "prod_volume": 1399,
+    "stop_count": 4,
+    "prod_speed_ratio": 0.209,
+    "productivity": 0.028,
+    "stop_count_per_vol": 28.592,
+    "segment": "Chocolate",
+    "x": "2020-01-09T18:32:33",
+    "y": 0.028,
+    "weight": 978.4
+  },
+  {
+    "order_no": "5741",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-09T21:04:33",
+    "prod_end_time_local": "2020-01-09T22:32:31",
+    "prod_time": 66.1,
+    "stop_time": 14.9,
+    "prod_volume": 8339,
+    "stop_count": 6,
+    "prod_speed_ratio": 0.36,
+    "productivity": 0.294,
+    "stop_count_per_vol": 7.195,
+    "segment": "Gum",
+    "x": "2020-01-09T21:04:33",
+    "y": 0.294,
+    "weight": 3968.8
+  },
+  {
+    "order_no": "5742",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-09T22:32:33",
+    "prod_end_time_local": "2020-01-09T23:04:31",
+    "prod_time": 18,
+    "stop_time": 5,
+    "prod_volume": 2413,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.383,
+    "productivity": 0.3,
+    "stop_count_per_vol": 4.144,
+    "segment": "Chocolate",
+    "x": "2020-01-09T22:32:33",
+    "y": 0.3,
+    "weight": 1827
+  },
+  {
+    "order_no": "5743",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-09T23:04:33",
+    "prod_end_time_local": "2020-01-10T00:51:31",
+    "prod_time": 76.1,
+    "stop_time": 23.9,
+    "prod_volume": 13817,
+    "stop_count": 8,
+    "prod_speed_ratio": 0.519,
+    "productivity": 0.395,
+    "stop_count_per_vol": 5.79,
+    "segment": "Gum",
+    "x": "2020-01-09T23:04:33",
+    "y": 0.395,
+    "weight": 7719.8
+  },
+  {
+    "order_no": "5744",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-10T00:51:32",
+    "prod_end_time_local": "2020-01-10T01:51:31",
+    "prod_time": 49.1,
+    "stop_time": 6.9,
+    "prod_volume": 10953,
+    "stop_count": 6,
+    "prod_speed_ratio": 0.637,
+    "productivity": 0.559,
+    "stop_count_per_vol": 5.478,
+    "segment": "Cookie",
+    "x": "2020-01-10T00:51:32",
+    "y": 0.559,
+    "weight": 5948.7
+  },
+  {
+    "order_no": "5745",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-10T01:51:32",
+    "prod_end_time_local": "2020-01-10T03:58:31",
+    "prod_time": 105.1,
+    "stop_time": 17.9,
+    "prod_volume": 21589,
+    "stop_count": 8,
+    "prod_speed_ratio": 0.587,
+    "productivity": 0.501,
+    "stop_count_per_vol": 3.706,
+    "segment": "Cookie",
+    "x": "2020-01-10T01:51:32",
+    "y": 0.501,
+    "weight": 7451.4
+  },
+  {
+    "order_no": "5746",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-10T03:58:32",
+    "prod_end_time_local": "2020-01-10T04:43:31",
+    "prod_time": 29.1,
+    "stop_time": 11.9,
+    "prod_volume": 4952,
+    "stop_count": 4,
+    "prod_speed_ratio": 0.487,
+    "productivity": 0.345,
+    "stop_count_per_vol": 8.078,
+    "segment": "Chocolate",
+    "x": "2020-01-10T03:58:32",
+    "y": 0.345,
+    "weight": 2360.4
+  },
+  {
+    "order_no": "5747",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-10T04:43:32",
+    "prod_end_time_local": "2020-01-10T05:21:31",
+    "prod_time": 21,
+    "stop_time": 6,
+    "prod_volume": 5194,
+    "stop_count": 2,
+    "prod_speed_ratio": 0.706,
+    "productivity": 0.55,
+    "stop_count_per_vol": 3.851,
+    "segment": "Candy",
+    "x": "2020-01-10T04:43:32",
+    "y": 0.55,
+    "weight": 3521.5
+  },
+  {
+    "order_no": "5748",
+    "city_plant_no": "Shima",
+    "prod_start_time_local": "2020-01-10T05:21:32",
+    "prod_end_time_local": "2020-01-10T06:22:31",
+    "prod_time": 24,
+    "stop_time": 7,
+    "prod_volume": 1741,
+    "stop_count": 1,
+    "prod_speed_ratio": 0.207,
+    "productivity": 0.161,
+    "stop_count_per_vol": 5.744,
+    "segment": "Chocolate",
+    "x": "2020-01-10T05:21:32",
+    "y": 0.161,
+    "weight": 2405.2
+  },
+  {
+    "order_no": "5749",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-13T10:11:51",
     "prod_end_time_local": "2019-12-13T11:00:09",
@@ -10200,7 +12750,7 @@
     "weight": 455
   },
   {
-    "order_no": "5600",
+    "order_no": "5750",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-13T11:00:11",
     "prod_end_time_local": "2019-12-13T16:05:09",
@@ -10217,7 +12767,7 @@
     "weight": 37993.2
   },
   {
-    "order_no": "5601",
+    "order_no": "5751",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-13T16:28:11",
     "prod_end_time_local": "2019-12-13T17:44:09",
@@ -10234,7 +12784,7 @@
     "weight": 1560.7
   },
   {
-    "order_no": "5602",
+    "order_no": "5752",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-13T17:44:11",
     "prod_end_time_local": "2019-12-13T18:23:09",
@@ -10251,7 +12801,7 @@
     "weight": 1429.9
   },
   {
-    "order_no": "5603",
+    "order_no": "5753",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-13T18:23:12",
     "prod_end_time_local": "2019-12-13T21:33:09",
@@ -10268,7 +12818,7 @@
     "weight": 821.9
   },
   {
-    "order_no": "5604",
+    "order_no": "5754",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-13T21:33:12",
     "prod_end_time_local": "2019-12-16T11:18:17",
@@ -10285,7 +12835,7 @@
     "weight": 65338
   },
   {
-    "order_no": "5605",
+    "order_no": "5755",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-16T11:18:19",
     "prod_end_time_local": "2019-12-17T07:42:17",
@@ -10302,7 +12852,7 @@
     "weight": 5407.2
   },
   {
-    "order_no": "5606",
+    "order_no": "5756",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-17T07:42:19",
     "prod_end_time_local": "2019-12-17T13:25:17",
@@ -10319,7 +12869,7 @@
     "weight": 14752.1
   },
   {
-    "order_no": "5607",
+    "order_no": "5757",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-17T13:25:20",
     "prod_end_time_local": "2019-12-17T14:28:17",
@@ -10336,7 +12886,7 @@
     "weight": 8018.7
   },
   {
-    "order_no": "5608",
+    "order_no": "5758",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-17T15:02:19",
     "prod_end_time_local": "2019-12-17T15:42:17",
@@ -10353,7 +12903,7 @@
     "weight": 1279.3
   },
   {
-    "order_no": "5609",
+    "order_no": "5759",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-17T16:46:21",
     "prod_end_time_local": "2019-12-17T19:21:17",
@@ -10370,7 +12920,7 @@
     "weight": 8425.2
   },
   {
-    "order_no": "5610",
+    "order_no": "5760",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-17T19:21:19",
     "prod_end_time_local": "2019-12-17T19:59:17",
@@ -10387,7 +12937,7 @@
     "weight": 1352.4
   },
   {
-    "order_no": "5611",
+    "order_no": "5761",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-17T19:59:19",
     "prod_end_time_local": "2019-12-17T20:34:17",
@@ -10404,7 +12954,7 @@
     "weight": 2428.7
   },
   {
-    "order_no": "5612",
+    "order_no": "5762",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-17T20:34:19",
     "prod_end_time_local": "2019-12-17T21:23:18",
@@ -10421,7 +12971,7 @@
     "weight": 1525.6
   },
   {
-    "order_no": "5613",
+    "order_no": "5763",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-17T21:23:22",
     "prod_end_time_local": "2019-12-17T22:41:17",
@@ -10438,7 +12988,7 @@
     "weight": 3138.6
   },
   {
-    "order_no": "5614",
+    "order_no": "5764",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-17T22:41:19",
     "prod_end_time_local": "2019-12-17T23:07:26",
@@ -10455,7 +13005,7 @@
     "weight": 2938.9
   },
   {
-    "order_no": "5615",
+    "order_no": "5765",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-17T23:07:36",
     "prod_end_time_local": "2019-12-17T23:24:17",
@@ -10472,7 +13022,7 @@
     "weight": 1524
   },
   {
-    "order_no": "5616",
+    "order_no": "5766",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-17T23:24:19",
     "prod_end_time_local": "2019-12-18T01:27:17",
@@ -10489,7 +13039,7 @@
     "weight": 8123.3
   },
   {
-    "order_no": "5617",
+    "order_no": "5767",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T01:51:19",
     "prod_end_time_local": "2019-12-18T03:15:16",
@@ -10506,7 +13056,7 @@
     "weight": 2145.2
   },
   {
-    "order_no": "5618",
+    "order_no": "5768",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T03:15:18",
     "prod_end_time_local": "2019-12-18T05:01:17",
@@ -10523,7 +13073,7 @@
     "weight": 9251
   },
   {
-    "order_no": "5619",
+    "order_no": "5769",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T05:01:20",
     "prod_end_time_local": "2019-12-18T05:34:17",
@@ -10540,7 +13090,7 @@
     "weight": 824.8
   },
   {
-    "order_no": "5620",
+    "order_no": "5770",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T05:34:19",
     "prod_end_time_local": "2019-12-18T07:05:17",
@@ -10557,7 +13107,7 @@
     "weight": 3018.3
   },
   {
-    "order_no": "5621",
+    "order_no": "5771",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T07:05:19",
     "prod_end_time_local": "2019-12-18T08:44:16",
@@ -10574,7 +13124,7 @@
     "weight": 1960.9
   },
   {
-    "order_no": "5622",
+    "order_no": "5772",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T08:44:18",
     "prod_end_time_local": "2019-12-18T09:16:17",
@@ -10591,7 +13141,7 @@
     "weight": 576.8
   },
   {
-    "order_no": "5623",
+    "order_no": "5773",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T09:16:21",
     "prod_end_time_local": "2019-12-18T09:41:17",
@@ -10608,7 +13158,7 @@
     "weight": 3170.1
   },
   {
-    "order_no": "5624",
+    "order_no": "5774",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T09:41:21",
     "prod_end_time_local": "2019-12-18T12:33:17",
@@ -10625,7 +13175,7 @@
     "weight": 8428.3
   },
   {
-    "order_no": "5625",
+    "order_no": "5775",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T12:33:19",
     "prod_end_time_local": "2019-12-18T13:50:17",
@@ -10642,7 +13192,7 @@
     "weight": 872.5
   },
   {
-    "order_no": "5626",
+    "order_no": "5776",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T13:50:19",
     "prod_end_time_local": "2019-12-18T14:41:17",
@@ -10659,7 +13209,7 @@
     "weight": 755.3
   },
   {
-    "order_no": "5627",
+    "order_no": "5777",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T14:41:20",
     "prod_end_time_local": "2019-12-18T15:16:17",
@@ -10676,7 +13226,7 @@
     "weight": 1386.7
   },
   {
-    "order_no": "5628",
+    "order_no": "5778",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T15:16:19",
     "prod_end_time_local": "2019-12-18T15:36:17",
@@ -10693,7 +13243,7 @@
     "weight": 1351.3
   },
   {
-    "order_no": "5629",
+    "order_no": "5779",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T15:36:19",
     "prod_end_time_local": "2019-12-18T16:07:17",
@@ -10710,7 +13260,7 @@
     "weight": 990.9
   },
   {
-    "order_no": "5630",
+    "order_no": "5780",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T16:07:19",
     "prod_end_time_local": "2019-12-18T17:49:18",
@@ -10727,7 +13277,7 @@
     "weight": 2712.3
   },
   {
-    "order_no": "5631",
+    "order_no": "5781",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T17:49:26",
     "prod_end_time_local": "2019-12-18T22:09:17",
@@ -10744,7 +13294,7 @@
     "weight": 64107.3
   },
   {
-    "order_no": "5632",
+    "order_no": "5782",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-18T22:09:20",
     "prod_end_time_local": "2019-12-19T00:47:17",
@@ -10761,7 +13311,7 @@
     "weight": 1502.6
   },
   {
-    "order_no": "5633",
+    "order_no": "5783",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T00:47:19",
     "prod_end_time_local": "2019-12-19T02:04:17",
@@ -10778,7 +13328,7 @@
     "weight": 2429.1
   },
   {
-    "order_no": "5634",
+    "order_no": "5784",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T02:04:21",
     "prod_end_time_local": "2019-12-19T02:50:18",
@@ -10795,7 +13345,7 @@
     "weight": 2542.5
   },
   {
-    "order_no": "5635",
+    "order_no": "5785",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T02:50:20",
     "prod_end_time_local": "2019-12-19T03:10:17",
@@ -10812,7 +13362,7 @@
     "weight": 2523.1
   },
   {
-    "order_no": "5636",
+    "order_no": "5786",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T03:10:20",
     "prod_end_time_local": "2019-12-19T06:56:17",
@@ -10829,7 +13379,7 @@
     "weight": 17577.8
   },
   {
-    "order_no": "5637",
+    "order_no": "5787",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T06:56:19",
     "prod_end_time_local": "2019-12-19T07:55:17",
@@ -10846,7 +13396,7 @@
     "weight": 2099.8
   },
   {
-    "order_no": "5638",
+    "order_no": "5788",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T07:55:19",
     "prod_end_time_local": "2019-12-19T08:09:17",
@@ -10863,7 +13413,7 @@
     "weight": 1158.4
   },
   {
-    "order_no": "5639",
+    "order_no": "5789",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T08:09:19",
     "prod_end_time_local": "2019-12-19T08:42:18",
@@ -10880,7 +13430,7 @@
     "weight": 2137.8
   },
   {
-    "order_no": "5640",
+    "order_no": "5790",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T08:42:21",
     "prod_end_time_local": "2019-12-19T09:08:17",
@@ -10897,7 +13447,7 @@
     "weight": 3054.8
   },
   {
-    "order_no": "5641",
+    "order_no": "5791",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T09:08:20",
     "prod_end_time_local": "2019-12-19T10:30:17",
@@ -10914,7 +13464,7 @@
     "weight": 5319.9
   },
   {
-    "order_no": "5642",
+    "order_no": "5792",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T10:31:21",
     "prod_end_time_local": "2019-12-19T13:20:17",
@@ -10931,7 +13481,7 @@
     "weight": 13616.9
   },
   {
-    "order_no": "5643",
+    "order_no": "5793",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T13:20:20",
     "prod_end_time_local": "2019-12-19T14:42:17",
@@ -10948,7 +13498,7 @@
     "weight": 6908.2
   },
   {
-    "order_no": "5644",
+    "order_no": "5794",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T14:42:19",
     "prod_end_time_local": "2019-12-19T15:57:17",
@@ -10965,7 +13515,7 @@
     "weight": 2097.8
   },
   {
-    "order_no": "5645",
+    "order_no": "5795",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T15:57:19",
     "prod_end_time_local": "2019-12-19T17:51:16",
@@ -10982,7 +13532,7 @@
     "weight": 290.6
   },
   {
-    "order_no": "5646",
+    "order_no": "5796",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T19:03:20",
     "prod_end_time_local": "2019-12-19T19:56:17",
@@ -10999,7 +13549,7 @@
     "weight": 1611.3
   },
   {
-    "order_no": "5647",
+    "order_no": "5797",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T19:56:19",
     "prod_end_time_local": "2019-12-19T20:36:16",
@@ -11016,7 +13566,7 @@
     "weight": 4903.8
   },
   {
-    "order_no": "5648",
+    "order_no": "5798",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T20:36:19",
     "prod_end_time_local": "2019-12-19T21:02:17",
@@ -11033,7 +13583,7 @@
     "weight": 3276.4
   },
   {
-    "order_no": "5649",
+    "order_no": "5799",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T21:02:20",
     "prod_end_time_local": "2019-12-19T22:39:17",
@@ -11050,7 +13600,7 @@
     "weight": 6442
   },
   {
-    "order_no": "5650",
+    "order_no": "5800",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T22:39:19",
     "prod_end_time_local": "2019-12-19T23:43:17",
@@ -11067,7 +13617,7 @@
     "weight": 1184.1
   },
   {
-    "order_no": "5651",
+    "order_no": "5801",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-19T23:43:19",
     "prod_end_time_local": "2019-12-20T00:01:17",
@@ -11084,7 +13634,7 @@
     "weight": 392.9
   },
   {
-    "order_no": "5652",
+    "order_no": "5802",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-20T00:01:19",
     "prod_end_time_local": "2019-12-20T00:17:17",
@@ -11101,7 +13651,7 @@
     "weight": 938.3
   },
   {
-    "order_no": "5653",
+    "order_no": "5803",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-20T00:17:19",
     "prod_end_time_local": "2019-12-20T00:44:17",
@@ -11118,7 +13668,7 @@
     "weight": 1493.8
   },
   {
-    "order_no": "5654",
+    "order_no": "5804",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-20T00:44:20",
     "prod_end_time_local": "2019-12-20T01:19:17",
@@ -11135,7 +13685,7 @@
     "weight": 1900.8
   },
   {
-    "order_no": "5655",
+    "order_no": "5805",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-20T01:19:19",
     "prod_end_time_local": "2019-12-20T01:36:17",
@@ -11152,7 +13702,7 @@
     "weight": 1571.5
   },
   {
-    "order_no": "5656",
+    "order_no": "5806",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-20T01:36:19",
     "prod_end_time_local": "2019-12-20T02:08:17",
@@ -11169,7 +13719,7 @@
     "weight": 3007
   },
   {
-    "order_no": "5657",
+    "order_no": "5807",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-20T02:08:19",
     "prod_end_time_local": "2019-12-20T02:36:17",
@@ -11186,7 +13736,7 @@
     "weight": 2554.2
   },
   {
-    "order_no": "5658",
+    "order_no": "5808",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-20T02:36:19",
     "prod_end_time_local": "2019-12-20T02:58:18",
@@ -11203,7 +13753,7 @@
     "weight": 2896.5
   },
   {
-    "order_no": "5659",
+    "order_no": "5809",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-20T02:58:21",
     "prod_end_time_local": "2019-12-20T03:20:17",
@@ -11220,7 +13770,7 @@
     "weight": 2957.8
   },
   {
-    "order_no": "5660",
+    "order_no": "5810",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-20T03:20:19",
     "prod_end_time_local": "2019-12-20T20:35:17",
@@ -11237,7 +13787,7 @@
     "weight": 27105.7
   },
   {
-    "order_no": "5661",
+    "order_no": "5811",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-20T20:35:19",
     "prod_end_time_local": "2019-12-21T05:25:17",
@@ -11254,7 +13804,7 @@
     "weight": 37115.8
   },
   {
-    "order_no": "5662",
+    "order_no": "5812",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-21T05:25:19",
     "prod_end_time_local": "2019-12-23T07:17:16",
@@ -11271,7 +13821,7 @@
     "weight": 2119.6
   },
   {
-    "order_no": "5663",
+    "order_no": "5813",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-23T09:27:19",
     "prod_end_time_local": "2019-12-23T10:33:17",
@@ -11288,7 +13838,7 @@
     "weight": 4286.6
   },
   {
-    "order_no": "5664",
+    "order_no": "5814",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-23T10:33:19",
     "prod_end_time_local": "2019-12-23T11:16:17",
@@ -11305,7 +13855,7 @@
     "weight": 3634.1
   },
   {
-    "order_no": "5665",
+    "order_no": "5815",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-23T11:16:20",
     "prod_end_time_local": "2019-12-23T11:48:16",
@@ -11322,7 +13872,7 @@
     "weight": 4172.8
   },
   {
-    "order_no": "5666",
+    "order_no": "5816",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-23T11:48:19",
     "prod_end_time_local": "2019-12-23T12:43:17",
@@ -11339,7 +13889,7 @@
     "weight": 1363
   },
   {
-    "order_no": "5667",
+    "order_no": "5817",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-23T12:43:19",
     "prod_end_time_local": "2019-12-23T13:32:17",
@@ -11356,7 +13906,7 @@
     "weight": 829.1
   },
   {
-    "order_no": "5668",
+    "order_no": "5818",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-23T13:32:19",
     "prod_end_time_local": "2019-12-23T13:56:16",
@@ -11373,7 +13923,7 @@
     "weight": 646.1
   },
   {
-    "order_no": "5669",
+    "order_no": "5819",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-23T13:56:19",
     "prod_end_time_local": "2019-12-24T06:49:16",
@@ -11390,7 +13940,7 @@
     "weight": 2053.7
   },
   {
-    "order_no": "5670",
+    "order_no": "5820",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-24T06:49:19",
     "prod_end_time_local": "2019-12-27T09:21:17",
@@ -11407,7 +13957,7 @@
     "weight": 31757.7
   },
   {
-    "order_no": "5671",
+    "order_no": "5821",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-27T09:21:19",
     "prod_end_time_local": "2019-12-27T09:57:17",
@@ -11424,7 +13974,7 @@
     "weight": 1877
   },
   {
-    "order_no": "5672",
+    "order_no": "5822",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-27T09:59:19",
     "prod_end_time_local": "2019-12-27T10:51:17",
@@ -11441,7 +13991,7 @@
     "weight": 3042.4
   },
   {
-    "order_no": "5673",
+    "order_no": "5823",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-27T10:51:19",
     "prod_end_time_local": "2019-12-27T11:43:17",
@@ -11458,7 +14008,7 @@
     "weight": 1703.6
   },
   {
-    "order_no": "5674",
+    "order_no": "5824",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-27T11:43:19",
     "prod_end_time_local": "2019-12-27T12:13:17",
@@ -11475,7 +14025,7 @@
     "weight": 926.3
   },
   {
-    "order_no": "5675",
+    "order_no": "5825",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-27T12:13:19",
     "prod_end_time_local": "2019-12-27T12:52:17",
@@ -11492,7 +14042,7 @@
     "weight": 5039.6
   },
   {
-    "order_no": "5676",
+    "order_no": "5826",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-27T12:52:19",
     "prod_end_time_local": "2019-12-27T14:42:17",
@@ -11509,7 +14059,7 @@
     "weight": 11008.3
   },
   {
-    "order_no": "5677",
+    "order_no": "5827",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-27T14:42:20",
     "prod_end_time_local": "2019-12-27T16:25:17",
@@ -11526,7 +14076,7 @@
     "weight": 19097.2
   },
   {
-    "order_no": "5678",
+    "order_no": "5828",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-27T16:25:19",
     "prod_end_time_local": "2019-12-27T16:51:18",
@@ -11543,7 +14093,7 @@
     "weight": 2113.8
   },
   {
-    "order_no": "5679",
+    "order_no": "5829",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-27T16:51:20",
     "prod_end_time_local": "2019-12-27T17:09:16",
@@ -11560,7 +14110,7 @@
     "weight": 1047.9
   },
   {
-    "order_no": "5680",
+    "order_no": "5830",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-27T17:09:18",
     "prod_end_time_local": "2019-12-27T17:41:17",
@@ -11577,7 +14127,7 @@
     "weight": 1787.1
   },
   {
-    "order_no": "5681",
+    "order_no": "5831",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-27T17:41:19",
     "prod_end_time_local": "2019-12-27T18:03:17",
@@ -11594,7 +14144,7 @@
     "weight": 2728
   },
   {
-    "order_no": "5682",
+    "order_no": "5832",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-27T18:03:19",
     "prod_end_time_local": "2019-12-30T16:28:16",
@@ -11611,7 +14161,7 @@
     "weight": 3933.1
   },
   {
-    "order_no": "5683",
+    "order_no": "5833",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-30T16:28:19",
     "prod_end_time_local": "2019-12-30T17:19:17",
@@ -11628,7 +14178,7 @@
     "weight": 416.5
   },
   {
-    "order_no": "5684",
+    "order_no": "5834",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-30T17:19:19",
     "prod_end_time_local": "2019-12-30T18:03:17",
@@ -11645,7 +14195,7 @@
     "weight": 2465.6
   },
   {
-    "order_no": "5685",
+    "order_no": "5835",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-30T18:03:19",
     "prod_end_time_local": "2019-12-30T18:33:17",
@@ -11662,7 +14212,7 @@
     "weight": 3034.7
   },
   {
-    "order_no": "5686",
+    "order_no": "5836",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-30T18:33:19",
     "prod_end_time_local": "2019-12-31T07:40:21",
@@ -11679,7 +14229,7 @@
     "weight": 2743.4
   },
   {
-    "order_no": "5687",
+    "order_no": "5837",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-31T07:40:24",
     "prod_end_time_local": "2019-12-31T08:34:17",
@@ -11696,7 +14246,7 @@
     "weight": 1328.1
   },
   {
-    "order_no": "5688",
+    "order_no": "5838",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-31T08:34:19",
     "prod_end_time_local": "2019-12-31T11:31:17",
@@ -11713,7 +14263,7 @@
     "weight": 8105.4
   },
   {
-    "order_no": "5689",
+    "order_no": "5839",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2019-12-31T11:31:20",
     "prod_end_time_local": "2020-01-02T07:57:17",
@@ -11730,7 +14280,7 @@
     "weight": 2390.2
   },
   {
-    "order_no": "5690",
+    "order_no": "5840",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-02T07:57:19",
     "prod_end_time_local": "2020-01-02T08:23:17",
@@ -11747,7 +14297,7 @@
     "weight": 1654.1
   },
   {
-    "order_no": "5691",
+    "order_no": "5841",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-02T08:23:19",
     "prod_end_time_local": "2020-01-02T08:47:16",
@@ -11764,7 +14314,7 @@
     "weight": 1465.8
   },
   {
-    "order_no": "5692",
+    "order_no": "5842",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-02T08:47:19",
     "prod_end_time_local": "2020-01-02T09:09:17",
@@ -11781,7 +14331,7 @@
     "weight": 2157.1
   },
   {
-    "order_no": "5693",
+    "order_no": "5843",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-02T09:11:20",
     "prod_end_time_local": "2020-01-02T09:42:19",
@@ -11798,7 +14348,7 @@
     "weight": 2020.2
   },
   {
-    "order_no": "5694",
+    "order_no": "5844",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-02T09:42:23",
     "prod_end_time_local": "2020-01-02T18:41:21",
@@ -11815,7 +14365,7 @@
     "weight": 24160.7
   },
   {
-    "order_no": "5695",
+    "order_no": "5845",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-02T18:41:25",
     "prod_end_time_local": "2020-01-03T08:00:21",
@@ -11832,7 +14382,7 @@
     "weight": 2122
   },
   {
-    "order_no": "5696",
+    "order_no": "5846",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-03T08:00:23",
     "prod_end_time_local": "2020-01-03T08:34:21",
@@ -11849,7 +14399,7 @@
     "weight": 1493.1
   },
   {
-    "order_no": "5697",
+    "order_no": "5847",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-03T08:34:23",
     "prod_end_time_local": "2020-01-03T09:04:21",
@@ -11866,7 +14416,7 @@
     "weight": 2337.9
   },
   {
-    "order_no": "5698",
+    "order_no": "5848",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-03T09:04:23",
     "prod_end_time_local": "2020-01-03T09:35:21",
@@ -11883,7 +14433,7 @@
     "weight": 1983.7
   },
   {
-    "order_no": "5699",
+    "order_no": "5849",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-03T09:35:24",
     "prod_end_time_local": "2020-01-03T09:48:21",
@@ -11900,7 +14450,7 @@
     "weight": 212.6
   },
   {
-    "order_no": "5700",
+    "order_no": "5850",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-03T09:48:24",
     "prod_end_time_local": "2020-01-03T11:07:21",
@@ -11917,7 +14467,7 @@
     "weight": 4838
   },
   {
-    "order_no": "5701",
+    "order_no": "5851",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-03T11:07:23",
     "prod_end_time_local": "2020-01-03T14:27:21",
@@ -11934,7 +14484,7 @@
     "weight": 25364.9
   },
   {
-    "order_no": "5702",
+    "order_no": "5852",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-03T14:27:23",
     "prod_end_time_local": "2020-01-03T15:37:21",
@@ -11951,7 +14501,7 @@
     "weight": 5518.1
   },
   {
-    "order_no": "5703",
+    "order_no": "5853",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-03T15:37:23",
     "prod_end_time_local": "2020-01-03T16:25:21",
@@ -11968,7 +14518,7 @@
     "weight": 4976.1
   },
   {
-    "order_no": "5704",
+    "order_no": "5854",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-03T16:25:23",
     "prod_end_time_local": "2020-01-06T08:57:02",
@@ -11985,7 +14535,7 @@
     "weight": 11482.6
   },
   {
-    "order_no": "5705",
+    "order_no": "5855",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-07T16:16:05",
     "prod_end_time_local": "2020-01-07T18:44:02",
@@ -12002,7 +14552,7 @@
     "weight": 19951.1
   },
   {
-    "order_no": "5706",
+    "order_no": "5856",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-07T18:44:05",
     "prod_end_time_local": "2020-01-07T22:09:02",
@@ -12019,7 +14569,7 @@
     "weight": 21165.2
   },
   {
-    "order_no": "5707",
+    "order_no": "5857",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-07T22:09:05",
     "prod_end_time_local": "2020-01-07T23:21:02",
@@ -12036,7 +14586,7 @@
     "weight": 10040.1
   },
   {
-    "order_no": "5708",
+    "order_no": "5858",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-07T23:21:04",
     "prod_end_time_local": "2020-01-08T01:52:03",
@@ -12053,7 +14603,7 @@
     "weight": 13885.8
   },
   {
-    "order_no": "5709",
+    "order_no": "5859",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-08T01:52:05",
     "prod_end_time_local": "2020-01-08T03:53:02",
@@ -12070,7 +14620,7 @@
     "weight": 10411.6
   },
   {
-    "order_no": "5710",
+    "order_no": "5860",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-08T03:53:05",
     "prod_end_time_local": "2020-01-08T08:41:04",
@@ -12087,7 +14637,7 @@
     "weight": 10275.6
   },
   {
-    "order_no": "5711",
+    "order_no": "5861",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-08T08:41:06",
     "prod_end_time_local": "2020-01-08T09:36:03",
@@ -12104,7 +14654,7 @@
     "weight": 2539.9
   },
   {
-    "order_no": "5712",
+    "order_no": "5862",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-08T09:36:05",
     "prod_end_time_local": "2020-01-08T11:20:03",
@@ -12121,7 +14671,7 @@
     "weight": 2413
   },
   {
-    "order_no": "5713",
+    "order_no": "5863",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-08T11:20:06",
     "prod_end_time_local": "2020-01-08T12:05:03",
@@ -12138,7 +14688,7 @@
     "weight": 3546.2
   },
   {
-    "order_no": "5714",
+    "order_no": "5864",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-08T12:05:05",
     "prod_end_time_local": "2020-01-08T13:08:04",
@@ -12155,7 +14705,7 @@
     "weight": 2031.6
   },
   {
-    "order_no": "5715",
+    "order_no": "5865",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-08T13:08:07",
     "prod_end_time_local": "2020-01-08T13:51:04",
@@ -12172,7 +14722,7 @@
     "weight": 2191.8
   },
   {
-    "order_no": "5716",
+    "order_no": "5866",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-08T13:51:07",
     "prod_end_time_local": "2020-01-08T16:46:06",
@@ -12189,7 +14739,7 @@
     "weight": 6764
   },
   {
-    "order_no": "5717",
+    "order_no": "5867",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-08T16:46:10",
     "prod_end_time_local": "2020-01-08T18:02:04",
@@ -12206,7 +14756,7 @@
     "weight": 4707.6
   },
   {
-    "order_no": "5718",
+    "order_no": "5868",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-08T18:02:07",
     "prod_end_time_local": "2020-01-08T21:42:04",
@@ -12223,7 +14773,7 @@
     "weight": 14262.6
   },
   {
-    "order_no": "5719",
+    "order_no": "5869",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-08T21:42:06",
     "prod_end_time_local": "2020-01-09T01:15:09",
@@ -12240,7 +14790,7 @@
     "weight": 9730.9
   },
   {
-    "order_no": "5720",
+    "order_no": "5870",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-09T01:39:25",
     "prod_end_time_local": "2020-01-09T08:36:12",
@@ -12257,7 +14807,7 @@
     "weight": 42799.9
   },
   {
-    "order_no": "5721",
+    "order_no": "5871",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-09T08:36:15",
     "prod_end_time_local": "2020-01-09T13:33:16",
@@ -12274,7 +14824,7 @@
     "weight": 5773.6
   },
   {
-    "order_no": "5722",
+    "order_no": "5872",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-09T13:33:18",
     "prod_end_time_local": "2020-01-09T14:40:16",
@@ -12291,7 +14841,7 @@
     "weight": 816.9
   },
   {
-    "order_no": "5723",
+    "order_no": "5873",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-09T14:40:18",
     "prod_end_time_local": "2020-01-09T15:19:16",
@@ -12308,7 +14858,7 @@
     "weight": 1405.2
   },
   {
-    "order_no": "5724",
+    "order_no": "5874",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-09T15:19:18",
     "prod_end_time_local": "2020-01-09T16:17:16",
@@ -12325,7 +14875,7 @@
     "weight": 4654.5
   },
   {
-    "order_no": "5725",
+    "order_no": "5875",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-09T16:17:18",
     "prod_end_time_local": "2020-01-09T17:27:17",
@@ -12342,7 +14892,7 @@
     "weight": 2327.2
   },
   {
-    "order_no": "5726",
+    "order_no": "5876",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-09T17:27:19",
     "prod_end_time_local": "2020-01-09T17:41:17",
@@ -12359,7 +14909,7 @@
     "weight": 1693.8
   },
   {
-    "order_no": "5727",
+    "order_no": "5877",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-09T17:41:20",
     "prod_end_time_local": "2020-01-09T17:56:17",
@@ -12376,7 +14926,7 @@
     "weight": 455.3
   },
   {
-    "order_no": "5728",
+    "order_no": "5878",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-09T17:56:20",
     "prod_end_time_local": "2020-01-09T18:16:17",
@@ -12393,7 +14943,7 @@
     "weight": 1441.3
   },
   {
-    "order_no": "5729",
+    "order_no": "5879",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-09T18:16:20",
     "prod_end_time_local": "2020-01-09T19:10:18",
@@ -12410,7 +14960,7 @@
     "weight": 5524.9
   },
   {
-    "order_no": "5730",
+    "order_no": "5880",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-09T19:10:20",
     "prod_end_time_local": "2020-01-09T19:37:18",
@@ -12427,7 +14977,7 @@
     "weight": 1359.1
   },
   {
-    "order_no": "5731",
+    "order_no": "5881",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-09T19:37:20",
     "prod_end_time_local": "2020-01-09T20:51:17",
@@ -12444,7 +14994,7 @@
     "weight": 6511.7
   },
   {
-    "order_no": "5732",
+    "order_no": "5882",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-09T20:51:19",
     "prod_end_time_local": "2020-01-09T22:50:17",
@@ -12461,7 +15011,7 @@
     "weight": 5617.7
   },
   {
-    "order_no": "5733",
+    "order_no": "5883",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-09T22:50:20",
     "prod_end_time_local": "2020-01-10T02:15:19",
@@ -12478,7 +15028,7 @@
     "weight": 20507.7
   },
   {
-    "order_no": "5734",
+    "order_no": "5884",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-10T02:15:22",
     "prod_end_time_local": "2020-01-10T04:26:17",
@@ -12495,7 +15045,7 @@
     "weight": 22025.1
   },
   {
-    "order_no": "5735",
+    "order_no": "5885",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-10T04:26:19",
     "prod_end_time_local": "2020-01-10T04:51:17",
@@ -12512,7 +15062,7 @@
     "weight": 678.3
   },
   {
-    "order_no": "5736",
+    "order_no": "5886",
     "city_plant_no": "Zacconi",
     "prod_start_time_local": "2020-01-10T04:51:19",
     "prod_end_time_local": "2020-01-10T06:06:17",
@@ -12529,8 +15079,8 @@
     "weight": 3829.5
   },
   {
-    "order_no": "5737",
-    "city_plant_no": "Shima",
+    "order_no": "5887",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-13T10:12:04",
     "prod_end_time_local": "2019-12-13T14:36:27",
     "prod_time": 147.9,
@@ -12546,8 +15096,8 @@
     "weight": 6855.2
   },
   {
-    "order_no": "5738",
-    "city_plant_no": "Shima",
+    "order_no": "5888",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-13T14:36:29",
     "prod_end_time_local": "2019-12-13T15:51:27",
     "prod_time": 29.1,
@@ -12563,8 +15113,8 @@
     "weight": 1621.7
   },
   {
-    "order_no": "5739",
-    "city_plant_no": "Shima",
+    "order_no": "5889",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-13T15:51:29",
     "prod_end_time_local": "2019-12-13T17:44:29",
     "prod_time": 57.5,
@@ -12580,8 +15130,8 @@
     "weight": 2921.8
   },
   {
-    "order_no": "5740",
-    "city_plant_no": "Shima",
+    "order_no": "5890",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-13T17:49:31",
     "prod_end_time_local": "2019-12-13T22:02:29",
     "prod_time": 190.3,
@@ -12597,8 +15147,8 @@
     "weight": 24060.7
   },
   {
-    "order_no": "5741",
-    "city_plant_no": "Shima",
+    "order_no": "5891",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-13T22:14:31",
     "prod_end_time_local": "2019-12-13T23:22:29",
     "prod_time": 38.1,
@@ -12614,8 +15164,8 @@
     "weight": 7913.3
   },
   {
-    "order_no": "5742",
-    "city_plant_no": "Shima",
+    "order_no": "5892",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-13T23:22:31",
     "prod_end_time_local": "2019-12-14T00:25:29",
     "prod_time": 29.2,
@@ -12631,8 +15181,8 @@
     "weight": 1316
   },
   {
-    "order_no": "5743",
-    "city_plant_no": "Shima",
+    "order_no": "5893",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-14T00:25:31",
     "prod_end_time_local": "2019-12-14T01:17:29",
     "prod_time": 29.2,
@@ -12648,8 +15198,8 @@
     "weight": 3087.4
   },
   {
-    "order_no": "5744",
-    "city_plant_no": "Shima",
+    "order_no": "5894",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-14T01:17:31",
     "prod_end_time_local": "2019-12-14T03:30:29",
     "prod_time": 93.3,
@@ -12665,8 +15215,8 @@
     "weight": 17173
   },
   {
-    "order_no": "5745",
-    "city_plant_no": "Shima",
+    "order_no": "5895",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-14T03:30:32",
     "prod_end_time_local": "2019-12-14T08:42:29",
     "prod_time": 153.4,
@@ -12682,8 +15232,8 @@
     "weight": 26993.6
   },
   {
-    "order_no": "5746",
-    "city_plant_no": "Shima",
+    "order_no": "5896",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-14T08:42:31",
     "prod_end_time_local": "2019-12-14T09:03:29",
     "prod_time": 10,
@@ -12699,8 +15249,8 @@
     "weight": 1042.2
   },
   {
-    "order_no": "5747",
-    "city_plant_no": "Shima",
+    "order_no": "5897",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-14T09:03:33",
     "prod_end_time_local": "2019-12-14T10:12:29",
     "prod_time": 38.2,
@@ -12716,8 +15266,8 @@
     "weight": 2238.2
   },
   {
-    "order_no": "5748",
-    "city_plant_no": "Shima",
+    "order_no": "5898",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-14T10:12:31",
     "prod_end_time_local": "2019-12-17T07:17:29",
     "prod_time": 198.8,
@@ -12733,8 +15283,8 @@
     "weight": 33270.4
   },
   {
-    "order_no": "5749",
-    "city_plant_no": "Shima",
+    "order_no": "5899",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T07:17:31",
     "prod_end_time_local": "2019-12-17T08:34:29",
     "prod_time": 38.3,
@@ -12750,8 +15300,8 @@
     "weight": 2268.7
   },
   {
-    "order_no": "5750",
-    "city_plant_no": "Shima",
+    "order_no": "5900",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T08:34:31",
     "prod_end_time_local": "2019-12-17T09:10:29",
     "prod_time": 15,
@@ -12767,8 +15317,8 @@
     "weight": 1613.9
   },
   {
-    "order_no": "5751",
-    "city_plant_no": "Shima",
+    "order_no": "5901",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T09:10:31",
     "prod_end_time_local": "2019-12-17T09:33:29",
     "prod_time": 11,
@@ -12784,8 +15334,8 @@
     "weight": 797.3
   },
   {
-    "order_no": "5752",
-    "city_plant_no": "Shima",
+    "order_no": "5902",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T09:33:31",
     "prod_end_time_local": "2019-12-17T10:31:29",
     "prod_time": 25.1,
@@ -12801,8 +15351,8 @@
     "weight": 1539.9
   },
   {
-    "order_no": "5753",
-    "city_plant_no": "Shima",
+    "order_no": "5903",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T10:31:32",
     "prod_end_time_local": "2019-12-17T13:14:29",
     "prod_time": 122.2,
@@ -12818,8 +15368,8 @@
     "weight": 24008.2
   },
   {
-    "order_no": "5754",
-    "city_plant_no": "Shima",
+    "order_no": "5904",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T13:14:31",
     "prod_end_time_local": "2019-12-17T15:11:29",
     "prod_time": 97.1,
@@ -12835,8 +15385,8 @@
     "weight": 7953.9
   },
   {
-    "order_no": "5755",
-    "city_plant_no": "Shima",
+    "order_no": "5905",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T15:11:31",
     "prod_end_time_local": "2019-12-17T17:28:29",
     "prod_time": 106.2,
@@ -12852,8 +15402,8 @@
     "weight": 8407
   },
   {
-    "order_no": "5756",
-    "city_plant_no": "Shima",
+    "order_no": "5906",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T17:28:31",
     "prod_end_time_local": "2019-12-17T19:17:29",
     "prod_time": 78.3,
@@ -12869,8 +15419,8 @@
     "weight": 4975.5
   },
   {
-    "order_no": "5757",
-    "city_plant_no": "Shima",
+    "order_no": "5907",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T19:17:31",
     "prod_end_time_local": "2019-12-17T19:34:29",
     "prod_time": 10,
@@ -12886,8 +15436,8 @@
     "weight": 939.9
   },
   {
-    "order_no": "5758",
-    "city_plant_no": "Shima",
+    "order_no": "5908",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T19:34:31",
     "prod_end_time_local": "2019-12-17T19:58:29",
     "prod_time": 17,
@@ -12903,8 +15453,8 @@
     "weight": 1310.2
   },
   {
-    "order_no": "5759",
-    "city_plant_no": "Shima",
+    "order_no": "5909",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T19:58:32",
     "prod_end_time_local": "2019-12-17T20:34:29",
     "prod_time": 28,
@@ -12920,8 +15470,8 @@
     "weight": 2194.1
   },
   {
-    "order_no": "5760",
-    "city_plant_no": "Shima",
+    "order_no": "5910",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T20:34:31",
     "prod_end_time_local": "2019-12-17T21:36:29",
     "prod_time": 41.2,
@@ -12937,8 +15487,8 @@
     "weight": 1720.8
   },
   {
-    "order_no": "5761",
-    "city_plant_no": "Shima",
+    "order_no": "5911",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T21:36:31",
     "prod_end_time_local": "2019-12-17T22:09:29",
     "prod_time": 19.1,
@@ -12954,8 +15504,8 @@
     "weight": 2645.7
   },
   {
-    "order_no": "5762",
-    "city_plant_no": "Shima",
+    "order_no": "5912",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T22:09:31",
     "prod_end_time_local": "2019-12-17T23:40:30",
     "prod_time": 44.2,
@@ -12971,8 +15521,8 @@
     "weight": 2886.5
   },
   {
-    "order_no": "5763",
-    "city_plant_no": "Shima",
+    "order_no": "5913",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-17T23:40:32",
     "prod_end_time_local": "2019-12-18T00:27:29",
     "prod_time": 26.1,
@@ -12988,8 +15538,8 @@
     "weight": 2903.1
   },
   {
-    "order_no": "5764",
-    "city_plant_no": "Shima",
+    "order_no": "5914",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-18T00:27:31",
     "prod_end_time_local": "2019-12-18T00:52:29",
     "prod_time": 15,
@@ -13005,8 +15555,8 @@
     "weight": 2451.1
   },
   {
-    "order_no": "5765",
-    "city_plant_no": "Shima",
+    "order_no": "5915",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-18T00:52:31",
     "prod_end_time_local": "2019-12-18T01:09:30",
     "prod_time": 11,
@@ -13022,8 +15572,8 @@
     "weight": 2993.4
   },
   {
-    "order_no": "5766",
-    "city_plant_no": "Shima",
+    "order_no": "5916",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-18T01:09:32",
     "prod_end_time_local": "2019-12-18T03:02:29",
     "prod_time": 73.7,
@@ -13039,8 +15589,8 @@
     "weight": 5012.6
   },
   {
-    "order_no": "5767",
-    "city_plant_no": "Shima",
+    "order_no": "5917",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-18T03:02:31",
     "prod_end_time_local": "2019-12-18T06:27:29",
     "prod_time": 145.3,
@@ -13056,8 +15606,8 @@
     "weight": 15897.3
   },
   {
-    "order_no": "5768",
-    "city_plant_no": "Shima",
+    "order_no": "5918",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-18T06:27:31",
     "prod_end_time_local": "2019-12-18T10:09:29",
     "prod_time": 100.1,
@@ -13073,8 +15623,8 @@
     "weight": 8630.5
   },
   {
-    "order_no": "5769",
-    "city_plant_no": "Shima",
+    "order_no": "5919",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-18T10:09:31",
     "prod_end_time_local": "2019-12-18T14:21:29",
     "prod_time": 192.4,
@@ -13090,8 +15640,8 @@
     "weight": 13175.7
   },
   {
-    "order_no": "5770",
-    "city_plant_no": "Shima",
+    "order_no": "5920",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-18T14:21:32",
     "prod_end_time_local": "2019-12-18T22:35:29",
     "prod_time": 346.4,
@@ -13107,8 +15657,8 @@
     "weight": 22652.8
   },
   {
-    "order_no": "5771",
-    "city_plant_no": "Shima",
+    "order_no": "5921",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-18T22:35:31",
     "prod_end_time_local": "2019-12-19T06:08:29",
     "prod_time": 286.9,
@@ -13124,8 +15674,8 @@
     "weight": 23487.9
   },
   {
-    "order_no": "5772",
-    "city_plant_no": "Shima",
+    "order_no": "5922",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-19T06:08:31",
     "prod_end_time_local": "2019-12-19T16:45:29",
     "prod_time": 100.6,
@@ -13141,8 +15691,8 @@
     "weight": 8017.1
   },
   {
-    "order_no": "5773",
-    "city_plant_no": "Shima",
+    "order_no": "5923",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-19T17:08:31",
     "prod_end_time_local": "2019-12-19T18:14:29",
     "prod_time": 22.1,
@@ -13158,8 +15708,8 @@
     "weight": 2722.3
   },
   {
-    "order_no": "5774",
-    "city_plant_no": "Shima",
+    "order_no": "5924",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-19T18:14:31",
     "prod_end_time_local": "2019-12-19T22:01:29",
     "prod_time": 145.1,
@@ -13175,8 +15725,8 @@
     "weight": 11973.1
   },
   {
-    "order_no": "5775",
-    "city_plant_no": "Shima",
+    "order_no": "5925",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-19T22:01:31",
     "prod_end_time_local": "2019-12-19T22:46:29",
     "prod_time": 27.1,
@@ -13192,8 +15742,8 @@
     "weight": 2851.8
   },
   {
-    "order_no": "5776",
-    "city_plant_no": "Shima",
+    "order_no": "5926",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-19T22:46:33",
     "prod_end_time_local": "2019-12-19T23:34:29",
     "prod_time": 32.1,
@@ -13209,8 +15759,8 @@
     "weight": 1720.8
   },
   {
-    "order_no": "5777",
-    "city_plant_no": "Shima",
+    "order_no": "5927",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-19T23:34:31",
     "prod_end_time_local": "2019-12-20T00:05:29",
     "prod_time": 24,
@@ -13226,8 +15776,8 @@
     "weight": 2829.5
   },
   {
-    "order_no": "5778",
-    "city_plant_no": "Shima",
+    "order_no": "5928",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T00:05:31",
     "prod_end_time_local": "2019-12-20T00:41:29",
     "prod_time": 25.1,
@@ -13243,8 +15793,8 @@
     "weight": 5372.6
   },
   {
-    "order_no": "5779",
-    "city_plant_no": "Shima",
+    "order_no": "5929",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T00:41:31",
     "prod_end_time_local": "2019-12-20T01:18:29",
     "prod_time": 24,
@@ -13260,8 +15810,8 @@
     "weight": 5070.6
   },
   {
-    "order_no": "5780",
-    "city_plant_no": "Shima",
+    "order_no": "5930",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T01:18:31",
     "prod_end_time_local": "2019-12-20T01:43:29",
     "prod_time": 13,
@@ -13277,8 +15827,8 @@
     "weight": 1708.2
   },
   {
-    "order_no": "5781",
-    "city_plant_no": "Shima",
+    "order_no": "5931",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T01:43:32",
     "prod_end_time_local": "2019-12-20T02:14:29",
     "prod_time": 18.1,
@@ -13294,8 +15844,8 @@
     "weight": 2960.8
   },
   {
-    "order_no": "5782",
-    "city_plant_no": "Shima",
+    "order_no": "5932",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T02:14:33",
     "prod_end_time_local": "2019-12-20T02:58:29",
     "prod_time": 25.1,
@@ -13311,8 +15861,8 @@
     "weight": 2580.2
   },
   {
-    "order_no": "5783",
-    "city_plant_no": "Shima",
+    "order_no": "5933",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T02:58:31",
     "prod_end_time_local": "2019-12-20T03:55:29",
     "prod_time": 39.2,
@@ -13328,8 +15878,8 @@
     "weight": 1541.8
   },
   {
-    "order_no": "5784",
-    "city_plant_no": "Shima",
+    "order_no": "5934",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T03:55:31",
     "prod_end_time_local": "2019-12-20T04:30:29",
     "prod_time": 27.1,
@@ -13345,8 +15895,8 @@
     "weight": 1817.5
   },
   {
-    "order_no": "5785",
-    "city_plant_no": "Shima",
+    "order_no": "5935",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T04:30:31",
     "prod_end_time_local": "2019-12-20T05:09:29",
     "prod_time": 17.2,
@@ -13362,8 +15912,8 @@
     "weight": 654.2
   },
   {
-    "order_no": "5786",
-    "city_plant_no": "Shima",
+    "order_no": "5936",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T05:09:31",
     "prod_end_time_local": "2019-12-20T05:48:29",
     "prod_time": 15.1,
@@ -13379,8 +15929,8 @@
     "weight": 1953.7
   },
   {
-    "order_no": "5787",
-    "city_plant_no": "Shima",
+    "order_no": "5937",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T05:53:32",
     "prod_end_time_local": "2019-12-20T06:26:29",
     "prod_time": 14.2,
@@ -13396,8 +15946,8 @@
     "weight": 215.3
   },
   {
-    "order_no": "5788",
-    "city_plant_no": "Shima",
+    "order_no": "5938",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T06:26:31",
     "prod_end_time_local": "2019-12-20T09:12:29",
     "prod_time": 29.4,
@@ -13413,8 +15963,8 @@
     "weight": 529.8
   },
   {
-    "order_no": "5789",
-    "city_plant_no": "Shima",
+    "order_no": "5939",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T09:12:31",
     "prod_end_time_local": "2019-12-20T09:42:30",
     "prod_time": 15.1,
@@ -13430,8 +15980,8 @@
     "weight": 2048.6
   },
   {
-    "order_no": "5790",
-    "city_plant_no": "Shima",
+    "order_no": "5940",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T09:42:32",
     "prod_end_time_local": "2019-12-20T10:13:29",
     "prod_time": 21,
@@ -13447,8 +15997,8 @@
     "weight": 1401.8
   },
   {
-    "order_no": "5791",
-    "city_plant_no": "Shima",
+    "order_no": "5941",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T10:13:31",
     "prod_end_time_local": "2019-12-20T10:35:29",
     "prod_time": 12,
@@ -13464,8 +16014,8 @@
     "weight": 1052.3
   },
   {
-    "order_no": "5792",
-    "city_plant_no": "Shima",
+    "order_no": "5942",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T10:35:31",
     "prod_end_time_local": "2019-12-20T11:19:29",
     "prod_time": 25.1,
@@ -13481,8 +16031,8 @@
     "weight": 2487.9
   },
   {
-    "order_no": "5793",
-    "city_plant_no": "Shima",
+    "order_no": "5943",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T11:19:31",
     "prod_end_time_local": "2019-12-20T12:03:29",
     "prod_time": 32,
@@ -13498,8 +16048,8 @@
     "weight": 4082.1
   },
   {
-    "order_no": "5794",
-    "city_plant_no": "Shima",
+    "order_no": "5944",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T12:03:31",
     "prod_end_time_local": "2019-12-20T12:27:29",
     "prod_time": 8,
@@ -13515,8 +16065,8 @@
     "weight": 831.1
   },
   {
-    "order_no": "5795",
-    "city_plant_no": "Shima",
+    "order_no": "5945",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T12:27:31",
     "prod_end_time_local": "2019-12-20T13:05:29",
     "prod_time": 26.1,
@@ -13532,8 +16082,8 @@
     "weight": 3832.3
   },
   {
-    "order_no": "5796",
-    "city_plant_no": "Shima",
+    "order_no": "5946",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T13:05:32",
     "prod_end_time_local": "2019-12-20T16:17:29",
     "prod_time": 135.5,
@@ -13549,8 +16099,8 @@
     "weight": 8288.2
   },
   {
-    "order_no": "5797",
-    "city_plant_no": "Shima",
+    "order_no": "5947",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T16:17:31",
     "prod_end_time_local": "2019-12-20T18:04:29",
     "prod_time": 76.3,
@@ -13566,8 +16116,8 @@
     "weight": 3970.9
   },
   {
-    "order_no": "5798",
-    "city_plant_no": "Shima",
+    "order_no": "5948",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T18:04:31",
     "prod_end_time_local": "2019-12-20T19:37:29",
     "prod_time": 54.2,
@@ -13583,8 +16133,8 @@
     "weight": 2076.3
   },
   {
-    "order_no": "5799",
-    "city_plant_no": "Shima",
+    "order_no": "5949",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T19:37:31",
     "prod_end_time_local": "2019-12-20T20:06:29",
     "prod_time": 14.1,
@@ -13600,8 +16150,8 @@
     "weight": 728.4
   },
   {
-    "order_no": "5800",
-    "city_plant_no": "Shima",
+    "order_no": "5950",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T20:06:31",
     "prod_end_time_local": "2019-12-20T20:49:29",
     "prod_time": 29.1,
@@ -13617,8 +16167,8 @@
     "weight": 1802.4
   },
   {
-    "order_no": "5801",
-    "city_plant_no": "Shima",
+    "order_no": "5951",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T20:49:31",
     "prod_end_time_local": "2019-12-20T21:28:29",
     "prod_time": 20.1,
@@ -13634,8 +16184,8 @@
     "weight": 1000.6
   },
   {
-    "order_no": "5802",
-    "city_plant_no": "Shima",
+    "order_no": "5952",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T21:28:31",
     "prod_end_time_local": "2019-12-20T22:12:27",
     "prod_time": 30.1,
@@ -13651,8 +16201,8 @@
     "weight": 915.7
   },
   {
-    "order_no": "5803",
-    "city_plant_no": "Shima",
+    "order_no": "5953",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-20T22:12:28",
     "prod_end_time_local": "2019-12-21T01:31:29",
     "prod_time": 147.2,
@@ -13668,8 +16218,8 @@
     "weight": 37296.5
   },
   {
-    "order_no": "5804",
-    "city_plant_no": "Shima",
+    "order_no": "5954",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-21T01:31:31",
     "prod_end_time_local": "2019-12-21T02:10:29",
     "prod_time": 23.1,
@@ -13685,8 +16235,8 @@
     "weight": 5873.4
   },
   {
-    "order_no": "5805",
-    "city_plant_no": "Shima",
+    "order_no": "5955",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-21T02:10:31",
     "prod_end_time_local": "2019-12-21T03:07:29",
     "prod_time": 41.1,
@@ -13702,8 +16252,8 @@
     "weight": 10086
   },
   {
-    "order_no": "5806",
-    "city_plant_no": "Shima",
+    "order_no": "5956",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-21T03:07:31",
     "prod_end_time_local": "2019-12-21T04:23:29",
     "prod_time": 12.1,
@@ -13719,8 +16269,8 @@
     "weight": 2071.2
   },
   {
-    "order_no": "5807",
-    "city_plant_no": "Shima",
+    "order_no": "5957",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-21T04:23:31",
     "prod_end_time_local": "2019-12-21T05:06:29",
     "prod_time": 17.1,
@@ -13736,8 +16286,8 @@
     "weight": 765.4
   },
   {
-    "order_no": "5808",
-    "city_plant_no": "Shima",
+    "order_no": "5958",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-21T08:06:31",
     "prod_end_time_local": "2019-12-21T13:43:29",
     "prod_time": 164.8,
@@ -13753,8 +16303,8 @@
     "weight": 10746
   },
   {
-    "order_no": "5809",
-    "city_plant_no": "Shima",
+    "order_no": "5959",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-21T13:43:32",
     "prod_end_time_local": "2019-12-21T14:11:29",
     "prod_time": 22.1,
@@ -13770,8 +16320,8 @@
     "weight": 2721.1
   },
   {
-    "order_no": "5810",
-    "city_plant_no": "Shima",
+    "order_no": "5960",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-21T14:11:31",
     "prod_end_time_local": "2019-12-30T07:07:29",
     "prod_time": 16.1,
@@ -13787,8 +16337,8 @@
     "weight": 1423.9
   },
   {
-    "order_no": "5811",
-    "city_plant_no": "Shima",
+    "order_no": "5961",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-30T07:07:31",
     "prod_end_time_local": "2019-12-30T12:58:29",
     "prod_time": 225.7,
@@ -13804,8 +16354,8 @@
     "weight": 15988.3
   },
   {
-    "order_no": "5812",
-    "city_plant_no": "Shima",
+    "order_no": "5962",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-30T12:58:31",
     "prod_end_time_local": "2019-12-31T08:56:29",
     "prod_time": 267.1,
@@ -13821,8 +16371,8 @@
     "weight": 16803.6
   },
   {
-    "order_no": "5813",
-    "city_plant_no": "Shima",
+    "order_no": "5963",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-31T08:56:31",
     "prod_end_time_local": "2019-12-31T10:04:29",
     "prod_time": 24.3,
@@ -13838,8 +16388,8 @@
     "weight": 1145
   },
   {
-    "order_no": "5814",
-    "city_plant_no": "Shima",
+    "order_no": "5964",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-31T10:04:31",
     "prod_end_time_local": "2019-12-31T10:57:29",
     "prod_time": 25.2,
@@ -13855,8 +16405,8 @@
     "weight": 1059.7
   },
   {
-    "order_no": "5815",
-    "city_plant_no": "Shima",
+    "order_no": "5965",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-31T10:57:31",
     "prod_end_time_local": "2019-12-31T14:03:29",
     "prod_time": 152.1,
@@ -13872,8 +16422,8 @@
     "weight": 15196.9
   },
   {
-    "order_no": "5816",
-    "city_plant_no": "Shima",
+    "order_no": "5966",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2019-12-31T14:03:31",
     "prod_end_time_local": "2020-01-02T10:12:29",
     "prod_time": 148.3,
@@ -13889,8 +16439,8 @@
     "weight": 14730.4
   },
   {
-    "order_no": "5817",
-    "city_plant_no": "Shima",
+    "order_no": "5967",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-02T10:12:31",
     "prod_end_time_local": "2020-01-02T14:00:29",
     "prod_time": 172,
@@ -13906,8 +16456,8 @@
     "weight": 20049.4
   },
   {
-    "order_no": "5818",
-    "city_plant_no": "Shima",
+    "order_no": "5968",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-02T14:00:31",
     "prod_end_time_local": "2020-01-02T15:08:20",
     "prod_time": 27.2,
@@ -13923,8 +16473,8 @@
     "weight": 2208.2
   },
   {
-    "order_no": "5819",
-    "city_plant_no": "Shima",
+    "order_no": "5969",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-02T15:08:22",
     "prod_end_time_local": "2020-01-02T15:44:20",
     "prod_time": 28,
@@ -13940,8 +16490,8 @@
     "weight": 7747.3
   },
   {
-    "order_no": "5820",
-    "city_plant_no": "Shima",
+    "order_no": "5970",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-02T15:44:22",
     "prod_end_time_local": "2020-01-02T16:04:20",
     "prod_time": 16,
@@ -13957,8 +16507,8 @@
     "weight": 2652.2
   },
   {
-    "order_no": "5821",
-    "city_plant_no": "Shima",
+    "order_no": "5971",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-02T16:04:22",
     "prod_end_time_local": "2020-01-02T16:30:20",
     "prod_time": 17.1,
@@ -13974,8 +16524,8 @@
     "weight": 1136.7
   },
   {
-    "order_no": "5822",
-    "city_plant_no": "Shima",
+    "order_no": "5972",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-02T16:30:22",
     "prod_end_time_local": "2020-01-02T17:06:20",
     "prod_time": 25.1,
@@ -13991,8 +16541,8 @@
     "weight": 2368
   },
   {
-    "order_no": "5823",
-    "city_plant_no": "Shima",
+    "order_no": "5973",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-02T17:06:22",
     "prod_end_time_local": "2020-01-02T17:25:21",
     "prod_time": 9.1,
@@ -14008,8 +16558,8 @@
     "weight": 1391.3
   },
   {
-    "order_no": "5824",
-    "city_plant_no": "Shima",
+    "order_no": "5974",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-02T17:25:23",
     "prod_end_time_local": "2020-01-02T17:43:21",
     "prod_time": 10,
@@ -14025,8 +16575,8 @@
     "weight": 1187
   },
   {
-    "order_no": "5825",
-    "city_plant_no": "Shima",
+    "order_no": "5975",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-02T17:43:23",
     "prod_end_time_local": "2020-01-02T18:12:22",
     "prod_time": 24.1,
@@ -14042,8 +16592,8 @@
     "weight": 4053.6
   },
   {
-    "order_no": "5826",
-    "city_plant_no": "Shima",
+    "order_no": "5976",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-02T18:12:24",
     "prod_end_time_local": "2020-01-03T14:16:23",
     "prod_time": 39.2,
@@ -14059,8 +16609,8 @@
     "weight": 4161.1
   },
   {
-    "order_no": "5827",
-    "city_plant_no": "Shima",
+    "order_no": "5977",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-03T14:16:25",
     "prod_end_time_local": "2020-01-03T15:21:22",
     "prod_time": 42.2,
@@ -14076,8 +16626,8 @@
     "weight": 2661.9
   },
   {
-    "order_no": "5828",
-    "city_plant_no": "Shima",
+    "order_no": "5978",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-03T15:21:24",
     "prod_end_time_local": "2020-01-04T08:28:22",
     "prod_time": 162.7,
@@ -14093,8 +16643,8 @@
     "weight": 27805.2
   },
   {
-    "order_no": "5829",
-    "city_plant_no": "Shima",
+    "order_no": "5979",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-04T08:28:24",
     "prod_end_time_local": "2020-01-04T09:14:23",
     "prod_time": 40.1,
@@ -14110,8 +16660,8 @@
     "weight": 5926.6
   },
   {
-    "order_no": "5830",
-    "city_plant_no": "Shima",
+    "order_no": "5980",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-04T09:14:25",
     "prod_end_time_local": "2020-01-04T10:20:22",
     "prod_time": 44.6,
@@ -14127,8 +16677,8 @@
     "weight": 3182.3
   },
   {
-    "order_no": "5831",
-    "city_plant_no": "Shima",
+    "order_no": "5981",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-04T10:20:25",
     "prod_end_time_local": "2020-01-04T12:38:22",
     "prod_time": 86.5,
@@ -14144,8 +16694,8 @@
     "weight": 6046.5
   },
   {
-    "order_no": "5832",
-    "city_plant_no": "Shima",
+    "order_no": "5982",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-04T12:38:25",
     "prod_end_time_local": "2020-01-06T08:10:03",
     "prod_time": 97.5,
@@ -14161,8 +16711,8 @@
     "weight": 0
   },
   {
-    "order_no": "5833",
-    "city_plant_no": "Shima",
+    "order_no": "5983",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-06T08:10:06",
     "prod_end_time_local": "2020-01-07T08:14:03",
     "prod_time": 1414.1,
@@ -14178,8 +16728,8 @@
     "weight": 1805.7
   },
   {
-    "order_no": "5834",
-    "city_plant_no": "Shima",
+    "order_no": "5984",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-07T08:14:05",
     "prod_end_time_local": "2020-01-07T09:40:04",
     "prod_time": 83.1,
@@ -14195,8 +16745,8 @@
     "weight": 10366.6
   },
   {
-    "order_no": "5835",
-    "city_plant_no": "Shima",
+    "order_no": "5985",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-07T09:40:06",
     "prod_end_time_local": "2020-01-07T12:43:03",
     "prod_time": 110,
@@ -14212,8 +16762,8 @@
     "weight": 4964.3
   },
   {
-    "order_no": "5836",
-    "city_plant_no": "Shima",
+    "order_no": "5986",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-07T12:43:06",
     "prod_end_time_local": "2020-01-07T13:13:04",
     "prod_time": 18,
@@ -14229,8 +16779,8 @@
     "weight": 1529.6
   },
   {
-    "order_no": "5837",
-    "city_plant_no": "Shima",
+    "order_no": "5987",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-07T13:13:06",
     "prod_end_time_local": "2020-01-07T16:19:03",
     "prod_time": 151.2,
@@ -14246,8 +16796,8 @@
     "weight": 22381.6
   },
   {
-    "order_no": "5838",
-    "city_plant_no": "Shima",
+    "order_no": "5988",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-07T16:19:05",
     "prod_end_time_local": "2020-01-07T19:41:04",
     "prod_time": 115.5,
@@ -14263,8 +16813,8 @@
     "weight": 20073.3
   },
   {
-    "order_no": "5839",
-    "city_plant_no": "Shima",
+    "order_no": "5989",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-07T19:41:08",
     "prod_end_time_local": "2020-01-07T21:00:03",
     "prod_time": 28.2,
@@ -14280,8 +16830,8 @@
     "weight": 2415.1
   },
   {
-    "order_no": "5840",
-    "city_plant_no": "Shima",
+    "order_no": "5990",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-07T21:00:06",
     "prod_end_time_local": "2020-01-07T21:29:04",
     "prod_time": 13,
@@ -14297,8 +16847,8 @@
     "weight": 1680.1
   },
   {
-    "order_no": "5841",
-    "city_plant_no": "Shima",
+    "order_no": "5991",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-07T21:29:07",
     "prod_end_time_local": "2020-01-07T23:13:03",
     "prod_time": 63.4,
@@ -14314,8 +16864,8 @@
     "weight": 4947.9
   },
   {
-    "order_no": "5842",
-    "city_plant_no": "Shima",
+    "order_no": "5992",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-07T23:13:05",
     "prod_end_time_local": "2020-01-08T00:26:03",
     "prod_time": 43.6,
@@ -14331,8 +16881,8 @@
     "weight": 2529
   },
   {
-    "order_no": "5843",
-    "city_plant_no": "Shima",
+    "order_no": "5993",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-08T00:26:05",
     "prod_end_time_local": "2020-01-08T02:20:03",
     "prod_time": 71.3,
@@ -14348,8 +16898,8 @@
     "weight": 5902.1
   },
   {
-    "order_no": "5844",
-    "city_plant_no": "Shima",
+    "order_no": "5994",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-08T02:20:06",
     "prod_end_time_local": "2020-01-08T07:11:04",
     "prod_time": 72.4,
@@ -14365,8 +16915,8 @@
     "weight": 4555
   },
   {
-    "order_no": "5845",
-    "city_plant_no": "Shima",
+    "order_no": "5995",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-08T07:11:06",
     "prod_end_time_local": "2020-01-08T08:34:04",
     "prod_time": 45.1,
@@ -14382,8 +16932,8 @@
     "weight": 5440.7
   },
   {
-    "order_no": "5846",
-    "city_plant_no": "Shima",
+    "order_no": "5996",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-08T08:34:06",
     "prod_end_time_local": "2020-01-08T10:56:04",
     "prod_time": 101.2,
@@ -14399,8 +16949,8 @@
     "weight": 9230
   },
   {
-    "order_no": "5847",
-    "city_plant_no": "Shima",
+    "order_no": "5997",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-08T10:56:06",
     "prod_end_time_local": "2020-01-08T14:01:05",
     "prod_time": 139.3,
@@ -14416,8 +16966,8 @@
     "weight": 29252.8
   },
   {
-    "order_no": "5848",
-    "city_plant_no": "Shima",
+    "order_no": "5998",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-08T14:01:07",
     "prod_end_time_local": "2020-01-08T15:42:04",
     "prod_time": 61.3,
@@ -14433,8 +16983,8 @@
     "weight": 6859.2
   },
   {
-    "order_no": "5849",
-    "city_plant_no": "Shima",
+    "order_no": "5999",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-08T15:42:06",
     "prod_end_time_local": "2020-01-08T16:45:04",
     "prod_time": 40,
@@ -14450,8 +17000,8 @@
     "weight": 5612.1
   },
   {
-    "order_no": "5850",
-    "city_plant_no": "Shima",
+    "order_no": "6000",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-08T16:45:06",
     "prod_end_time_local": "2020-01-08T17:18:05",
     "prod_time": 27.1,
@@ -14467,8 +17017,8 @@
     "weight": 3978.2
   },
   {
-    "order_no": "5851",
-    "city_plant_no": "Shima",
+    "order_no": "6001",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-08T17:18:07",
     "prod_end_time_local": "2020-01-08T18:01:05",
     "prod_time": 19.2,
@@ -14484,8 +17034,8 @@
     "weight": 399.1
   },
   {
-    "order_no": "5852",
-    "city_plant_no": "Shima",
+    "order_no": "6002",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-08T18:01:08",
     "prod_end_time_local": "2020-01-08T20:05:06",
     "prod_time": 100.4,
@@ -14501,8 +17051,8 @@
     "weight": 14275.4
   },
   {
-    "order_no": "5853",
-    "city_plant_no": "Shima",
+    "order_no": "6003",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-08T20:05:08",
     "prod_end_time_local": "2020-01-08T20:57:05",
     "prod_time": 14.2,
@@ -14518,8 +17068,8 @@
     "weight": 1354.8
   },
   {
-    "order_no": "5854",
-    "city_plant_no": "Shima",
+    "order_no": "6004",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-08T20:57:08",
     "prod_end_time_local": "2020-01-08T22:54:06",
     "prod_time": 80.3,
@@ -14535,8 +17085,8 @@
     "weight": 14425.5
   },
   {
-    "order_no": "5855",
-    "city_plant_no": "Shima",
+    "order_no": "6005",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-08T22:54:08",
     "prod_end_time_local": "2020-01-09T00:10:06",
     "prod_time": 49.3,
@@ -14552,8 +17102,8 @@
     "weight": 10710.9
   },
   {
-    "order_no": "5856",
-    "city_plant_no": "Shima",
+    "order_no": "6006",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-09T00:10:08",
     "prod_end_time_local": "2020-01-09T01:04:05",
     "prod_time": 36.1,
@@ -14569,8 +17119,8 @@
     "weight": 5999.2
   },
   {
-    "order_no": "5857",
-    "city_plant_no": "Shima",
+    "order_no": "6007",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-09T01:04:08",
     "prod_end_time_local": "2020-01-09T13:43:16",
     "prod_time": 264.7,
@@ -14586,8 +17136,8 @@
     "weight": 10302.5
   },
   {
-    "order_no": "5858",
-    "city_plant_no": "Shima",
+    "order_no": "6008",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-09T13:43:19",
     "prod_end_time_local": "2020-01-09T14:41:16",
     "prod_time": 14.1,
@@ -14603,8 +17153,8 @@
     "weight": 18679.8
   },
   {
-    "order_no": "5859",
-    "city_plant_no": "Shima",
+    "order_no": "6009",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-09T14:41:19",
     "prod_end_time_local": "2020-01-09T15:01:16",
     "prod_time": 11.1,
@@ -14620,8 +17170,8 @@
     "weight": 663.9
   },
   {
-    "order_no": "5860",
-    "city_plant_no": "Shima",
+    "order_no": "6010",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-09T15:01:20",
     "prod_end_time_local": "2020-01-09T15:26:16",
     "prod_time": 13.1,
@@ -14637,8 +17187,8 @@
     "weight": 1066.4
   },
   {
-    "order_no": "5861",
-    "city_plant_no": "Shima",
+    "order_no": "6011",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-09T15:26:19",
     "prod_end_time_local": "2020-01-09T16:34:16",
     "prod_time": 41.2,
@@ -14654,8 +17204,8 @@
     "weight": 5044.7
   },
   {
-    "order_no": "5862",
-    "city_plant_no": "Shima",
+    "order_no": "6012",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-09T16:34:19",
     "prod_end_time_local": "2020-01-09T17:22:17",
     "prod_time": 26.2,
@@ -14671,8 +17221,8 @@
     "weight": 2841
   },
   {
-    "order_no": "5863",
-    "city_plant_no": "Shima",
+    "order_no": "6013",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-09T17:22:19",
     "prod_end_time_local": "2020-01-09T20:31:17",
     "prod_time": 53,
@@ -14688,8 +17238,8 @@
     "weight": 1543
   },
   {
-    "order_no": "5864",
-    "city_plant_no": "Shima",
+    "order_no": "6014",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-09T20:31:19",
     "prod_end_time_local": "2020-01-09T22:05:17",
     "prod_time": 30.4,
@@ -14705,8 +17255,8 @@
     "weight": 1345
   },
   {
-    "order_no": "5865",
-    "city_plant_no": "Shima",
+    "order_no": "6015",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-09T22:05:18",
     "prod_end_time_local": "2020-01-09T23:56:17",
     "prod_time": 84.1,
@@ -14722,8 +17272,8 @@
     "weight": 8273.7
   },
   {
-    "order_no": "5866",
-    "city_plant_no": "Shima",
+    "order_no": "6016",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-09T23:56:20",
     "prod_end_time_local": "2020-01-10T01:42:19",
     "prod_time": 70.3,
@@ -14739,8 +17289,8 @@
     "weight": 6874.3
   },
   {
-    "order_no": "5867",
-    "city_plant_no": "Shima",
+    "order_no": "6017",
+    "city_plant_no": "DongFeng",
     "prod_start_time_local": "2020-01-10T01:42:21",
     "prod_end_time_local": "2020-01-10T06:06:17",
     "prod_time": 206.1,
@@ -14756,7 +17306,7 @@
     "weight": 22602.2
   },
   {
-    "order_no": "5868",
+    "order_no": "6018",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T10:00:08",
     "prod_end_time_local": "2019-12-13T10:34:04",
@@ -14773,7 +17323,7 @@
     "weight": 4241.3
   },
   {
-    "order_no": "5869",
+    "order_no": "6019",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T10:49:05",
     "prod_end_time_local": "2019-12-13T11:23:02",
@@ -14790,7 +17340,7 @@
     "weight": 3528.8
   },
   {
-    "order_no": "5870",
+    "order_no": "6020",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T11:23:04",
     "prod_end_time_local": "2019-12-13T12:05:02",
@@ -14807,7 +17357,7 @@
     "weight": 2372.8
   },
   {
-    "order_no": "5871",
+    "order_no": "6021",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T12:05:04",
     "prod_end_time_local": "2019-12-13T12:28:02",
@@ -14824,7 +17374,7 @@
     "weight": 1870
   },
   {
-    "order_no": "5872",
+    "order_no": "6022",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T12:28:03",
     "prod_end_time_local": "2019-12-13T14:12:02",
@@ -14841,7 +17391,7 @@
     "weight": 8257.6
   },
   {
-    "order_no": "5873",
+    "order_no": "6023",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T14:12:04",
     "prod_end_time_local": "2019-12-13T15:58:02",
@@ -14858,7 +17408,7 @@
     "weight": 3136.7
   },
   {
-    "order_no": "5874",
+    "order_no": "6024",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T15:58:04",
     "prod_end_time_local": "2019-12-13T17:05:02",
@@ -14875,7 +17425,7 @@
     "weight": 3906.8
   },
   {
-    "order_no": "5875",
+    "order_no": "6025",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T17:05:04",
     "prod_end_time_local": "2019-12-13T18:11:02",
@@ -14892,7 +17442,7 @@
     "weight": 3875.2
   },
   {
-    "order_no": "5876",
+    "order_no": "6026",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T18:11:04",
     "prod_end_time_local": "2019-12-13T18:45:02",
@@ -14909,7 +17459,7 @@
     "weight": 3508.6
   },
   {
-    "order_no": "5877",
+    "order_no": "6027",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T18:45:03",
     "prod_end_time_local": "2019-12-13T19:07:02",
@@ -14926,7 +17476,7 @@
     "weight": 2396.2
   },
   {
-    "order_no": "5878",
+    "order_no": "6028",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T19:07:03",
     "prod_end_time_local": "2019-12-13T19:58:01",
@@ -14943,7 +17493,7 @@
     "weight": 1653.1
   },
   {
-    "order_no": "5879",
+    "order_no": "6029",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T19:58:03",
     "prod_end_time_local": "2019-12-13T20:21:01",
@@ -14960,7 +17510,7 @@
     "weight": 1202.5
   },
   {
-    "order_no": "5880",
+    "order_no": "6030",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T20:21:04",
     "prod_end_time_local": "2019-12-13T20:36:00",
@@ -14977,7 +17527,7 @@
     "weight": 1273.7
   },
   {
-    "order_no": "5881",
+    "order_no": "6031",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T20:36:01",
     "prod_end_time_local": "2019-12-13T20:58:01",
@@ -14994,7 +17544,7 @@
     "weight": 1439.7
   },
   {
-    "order_no": "5882",
+    "order_no": "6032",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T20:58:02",
     "prod_end_time_local": "2019-12-13T21:20:01",
@@ -15011,7 +17561,7 @@
     "weight": 422
   },
   {
-    "order_no": "5883",
+    "order_no": "6033",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T21:20:02",
     "prod_end_time_local": "2019-12-13T21:40:01",
@@ -15028,7 +17578,7 @@
     "weight": 434.3
   },
   {
-    "order_no": "5884",
+    "order_no": "6034",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T21:40:02",
     "prod_end_time_local": "2019-12-13T21:52:01",
@@ -15045,7 +17595,7 @@
     "weight": 441.4
   },
   {
-    "order_no": "5885",
+    "order_no": "6035",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T21:52:02",
     "prod_end_time_local": "2019-12-13T22:03:01",
@@ -15062,7 +17612,7 @@
     "weight": 460.8
   },
   {
-    "order_no": "5886",
+    "order_no": "6036",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T22:03:02",
     "prod_end_time_local": "2019-12-13T22:20:01",
@@ -15079,7 +17629,7 @@
     "weight": 453.3
   },
   {
-    "order_no": "5887",
+    "order_no": "6037",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T22:20:02",
     "prod_end_time_local": "2019-12-13T22:30:01",
@@ -15096,7 +17646,7 @@
     "weight": 520.4
   },
   {
-    "order_no": "5888",
+    "order_no": "6038",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T22:30:02",
     "prod_end_time_local": "2019-12-13T22:50:01",
@@ -15113,7 +17663,7 @@
     "weight": 1249.4
   },
   {
-    "order_no": "5889",
+    "order_no": "6039",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T22:50:02",
     "prod_end_time_local": "2019-12-13T23:23:01",
@@ -15130,7 +17680,7 @@
     "weight": 701.9
   },
   {
-    "order_no": "5890",
+    "order_no": "6040",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T23:23:02",
     "prod_end_time_local": "2019-12-13T23:56:01",
@@ -15147,7 +17697,7 @@
     "weight": 712.6
   },
   {
-    "order_no": "5891",
+    "order_no": "6041",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-13T23:56:02",
     "prod_end_time_local": "2019-12-14T00:08:01",
@@ -15164,7 +17714,7 @@
     "weight": 677.6
   },
   {
-    "order_no": "5892",
+    "order_no": "6042",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-14T00:08:02",
     "prod_end_time_local": "2019-12-14T00:20:02",
@@ -15181,7 +17731,7 @@
     "weight": 759.7
   },
   {
-    "order_no": "5893",
+    "order_no": "6043",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-14T00:20:03",
     "prod_end_time_local": "2019-12-14T00:39:02",
@@ -15198,7 +17748,7 @@
     "weight": 1375.5
   },
   {
-    "order_no": "5894",
+    "order_no": "6044",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-14T00:39:03",
     "prod_end_time_local": "2019-12-14T00:57:02",
@@ -15215,7 +17765,7 @@
     "weight": 1378.9
   },
   {
-    "order_no": "5895",
+    "order_no": "6045",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-14T00:57:03",
     "prod_end_time_local": "2019-12-14T01:07:02",
@@ -15232,7 +17782,7 @@
     "weight": 704.2
   },
   {
-    "order_no": "5896",
+    "order_no": "6046",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-14T01:07:03",
     "prod_end_time_local": "2019-12-14T01:17:02",
@@ -15249,7 +17799,7 @@
     "weight": 854.3
   },
   {
-    "order_no": "5897",
+    "order_no": "6047",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-14T01:17:03",
     "prod_end_time_local": "2019-12-14T03:11:01",
@@ -15266,7 +17816,7 @@
     "weight": 14172.2
   },
   {
-    "order_no": "5898",
+    "order_no": "6048",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-14T03:11:02",
     "prod_end_time_local": "2019-12-14T05:15:01",
@@ -15283,7 +17833,7 @@
     "weight": 12575.1
   },
   {
-    "order_no": "5899",
+    "order_no": "6049",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-14T05:15:02",
     "prod_end_time_local": "2019-12-14T11:15:02",
@@ -15300,7 +17850,7 @@
     "weight": 29472.3
   },
   {
-    "order_no": "5900",
+    "order_no": "6050",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-14T17:57:02",
     "prod_end_time_local": "2019-12-14T20:44:02",
@@ -15317,7 +17867,7 @@
     "weight": 19385.6
   },
   {
-    "order_no": "5901",
+    "order_no": "6051",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-14T20:44:03",
     "prod_end_time_local": "2019-12-14T21:32:01",
@@ -15334,7 +17884,7 @@
     "weight": 5070.4
   },
   {
-    "order_no": "5902",
+    "order_no": "6052",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-14T21:32:02",
     "prod_end_time_local": "2019-12-14T22:11:01",
@@ -15351,7 +17901,7 @@
     "weight": 3116.3
   },
   {
-    "order_no": "5903",
+    "order_no": "6053",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-14T22:11:02",
     "prod_end_time_local": "2019-12-14T23:23:01",
@@ -15368,7 +17918,7 @@
     "weight": 12932.4
   },
   {
-    "order_no": "5904",
+    "order_no": "6054",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-14T23:23:02",
     "prod_end_time_local": "2019-12-15T00:07:01",
@@ -15385,7 +17935,7 @@
     "weight": 5194.1
   },
   {
-    "order_no": "5905",
+    "order_no": "6055",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-15T00:07:02",
     "prod_end_time_local": "2019-12-15T02:13:01",
@@ -15402,7 +17952,7 @@
     "weight": 4785.5
   },
   {
-    "order_no": "5906",
+    "order_no": "6056",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-15T02:13:02",
     "prod_end_time_local": "2019-12-15T03:07:01",
@@ -15419,7 +17969,7 @@
     "weight": 4512.3
   },
   {
-    "order_no": "5907",
+    "order_no": "6057",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-15T03:07:02",
     "prod_end_time_local": "2019-12-15T03:19:01",
@@ -15436,7 +17986,7 @@
     "weight": 733.1
   },
   {
-    "order_no": "5908",
+    "order_no": "6058",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-15T03:19:02",
     "prod_end_time_local": "2019-12-15T03:30:01",
@@ -15453,7 +18003,7 @@
     "weight": 1135.2
   },
   {
-    "order_no": "5909",
+    "order_no": "6059",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-15T03:36:02",
     "prod_end_time_local": "2019-12-15T13:34:02",
@@ -15470,7 +18020,7 @@
     "weight": 31210.9
   },
   {
-    "order_no": "5910",
+    "order_no": "6060",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-15T13:45:04",
     "prod_end_time_local": "2019-12-15T20:45:02",
@@ -15487,7 +18037,7 @@
     "weight": 23209.8
   },
   {
-    "order_no": "5911",
+    "order_no": "6061",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-15T20:45:03",
     "prod_end_time_local": "2019-12-16T02:10:01",
@@ -15504,7 +18054,7 @@
     "weight": 20728.5
   },
   {
-    "order_no": "5912",
+    "order_no": "6062",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-16T02:10:02",
     "prod_end_time_local": "2019-12-16T04:43:01",
@@ -15521,7 +18071,7 @@
     "weight": 7016.1
   },
   {
-    "order_no": "5913",
+    "order_no": "6063",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-16T04:43:02",
     "prod_end_time_local": "2019-12-16T10:03:01",
@@ -15538,7 +18088,7 @@
     "weight": 7097.6
   },
   {
-    "order_no": "5914",
+    "order_no": "6064",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-16T13:36:02",
     "prod_end_time_local": "2019-12-17T08:45:02",
@@ -15555,7 +18105,7 @@
     "weight": 11873.6
   },
   {
-    "order_no": "5915",
+    "order_no": "6065",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-17T08:45:04",
     "prod_end_time_local": "2019-12-17T10:11:03",
@@ -15572,7 +18122,7 @@
     "weight": 5348.2
   },
   {
-    "order_no": "5916",
+    "order_no": "6066",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-17T10:11:05",
     "prod_end_time_local": "2019-12-17T12:25:02",
@@ -15589,7 +18139,7 @@
     "weight": 7082.5
   },
   {
-    "order_no": "5917",
+    "order_no": "6067",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-17T12:25:04",
     "prod_end_time_local": "2019-12-17T20:38:38",
@@ -15606,7 +18156,7 @@
     "weight": 51942.7
   },
   {
-    "order_no": "5918",
+    "order_no": "6068",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-17T21:29:42",
     "prod_end_time_local": "2019-12-18T01:15:38",
@@ -15623,7 +18173,7 @@
     "weight": 18149.4
   },
   {
-    "order_no": "5919",
+    "order_no": "6069",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-18T01:15:39",
     "prod_end_time_local": "2019-12-18T01:33:38",
@@ -15640,7 +18190,7 @@
     "weight": 850.6
   },
   {
-    "order_no": "5920",
+    "order_no": "6070",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-18T01:33:39",
     "prod_end_time_local": "2019-12-18T02:10:38",
@@ -15657,7 +18207,7 @@
     "weight": 2056.8
   },
   {
-    "order_no": "5921",
+    "order_no": "6071",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-18T02:10:39",
     "prod_end_time_local": "2019-12-18T03:45:38",
@@ -15674,7 +18224,7 @@
     "weight": 2236.7
   },
   {
-    "order_no": "5922",
+    "order_no": "6072",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-18T03:45:39",
     "prod_end_time_local": "2019-12-18T05:30:38",
@@ -15691,7 +18241,7 @@
     "weight": 9075.5
   },
   {
-    "order_no": "5923",
+    "order_no": "6073",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-18T07:16:41",
     "prod_end_time_local": "2019-12-18T07:47:39",
@@ -15708,7 +18258,7 @@
     "weight": 2382.9
   },
   {
-    "order_no": "5924",
+    "order_no": "6074",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-18T07:47:41",
     "prod_end_time_local": "2019-12-18T07:54:39",
@@ -15725,7 +18275,7 @@
     "weight": 268.5
   },
   {
-    "order_no": "5925",
+    "order_no": "6075",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-18T07:59:41",
     "prod_end_time_local": "2019-12-18T08:07:40",
@@ -15742,7 +18292,7 @@
     "weight": 209.3
   },
   {
-    "order_no": "5926",
+    "order_no": "6076",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-18T08:07:42",
     "prod_end_time_local": "2019-12-18T10:09:39",
@@ -15759,7 +18309,7 @@
     "weight": 9779.7
   },
   {
-    "order_no": "5927",
+    "order_no": "6077",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-18T10:35:41",
     "prod_end_time_local": "2019-12-18T11:04:39",
@@ -15776,7 +18326,7 @@
     "weight": 333.4
   },
   {
-    "order_no": "5928",
+    "order_no": "6078",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-18T11:04:41",
     "prod_end_time_local": "2019-12-18T16:26:39",
@@ -15793,7 +18343,7 @@
     "weight": 29061.4
   },
   {
-    "order_no": "5929",
+    "order_no": "6079",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-18T16:26:41",
     "prod_end_time_local": "2019-12-18T17:33:39",
@@ -15810,7 +18360,7 @@
     "weight": 907.9
   },
   {
-    "order_no": "5930",
+    "order_no": "6080",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-18T17:33:40",
     "prod_end_time_local": "2019-12-18T19:02:59",
@@ -15827,7 +18377,7 @@
     "weight": 3430.5
   },
   {
-    "order_no": "5931",
+    "order_no": "6081",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-18T19:03:01",
     "prod_end_time_local": "2019-12-19T00:14:59",
@@ -15844,7 +18394,7 @@
     "weight": 37370.3
   },
   {
-    "order_no": "5932",
+    "order_no": "6082",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T00:15:01",
     "prod_end_time_local": "2019-12-19T02:02:47",
@@ -15861,7 +18411,7 @@
     "weight": 7243.2
   },
   {
-    "order_no": "5933",
+    "order_no": "6083",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T02:02:59",
     "prod_end_time_local": "2019-12-19T02:45:47",
@@ -15878,7 +18428,7 @@
     "weight": 5421.9
   },
   {
-    "order_no": "5934",
+    "order_no": "6084",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T02:45:59",
     "prod_end_time_local": "2019-12-19T05:01:47",
@@ -15895,7 +18445,7 @@
     "weight": 9473.5
   },
   {
-    "order_no": "5935",
+    "order_no": "6085",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T05:01:59",
     "prod_end_time_local": "2019-12-19T09:20:59",
@@ -15912,7 +18462,7 @@
     "weight": 13575.7
   },
   {
-    "order_no": "5936",
+    "order_no": "6086",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T09:40:01",
     "prod_end_time_local": "2019-12-19T11:00:00",
@@ -15929,7 +18479,7 @@
     "weight": 7159.1
   },
   {
-    "order_no": "5937",
+    "order_no": "6087",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T11:20:01",
     "prod_end_time_local": "2019-12-19T12:41:00",
@@ -15946,7 +18496,7 @@
     "weight": 5946.8
   },
   {
-    "order_no": "5938",
+    "order_no": "6088",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T12:41:01",
     "prod_end_time_local": "2019-12-19T12:58:00",
@@ -15963,7 +18513,7 @@
     "weight": 1389.8
   },
   {
-    "order_no": "5939",
+    "order_no": "6089",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T12:58:01",
     "prod_end_time_local": "2019-12-19T14:16:59",
@@ -15980,7 +18530,7 @@
     "weight": 6879.2
   },
   {
-    "order_no": "5940",
+    "order_no": "6090",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T14:17:01",
     "prod_end_time_local": "2019-12-19T14:47:00",
@@ -15997,7 +18547,7 @@
     "weight": 706.8
   },
   {
-    "order_no": "5941",
+    "order_no": "6091",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T14:47:01",
     "prod_end_time_local": "2019-12-19T15:50:59",
@@ -16014,7 +18564,7 @@
     "weight": 1813.6
   },
   {
-    "order_no": "5942",
+    "order_no": "6092",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T15:51:01",
     "prod_end_time_local": "2019-12-19T16:15:00",
@@ -16031,7 +18581,7 @@
     "weight": 2189.7
   },
   {
-    "order_no": "5943",
+    "order_no": "6093",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T16:22:01",
     "prod_end_time_local": "2019-12-19T16:40:59",
@@ -16048,7 +18598,7 @@
     "weight": 507.7
   },
   {
-    "order_no": "5944",
+    "order_no": "6094",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T16:41:01",
     "prod_end_time_local": "2019-12-19T17:34:00",
@@ -16065,7 +18615,7 @@
     "weight": 1400
   },
   {
-    "order_no": "5945",
+    "order_no": "6095",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T17:34:02",
     "prod_end_time_local": "2019-12-19T17:58:00",
@@ -16082,7 +18632,7 @@
     "weight": 2002.6
   },
   {
-    "order_no": "5946",
+    "order_no": "6096",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T17:58:01",
     "prod_end_time_local": "2019-12-19T19:18:00",
@@ -16099,7 +18649,7 @@
     "weight": 2723.8
   },
   {
-    "order_no": "5947",
+    "order_no": "6097",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T19:18:01",
     "prod_end_time_local": "2019-12-19T20:01:00",
@@ -16116,7 +18666,7 @@
     "weight": 3253.5
   },
   {
-    "order_no": "5948",
+    "order_no": "6098",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T20:01:01",
     "prod_end_time_local": "2019-12-19T20:55:00",
@@ -16133,7 +18683,7 @@
     "weight": 2910.9
   },
   {
-    "order_no": "5949",
+    "order_no": "6099",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-19T20:55:01",
     "prod_end_time_local": "2019-12-20T00:08:59",
@@ -16150,7 +18700,7 @@
     "weight": 2846.9
   },
   {
-    "order_no": "5950",
+    "order_no": "6100",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-20T00:09:00",
     "prod_end_time_local": "2019-12-20T01:02:59",
@@ -16167,7 +18717,7 @@
     "weight": 1577.1
   },
   {
-    "order_no": "5951",
+    "order_no": "6101",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-20T01:03:00",
     "prod_end_time_local": "2019-12-20T01:36:59",
@@ -16184,7 +18734,7 @@
     "weight": 2142.6
   },
   {
-    "order_no": "5952",
+    "order_no": "6102",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-20T01:37:00",
     "prod_end_time_local": "2019-12-20T02:32:59",
@@ -16201,7 +18751,7 @@
     "weight": 1020.9
   },
   {
-    "order_no": "5953",
+    "order_no": "6103",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-20T02:33:00",
     "prod_end_time_local": "2019-12-20T04:35:59",
@@ -16218,7 +18768,7 @@
     "weight": 645.4
   },
   {
-    "order_no": "5954",
+    "order_no": "6104",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-20T04:36:00",
     "prod_end_time_local": "2019-12-20T07:22:00",
@@ -16235,7 +18785,7 @@
     "weight": 10338.5
   },
   {
-    "order_no": "5955",
+    "order_no": "6105",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-20T07:22:02",
     "prod_end_time_local": "2019-12-20T10:39:00",
@@ -16252,7 +18802,7 @@
     "weight": 29200
   },
   {
-    "order_no": "5956",
+    "order_no": "6106",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-20T10:39:02",
     "prod_end_time_local": "2019-12-20T12:28:00",
@@ -16269,7 +18819,7 @@
     "weight": 14828.4
   },
   {
-    "order_no": "5957",
+    "order_no": "6107",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-20T12:28:03",
     "prod_end_time_local": "2019-12-20T13:53:00",
@@ -16286,7 +18836,7 @@
     "weight": 12171.6
   },
   {
-    "order_no": "5958",
+    "order_no": "6108",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-20T14:04:02",
     "prod_end_time_local": "2019-12-20T17:43:59",
@@ -16303,7 +18853,7 @@
     "weight": 30746.2
   },
   {
-    "order_no": "5959",
+    "order_no": "6109",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-20T17:44:01",
     "prod_end_time_local": "2019-12-20T18:25:59",
@@ -16320,7 +18870,7 @@
     "weight": 3646.6
   },
   {
-    "order_no": "5960",
+    "order_no": "6110",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-20T18:26:00",
     "prod_end_time_local": "2019-12-20T19:28:59",
@@ -16337,7 +18887,7 @@
     "weight": 5850.2
   },
   {
-    "order_no": "5961",
+    "order_no": "6111",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-20T19:29:00",
     "prod_end_time_local": "2019-12-20T23:19:59",
@@ -16354,7 +18904,7 @@
     "weight": 6393.1
   },
   {
-    "order_no": "5962",
+    "order_no": "6112",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-20T23:35:01",
     "prod_end_time_local": "2019-12-21T00:34:59",
@@ -16371,7 +18921,7 @@
     "weight": 5214.4
   },
   {
-    "order_no": "5963",
+    "order_no": "6113",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-21T00:48:00",
     "prod_end_time_local": "2019-12-21T01:57:59",
@@ -16388,7 +18938,7 @@
     "weight": 4907.1
   },
   {
-    "order_no": "5964",
+    "order_no": "6114",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-21T01:58:00",
     "prod_end_time_local": "2019-12-21T02:55:59",
@@ -16405,7 +18955,7 @@
     "weight": 3720.2
   },
   {
-    "order_no": "5965",
+    "order_no": "6115",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-21T02:56:00",
     "prod_end_time_local": "2019-12-21T06:03:59",
@@ -16422,7 +18972,7 @@
     "weight": 13413.3
   },
   {
-    "order_no": "5966",
+    "order_no": "6116",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-21T06:04:00",
     "prod_end_time_local": "2019-12-21T11:38:00",
@@ -16439,7 +18989,7 @@
     "weight": 12989.3
   },
   {
-    "order_no": "5967",
+    "order_no": "6117",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-21T11:38:02",
     "prod_end_time_local": "2019-12-21T13:02:00",
@@ -16456,7 +19006,7 @@
     "weight": 3633.3
   },
   {
-    "order_no": "5968",
+    "order_no": "6118",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-21T13:02:02",
     "prod_end_time_local": "2019-12-23T10:42:00",
@@ -16473,7 +19023,7 @@
     "weight": 3738.8
   },
   {
-    "order_no": "5969",
+    "order_no": "6119",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-23T10:42:02",
     "prod_end_time_local": "2019-12-23T19:07:47",
@@ -16490,7 +19040,7 @@
     "weight": 26042.2
   },
   {
-    "order_no": "5970",
+    "order_no": "6120",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-23T19:07:59",
     "prod_end_time_local": "2019-12-23T21:34:59",
@@ -16507,7 +19057,7 @@
     "weight": 5024.9
   },
   {
-    "order_no": "5971",
+    "order_no": "6121",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-23T21:35:00",
     "prod_end_time_local": "2019-12-23T22:43:59",
@@ -16524,7 +19074,7 @@
     "weight": 3706.9
   },
   {
-    "order_no": "5972",
+    "order_no": "6122",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-23T22:44:00",
     "prod_end_time_local": "2019-12-24T01:18:59",
@@ -16541,7 +19091,7 @@
     "weight": 23510.4
   },
   {
-    "order_no": "5973",
+    "order_no": "6123",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-24T01:19:00",
     "prod_end_time_local": "2019-12-24T04:10:59",
@@ -16558,7 +19108,7 @@
     "weight": 54296.2
   },
   {
-    "order_no": "5974",
+    "order_no": "6124",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-24T04:11:00",
     "prod_end_time_local": "2019-12-24T04:58:59",
@@ -16575,7 +19125,7 @@
     "weight": 6670.9
   },
   {
-    "order_no": "5975",
+    "order_no": "6125",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-24T04:59:00",
     "prod_end_time_local": "2019-12-24T07:25:00",
@@ -16592,7 +19142,7 @@
     "weight": 8233.9
   },
   {
-    "order_no": "5976",
+    "order_no": "6126",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-24T07:25:01",
     "prod_end_time_local": "2019-12-24T08:19:00",
@@ -16609,7 +19159,7 @@
     "weight": 830.1
   },
   {
-    "order_no": "5977",
+    "order_no": "6127",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-24T08:19:01",
     "prod_end_time_local": "2019-12-24T08:52:59",
@@ -16626,7 +19176,7 @@
     "weight": 238.2
   },
   {
-    "order_no": "5978",
+    "order_no": "6128",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-24T08:53:00",
     "prod_end_time_local": "2019-12-27T10:44:37",
@@ -16643,7 +19193,7 @@
     "weight": 0
   },
   {
-    "order_no": "5979",
+    "order_no": "6129",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-27T10:44:38",
     "prod_end_time_local": "2019-12-27T12:10:36",
@@ -16660,7 +19210,7 @@
     "weight": 2882.1
   },
   {
-    "order_no": "5980",
+    "order_no": "6130",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-27T12:10:37",
     "prod_end_time_local": "2019-12-27T13:03:36",
@@ -16677,7 +19227,7 @@
     "weight": 2605.4
   },
   {
-    "order_no": "5981",
+    "order_no": "6131",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-27T13:03:37",
     "prod_end_time_local": "2019-12-27T13:58:36",
@@ -16694,7 +19244,7 @@
     "weight": 5517.7
   },
   {
-    "order_no": "5982",
+    "order_no": "6132",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-27T13:58:37",
     "prod_end_time_local": "2019-12-27T15:53:37",
@@ -16711,7 +19261,7 @@
     "weight": 12134.7
   },
   {
-    "order_no": "5983",
+    "order_no": "6133",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-27T15:53:38",
     "prod_end_time_local": "2019-12-27T19:02:39",
@@ -16728,7 +19278,7 @@
     "weight": 2544.8
   },
   {
-    "order_no": "5984",
+    "order_no": "6134",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-27T19:02:40",
     "prod_end_time_local": "2019-12-27T22:45:39",
@@ -16745,7 +19295,7 @@
     "weight": 5442.9
   },
   {
-    "order_no": "5985",
+    "order_no": "6135",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-27T22:45:40",
     "prod_end_time_local": "2019-12-27T23:50:39",
@@ -16762,7 +19312,7 @@
     "weight": 4803.8
   },
   {
-    "order_no": "5986",
+    "order_no": "6136",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-27T23:50:40",
     "prod_end_time_local": "2019-12-28T01:15:39",
@@ -16779,7 +19329,7 @@
     "weight": 9741.9
   },
   {
-    "order_no": "5987",
+    "order_no": "6137",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-28T01:15:40",
     "prod_end_time_local": "2019-12-28T04:25:39",
@@ -16796,7 +19346,7 @@
     "weight": 17793.3
   },
   {
-    "order_no": "5988",
+    "order_no": "6138",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-28T04:25:40",
     "prod_end_time_local": "2019-12-30T09:43:48",
@@ -16813,7 +19363,7 @@
     "weight": 18133.8
   },
   {
-    "order_no": "5989",
+    "order_no": "6139",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-30T09:43:49",
     "prod_end_time_local": "2019-12-30T10:17:48",
@@ -16830,7 +19380,7 @@
     "weight": 1045.3
   },
   {
-    "order_no": "5990",
+    "order_no": "6140",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-30T10:17:50",
     "prod_end_time_local": "2019-12-30T10:42:48",
@@ -16847,7 +19397,7 @@
     "weight": 1252.7
   },
   {
-    "order_no": "5991",
+    "order_no": "6141",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-30T10:42:50",
     "prod_end_time_local": "2019-12-30T16:29:48",
@@ -16864,7 +19414,7 @@
     "weight": 35634.2
   },
   {
-    "order_no": "5992",
+    "order_no": "6142",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-30T16:29:49",
     "prod_end_time_local": "2019-12-30T20:29:52",
@@ -16881,7 +19431,7 @@
     "weight": 14297.6
   },
   {
-    "order_no": "5993",
+    "order_no": "6143",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-30T20:29:53",
     "prod_end_time_local": "2019-12-30T21:18:52",
@@ -16898,7 +19448,7 @@
     "weight": 3857.1
   },
   {
-    "order_no": "5994",
+    "order_no": "6144",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-30T21:18:53",
     "prod_end_time_local": "2019-12-30T22:00:52",
@@ -16915,7 +19465,7 @@
     "weight": 1787.5
   },
   {
-    "order_no": "5995",
+    "order_no": "6145",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-30T22:00:53",
     "prod_end_time_local": "2019-12-30T23:15:52",
@@ -16932,7 +19482,7 @@
     "weight": 4569.9
   },
   {
-    "order_no": "5996",
+    "order_no": "6146",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-30T23:15:53",
     "prod_end_time_local": "2019-12-31T00:40:52",
@@ -16949,7 +19499,7 @@
     "weight": 8944.3
   },
   {
-    "order_no": "5997",
+    "order_no": "6147",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-31T00:40:54",
     "prod_end_time_local": "2019-12-31T01:23:51",
@@ -16966,7 +19516,7 @@
     "weight": 4539.9
   },
   {
-    "order_no": "5998",
+    "order_no": "6148",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-31T01:23:52",
     "prod_end_time_local": "2019-12-31T02:50:51",
@@ -16983,7 +19533,7 @@
     "weight": 6355.1
   },
   {
-    "order_no": "5999",
+    "order_no": "6149",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2019-12-31T02:50:52",
     "prod_end_time_local": "2020-01-07T08:13:25",
@@ -17000,7 +19550,7 @@
     "weight": 3586.4
   },
   {
-    "order_no": "6000",
+    "order_no": "6150",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-07T08:13:27",
     "prod_end_time_local": "2020-01-07T09:23:25",
@@ -17017,7 +19567,7 @@
     "weight": 5067.2
   },
   {
-    "order_no": "6001",
+    "order_no": "6151",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-07T09:23:27",
     "prod_end_time_local": "2020-01-07T12:06:25",
@@ -17034,7 +19584,7 @@
     "weight": 1182.6
   },
   {
-    "order_no": "6002",
+    "order_no": "6152",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-07T12:16:27",
     "prod_end_time_local": "2020-01-07T13:03:25",
@@ -17051,7 +19601,7 @@
     "weight": 2769.7
   },
   {
-    "order_no": "6003",
+    "order_no": "6153",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-07T13:03:27",
     "prod_end_time_local": "2020-01-07T13:41:25",
@@ -17068,7 +19618,7 @@
     "weight": 1174.8
   },
   {
-    "order_no": "6004",
+    "order_no": "6154",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-07T13:41:26",
     "prod_end_time_local": "2020-01-07T14:11:25",
@@ -17085,7 +19635,7 @@
     "weight": 653.6
   },
   {
-    "order_no": "6005",
+    "order_no": "6155",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-07T14:11:27",
     "prod_end_time_local": "2020-01-07T15:38:25",
@@ -17102,7 +19652,7 @@
     "weight": 5233.6
   },
   {
-    "order_no": "6006",
+    "order_no": "6156",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-07T15:38:27",
     "prod_end_time_local": "2020-01-07T17:21:24",
@@ -17119,7 +19669,7 @@
     "weight": 1781.5
   },
   {
-    "order_no": "6007",
+    "order_no": "6157",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-07T17:21:26",
     "prod_end_time_local": "2020-01-07T18:50:24",
@@ -17136,7 +19686,7 @@
     "weight": 2600.6
   },
   {
-    "order_no": "6008",
+    "order_no": "6158",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-07T18:50:26",
     "prod_end_time_local": "2020-01-07T19:13:24",
@@ -17153,7 +19703,7 @@
     "weight": 1655.4
   },
   {
-    "order_no": "6009",
+    "order_no": "6159",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-07T19:13:26",
     "prod_end_time_local": "2020-01-07T19:25:24",
@@ -17170,7 +19720,7 @@
     "weight": 1035.4
   },
   {
-    "order_no": "6010",
+    "order_no": "6160",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-07T19:25:26",
     "prod_end_time_local": "2020-01-07T23:40:24",
@@ -17187,7 +19737,7 @@
     "weight": 21209.7
   },
   {
-    "order_no": "6011",
+    "order_no": "6161",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T00:05:25",
     "prod_end_time_local": "2020-01-08T00:46:24",
@@ -17204,7 +19754,7 @@
     "weight": 2393
   },
   {
-    "order_no": "6012",
+    "order_no": "6162",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T00:46:25",
     "prod_end_time_local": "2020-01-08T01:00:12",
@@ -17221,7 +19771,7 @@
     "weight": 838
   },
   {
-    "order_no": "6013",
+    "order_no": "6163",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T01:00:24",
     "prod_end_time_local": "2020-01-08T01:15:24",
@@ -17238,7 +19788,7 @@
     "weight": 1498.4
   },
   {
-    "order_no": "6014",
+    "order_no": "6164",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T01:15:25",
     "prod_end_time_local": "2020-01-08T01:44:24",
@@ -17255,7 +19805,7 @@
     "weight": 1476.4
   },
   {
-    "order_no": "6015",
+    "order_no": "6165",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T01:44:25",
     "prod_end_time_local": "2020-01-08T02:01:12",
@@ -17272,7 +19822,7 @@
     "weight": 279.5
   },
   {
-    "order_no": "6016",
+    "order_no": "6166",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T02:01:24",
     "prod_end_time_local": "2020-01-08T02:58:24",
@@ -17289,7 +19839,7 @@
     "weight": 2047.7
   },
   {
-    "order_no": "6017",
+    "order_no": "6167",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T02:58:25",
     "prod_end_time_local": "2020-01-08T04:09:23",
@@ -17306,7 +19856,7 @@
     "weight": 6592.2
   },
   {
-    "order_no": "6018",
+    "order_no": "6168",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T04:09:24",
     "prod_end_time_local": "2020-01-08T04:28:24",
@@ -17323,7 +19873,7 @@
     "weight": 378.5
   },
   {
-    "order_no": "6019",
+    "order_no": "6169",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T04:28:25",
     "prod_end_time_local": "2020-01-08T04:49:24",
@@ -17340,7 +19890,7 @@
     "weight": 401.9
   },
   {
-    "order_no": "6020",
+    "order_no": "6170",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T04:49:25",
     "prod_end_time_local": "2020-01-08T04:58:24",
@@ -17357,7 +19907,7 @@
     "weight": 262.4
   },
   {
-    "order_no": "6021",
+    "order_no": "6171",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T04:58:25",
     "prod_end_time_local": "2020-01-08T05:15:24",
@@ -17374,7 +19924,7 @@
     "weight": 362.7
   },
   {
-    "order_no": "6022",
+    "order_no": "6172",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T05:15:25",
     "prod_end_time_local": "2020-01-08T05:39:24",
@@ -17391,7 +19941,7 @@
     "weight": 587.1
   },
   {
-    "order_no": "6023",
+    "order_no": "6173",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T05:39:25",
     "prod_end_time_local": "2020-01-08T05:49:24",
@@ -17408,7 +19958,7 @@
     "weight": 378.8
   },
   {
-    "order_no": "6024",
+    "order_no": "6174",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T05:49:25",
     "prod_end_time_local": "2020-01-08T06:01:24",
@@ -17425,7 +19975,7 @@
     "weight": 435.1
   },
   {
-    "order_no": "6025",
+    "order_no": "6175",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T06:01:25",
     "prod_end_time_local": "2020-01-08T06:12:24",
@@ -17442,7 +19992,7 @@
     "weight": 403.5
   },
   {
-    "order_no": "6026",
+    "order_no": "6176",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T06:12:25",
     "prod_end_time_local": "2020-01-08T06:19:24",
@@ -17459,7 +20009,7 @@
     "weight": 363.7
   },
   {
-    "order_no": "6027",
+    "order_no": "6177",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T06:19:25",
     "prod_end_time_local": "2020-01-08T06:28:24",
@@ -17476,7 +20026,7 @@
     "weight": 650.5
   },
   {
-    "order_no": "6028",
+    "order_no": "6178",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T06:28:25",
     "prod_end_time_local": "2020-01-08T10:26:25",
@@ -17493,7 +20043,7 @@
     "weight": 9075.4
   },
   {
-    "order_no": "6029",
+    "order_no": "6179",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T10:26:26",
     "prod_end_time_local": "2020-01-08T11:48:25",
@@ -17510,7 +20060,7 @@
     "weight": 1957.2
   },
   {
-    "order_no": "6030",
+    "order_no": "6180",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T11:48:26",
     "prod_end_time_local": "2020-01-08T13:29:25",
@@ -17527,7 +20077,7 @@
     "weight": 5410.3
   },
   {
-    "order_no": "6031",
+    "order_no": "6181",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T13:29:26",
     "prod_end_time_local": "2020-01-08T14:33:25",
@@ -17544,7 +20094,7 @@
     "weight": 3676.7
   },
   {
-    "order_no": "6032",
+    "order_no": "6182",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T14:33:26",
     "prod_end_time_local": "2020-01-08T16:51:25",
@@ -17561,7 +20111,7 @@
     "weight": 1283.1
   },
   {
-    "order_no": "6033",
+    "order_no": "6183",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T17:26:27",
     "prod_end_time_local": "2020-01-08T21:37:25",
@@ -17578,7 +20128,7 @@
     "weight": 20035.6
   },
   {
-    "order_no": "6034",
+    "order_no": "6184",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-08T21:37:26",
     "prod_end_time_local": "2020-01-09T01:12:24",
@@ -17595,7 +20145,7 @@
     "weight": 12140.9
   },
   {
-    "order_no": "6035",
+    "order_no": "6185",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-09T01:12:25",
     "prod_end_time_local": "2020-01-09T02:22:24",
@@ -17612,7 +20162,7 @@
     "weight": 6557
   },
   {
-    "order_no": "6036",
+    "order_no": "6186",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-09T02:22:25",
     "prod_end_time_local": "2020-01-09T02:36:24",
@@ -17629,7 +20179,7 @@
     "weight": 797.6
   },
   {
-    "order_no": "6037",
+    "order_no": "6187",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-09T02:36:25",
     "prod_end_time_local": "2020-01-09T06:55:25",
@@ -17646,7 +20196,7 @@
     "weight": 30068.8
   },
   {
-    "order_no": "6038",
+    "order_no": "6188",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-09T06:55:27",
     "prod_end_time_local": "2020-01-09T08:34:25",
@@ -17663,7 +20213,7 @@
     "weight": 1757.4
   },
   {
-    "order_no": "6039",
+    "order_no": "6189",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-09T08:34:26",
     "prod_end_time_local": "2020-01-09T10:00:25",
@@ -17680,7 +20230,7 @@
     "weight": 467.1
   },
   {
-    "order_no": "6040",
+    "order_no": "6190",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-09T10:00:26",
     "prod_end_time_local": "2020-01-09T10:09:25",
@@ -17697,7 +20247,7 @@
     "weight": 1669.8
   },
   {
-    "order_no": "6041",
+    "order_no": "6191",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-09T10:09:27",
     "prod_end_time_local": "2020-01-09T10:45:25",
@@ -17714,7 +20264,7 @@
     "weight": 1209
   },
   {
-    "order_no": "6042",
+    "order_no": "6192",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-09T10:45:26",
     "prod_end_time_local": "2020-01-09T12:15:25",
@@ -17731,7 +20281,7 @@
     "weight": 1548.1
   },
   {
-    "order_no": "6043",
+    "order_no": "6193",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-09T12:15:26",
     "prod_end_time_local": "2020-01-09T13:27:25",
@@ -17748,7 +20298,7 @@
     "weight": 4496.1
   },
   {
-    "order_no": "6044",
+    "order_no": "6194",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-09T13:27:27",
     "prod_end_time_local": "2020-01-09T13:59:13",
@@ -17765,7 +20315,7 @@
     "weight": 1100.3
   },
   {
-    "order_no": "6045",
+    "order_no": "6195",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-09T13:59:27",
     "prod_end_time_local": "2020-01-09T14:53:25",
@@ -17782,7 +20332,7 @@
     "weight": 3254
   },
   {
-    "order_no": "6046",
+    "order_no": "6196",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-09T14:53:27",
     "prod_end_time_local": "2020-01-09T21:15:24",
@@ -17799,7 +20349,7 @@
     "weight": 20368.8
   },
   {
-    "order_no": "6047",
+    "order_no": "6197",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-09T21:15:25",
     "prod_end_time_local": "2020-01-10T00:06:24",
@@ -17816,7 +20366,7 @@
     "weight": 20628.4
   },
   {
-    "order_no": "6048",
+    "order_no": "6198",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-10T00:06:25",
     "prod_end_time_local": "2020-01-10T00:51:24",
@@ -17833,7 +20383,7 @@
     "weight": 3470.4
   },
   {
-    "order_no": "6049",
+    "order_no": "6199",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-10T00:51:25",
     "prod_end_time_local": "2020-01-10T01:08:24",
@@ -17850,7 +20400,7 @@
     "weight": 864.3
   },
   {
-    "order_no": "6050",
+    "order_no": "6200",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-10T01:08:25",
     "prod_end_time_local": "2020-01-10T01:29:24",
@@ -17867,7 +20417,7 @@
     "weight": 2884.9
   },
   {
-    "order_no": "6051",
+    "order_no": "6201",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-10T01:29:25",
     "prod_end_time_local": "2020-01-10T01:59:24",
@@ -17884,7 +20434,7 @@
     "weight": 4618.9
   },
   {
-    "order_no": "6052",
+    "order_no": "6202",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-10T01:59:25",
     "prod_end_time_local": "2020-01-10T02:48:24",
@@ -17901,7 +20451,7 @@
     "weight": 4156.1
   },
   {
-    "order_no": "6053",
+    "order_no": "6203",
     "city_plant_no": "Hevin",
     "prod_start_time_local": "2020-01-10T02:48:25",
     "prod_end_time_local": "2020-01-10T03:50:24",
