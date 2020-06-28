@@ -15,6 +15,7 @@ export default new Vuex.Store({
       selectsegment: [],
     },
     firstdata: [],
+    byplantdata: [],
   },
   mutations: {
     setFilterdata(state, filterdata) {
@@ -23,6 +24,9 @@ export default new Vuex.Store({
     setFirstdata(state, value) {
       state.firstdata = value;
     },
+    setByplantdata(state, value) {
+      state.byplantdata = value;
+    },
   },
   actions: {
     setFilterdata({ commit }, filterdata) {
@@ -30,6 +34,9 @@ export default new Vuex.Store({
     },
     setFirstdata({ commit }, firstdata) {
       commit("setFirstdata", firstdata);
+    },
+    setByplantdata({ commit }, byplantdata) {
+      commit("setByplantdata", byplantdata);
     },
   },
 });

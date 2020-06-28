@@ -21,7 +21,7 @@
     <v-spacer></v-spacer>
     <v-toolbar-items class="d-none d-md-flex">
       <v-btn text rounded to="/" class="text-center">Production</v-btn>
-      <v-btn text to="/compare">By Plant</v-btn>
+      <v-btn text to="/byplant">By Plant</v-btn>
       <v-btn text to="/compare">Setting</v-btn>
     </v-toolbar-items>
     <v-menu offset-y>
@@ -34,7 +34,7 @@
             <v-list-item-title>PRODUCTION</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
-        <v-list-item to="/compare">
+        <v-list-item to="/byplant">
           <v-list-item-content>
             <v-list-item-title>BY PLANT</v-list-item-title>
           </v-list-item-content>

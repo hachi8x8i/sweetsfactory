@@ -167,8 +167,7 @@ export default {
     this.selectalarm_type = this.stateFilterData.selectalarm_type;
     this.selectsegment = this.stateFilterData.selectsegment;
 
-    //    this.getCompareData();
-    //  this.getAlarms();
+    this.getByplantData();
     this.getFirstData();
   },
 
@@ -188,7 +187,6 @@ export default {
         };
         let tmpdata = [];
 
-        //ヘッダは削除した
         await this.$axios
           .get("../api/orders", {
             params: queries
@@ -212,43 +210,11 @@ export default {
      * 画面起動時に必要なデータを取る
      * 比較画面要
      */
-    async getCompareData() {
-      const token = await this.$auth.getTokenSilently();
-      await this.$axios
-        .get("../api/aggvol", { headers: { Authorization: `Bearer ${token}` } })
-        .then(response => {
-          this.$store.dispatch("initial_data/setComparedata", response.data);
-        });
+    async getByplantData() {
+      await this.$axios.get("../api/byplant", {}).then(response => {
+        this.$store.dispatch("setByplantdata", response.data);
+      });
     },
-    /**
-     * 画面起動時に非同期でデータを取る
-     */
-    /*
-    async getAlarms() {
-      let alerms_ary = [];
-      let i = 0;
-      //固定値分データ取り続けて、取るデータがなくなるまでやる。
-      while (true) {
-        let queries = {
-          limit: this.limit_alarmdata,
-          offset: this.limit_alarmdata * i
-        };
-        let tmpdata = [];
-
-        await this.$axios
-          .get("../api/alarms", {
-            params: queries
-          })
-          .then(response => {
-            tmpdata = response.data;
-          });
-
-        if (tmpdata.length) alerms_ary = alerms_ary.concat(tmpdata);
-        else break;
-        i++;
-      }
-      this.$store.dispatch("initial_data/setAlarms", alerms_ary);
-    },*/
     /**
      * フィルタ変更時のメソッド
      */
@@ -261,24 +227,19 @@ export default {
       if (type !== "alarm") {
         this.create_segments();
       }
-      if (type !== "alarm") {
-        //        this.create_alarmtypes();
-      }
 
       this.$store.dispatch("setFilterdata", {
         selectplant: this.selectplant,
         from: this.from_date,
         to: this.to_date,
         selectorderno: this.selectorderno,
-        selectalarm_type: this.selectalarm_type,
         selectsegment: this.selectsegment
       });
     },
     /**
      * プラントの選択肢をつくるメソッド
-     */ /**
-     * カスタマーの選択肢をつくるメソッド
-     */ create_plants() {
+     */
+    create_plants() {
       const func_filter = item => {
         return (
           (!this.to_date ||
@@ -410,6 +371,33 @@ export default {
       });
 
       console.log(JSON.stringify(orders));
+
+      /*--------------- aggvol from here--------------*/
+      let aggvol = require("../../srv/aggvolPrev.json");
+
+      aggvol.map((el, index) => {
+        delete el.region;
+        delete el.customer;
+        el.weight = el.vxs;
+        delete el.vxs;
+
+        if (el.city_plant_no === "Aston(P2353)") {
+          el.city_plant_no = "Charlie";
+        } else if (el.city_plant_no === "Lancaster(P2368)") {
+          el.city_plant_no = "Grey";
+        } else if (el.city_plant_no === "JNB#3(PE0923)") {
+          el.city_plant_no = "Hevin";
+        } else if (el.city_plant_no === "CPT#1(PE0901)") {
+          el.city_plant_no = "Zacconi";
+        } else if (el.city_plant_no === "CPT#2(PE0911)") {
+          el.city_plant_no = "Shima";
+        } else {
+          el.city_plant_no = "delete";
+        }
+      });
+      aggvol = aggvol.filter(el => el.city_plant_no !== "delete");
+
+      console.log(JSON.stringify(aggvol));
     }
   }
 };

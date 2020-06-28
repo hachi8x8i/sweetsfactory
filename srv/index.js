@@ -6,12 +6,15 @@ export default (app) => {
   let orders = require("./orders.json");
   let errorseries = require("./errorseries.json");
   let orderprod = require("./orderprod.json");
+  let byplant = require("./byplant.json");
 
   //★なぜローカルではファイルからデータ取得し本番ではAPIから取得できるのか？
   //リクエストヘッダまたはauth_configで設定している？
 
   app.get("/api/orders", (req, res) => {
-    if (req.query.offset > 1) { return res.json([]); }
+    if (req.query.offset > 1) {
+      return res.json([]);
+    }
     res.json(orders);
   });
   app.get("/api/orderprod", (req, res) => {
@@ -22,4 +25,8 @@ export default (app) => {
     if (req.query.offset > 5000) return res.json([]);
     res.json(errorseries);
   });
-}
+  app.get("/api/byplant", (req, res) => {
+    if (req.query.offset > 5000) return res.json([]);
+    res.json(byplant);
+  });
+};

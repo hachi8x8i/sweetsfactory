@@ -1,0 +1,5418 @@
+[
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-13",
+    "sum": 201732,
+    "dt_productivity": 54.8,
+    "weight": 184599
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-14",
+    "sum": 28279,
+    "dt_productivity": 44.2,
+    "weight": 35065
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-15",
+    "sum": 5,
+    "dt_productivity": 0,
+    "weight": 1
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-16",
+    "sum": 177848,
+    "dt_productivity": 27.1,
+    "weight": 178873
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-17",
+    "sum": 278968,
+    "dt_productivity": 62.8,
+    "weight": 207622
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-18",
+    "sum": 297082,
+    "dt_productivity": 67.5,
+    "weight": 296152
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-19",
+    "sum": 276428,
+    "dt_productivity": 62.2,
+    "weight": 245768
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-20",
+    "sum": 203047,
+    "dt_productivity": 49.7,
+    "weight": 219765
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-21",
+    "sum": 148338,
+    "dt_productivity": 44.1,
+    "weight": 174915
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-22",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-23",
+    "sum": 209293,
+    "dt_productivity": 29.3,
+    "weight": 184610
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-24",
+    "sum": 25904,
+    "dt_productivity": 23.7,
+    "weight": 35972
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-26",
+    "sum": 178354,
+    "dt_productivity": 13.4,
+    "weight": 169849
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-27",
+    "sum": 257870,
+    "dt_productivity": 58.7,
+    "weight": 245275
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-28",
+    "sum": 261298,
+    "dt_productivity": 57.4,
+    "weight": 237314
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-29",
+    "sum": 20882,
+    "dt_productivity": 4.2,
+    "weight": 20399
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-30",
+    "dt": "2019-12-30",
+    "sum": 188715,
+    "dt_productivity": 40.5,
+    "weight": 156256
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-30",
+    "dt": "2019-12-31",
+    "sum": 36023,
+    "dt_productivity": 7.2,
+    "weight": 25233
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-01",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-02",
+    "sum": 198342,
+    "dt_productivity": 43.2,
+    "weight": 215769
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-03",
+    "sum": 273529,
+    "dt_productivity": 59.7,
+    "weight": 221139
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-04",
+    "sum": 256275,
+    "dt_productivity": 56.2,
+    "weight": 246387
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-05",
+    "sum": 33605,
+    "dt_productivity": 11.2,
+    "weight": 36342
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-07",
+    "sum": 226527,
+    "dt_productivity": 19.4,
+    "weight": 182229
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-08",
+    "sum": 281878,
+    "dt_productivity": 64.5,
+    "weight": 267808
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-09",
+    "sum": 301091,
+    "dt_productivity": 66.4,
+    "weight": 284357
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-10",
+    "sum": 292559,
+    "dt_productivity": 64.4,
+    "weight": 297573
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-11",
+    "sum": 39363,
+    "dt_productivity": 25.9,
+    "weight": 30696
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-12",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-13",
+    "sum": 183771,
+    "dt_productivity": 40.1,
+    "weight": 155077
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-14",
+    "sum": 282575,
+    "dt_productivity": 63.9,
+    "weight": 278126
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-15",
+    "sum": 228114,
+    "dt_productivity": 52.5,
+    "weight": 219044
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-16",
+    "sum": 259806,
+    "dt_productivity": 57.5,
+    "weight": 253821
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-17",
+    "sum": 264545,
+    "dt_productivity": 60,
+    "weight": 243653
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-18",
+    "sum": 38496,
+    "dt_productivity": 13,
+    "weight": 37045
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-19",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-20",
+    "sum": 153071,
+    "dt_productivity": 33.1,
+    "weight": 162189
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-21",
+    "sum": 255679,
+    "dt_productivity": 54.7,
+    "weight": 225172
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-22",
+    "sum": 248545,
+    "dt_productivity": 57.1,
+    "weight": 206921
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-23",
+    "sum": 214476,
+    "dt_productivity": 52.1,
+    "weight": 201936
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-24",
+    "sum": 276196,
+    "dt_productivity": 59.9,
+    "weight": 239814
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-25",
+    "sum": 25070,
+    "dt_productivity": 8.6,
+    "weight": 15630
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-26",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-27",
+    "sum": 211421,
+    "dt_productivity": 43.2,
+    "weight": 142792
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-28",
+    "sum": 247130,
+    "dt_productivity": 54.6,
+    "weight": 187515
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-29",
+    "sum": 267718,
+    "dt_productivity": 59.2,
+    "weight": 262534
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-30",
+    "sum": 253586,
+    "dt_productivity": 56.2,
+    "weight": 218048
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-31",
+    "sum": 273953,
+    "dt_productivity": 62.1,
+    "weight": 237950
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-27",
+    "dt": "2020-02-01",
+    "sum": 59495,
+    "dt_productivity": 12.1,
+    "weight": 52057
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-01-27",
+    "dt": "2020-02-02",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-03",
+    "sum": 213083,
+    "dt_productivity": 32,
+    "weight": 223244
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-04",
+    "sum": 272982,
+    "dt_productivity": 59.7,
+    "weight": 224282
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-05",
+    "sum": 192506,
+    "dt_productivity": 65.3,
+    "weight": 182411
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-06",
+    "sum": 280300,
+    "dt_productivity": 64.3,
+    "weight": 275908
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-07",
+    "sum": 292413,
+    "dt_productivity": 65.3,
+    "weight": 302359
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-08",
+    "sum": 276572,
+    "dt_productivity": 62.6,
+    "weight": 222895
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-09",
+    "sum": 28466,
+    "dt_productivity": 10,
+    "weight": 21408
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-10",
+    "sum": 177036,
+    "dt_productivity": 26.5,
+    "weight": 182527
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-11",
+    "sum": 287307,
+    "dt_productivity": 63.9,
+    "weight": 220628
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-12",
+    "sum": 320947,
+    "dt_productivity": 68.6,
+    "weight": 293403
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-13",
+    "sum": 269895,
+    "dt_productivity": 62.7,
+    "weight": 241167
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-14",
+    "sum": 243050,
+    "dt_productivity": 56,
+    "weight": 254373
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-15",
+    "sum": 39161,
+    "dt_productivity": 12.8,
+    "weight": 38081
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-16",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-17",
+    "sum": 194116,
+    "dt_productivity": 42.1,
+    "weight": 196456
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-18",
+    "sum": 287406,
+    "dt_productivity": 61.2,
+    "weight": 198140
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-19",
+    "sum": 306346,
+    "dt_productivity": 65.9,
+    "weight": 258820
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-20",
+    "sum": 265854,
+    "dt_productivity": 61.9,
+    "weight": 243204
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-21",
+    "sum": 286764,
+    "dt_productivity": 64.3,
+    "weight": 283892
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-22",
+    "sum": 212303,
+    "dt_productivity": 62.5,
+    "weight": 186264
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-24",
+    "sum": 122862,
+    "dt_productivity": 39.5,
+    "weight": 106346
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-25",
+    "sum": 286649,
+    "dt_productivity": 61.9,
+    "weight": 273655
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-26",
+    "sum": 283510,
+    "dt_productivity": 62.2,
+    "weight": 269015
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-27",
+    "sum": 280767,
+    "dt_productivity": 63.7,
+    "weight": 252838
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-28",
+    "sum": 291710,
+    "dt_productivity": 62.1,
+    "weight": 236005
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-29",
+    "sum": 33549,
+    "dt_productivity": 22.2,
+    "weight": 31250
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-02-24",
+    "dt": "2020-03-01",
+    "sum": 1,
+    "dt_productivity": 0,
+    "weight": 1
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-02",
+    "sum": 172100,
+    "dt_productivity": 25.7,
+    "weight": 151849
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-03",
+    "sum": 263857,
+    "dt_productivity": 57.5,
+    "weight": 237796
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-04",
+    "sum": 306254,
+    "dt_productivity": 67.2,
+    "weight": 280962
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-05",
+    "sum": 251765,
+    "dt_productivity": 53.7,
+    "weight": 183825
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-06",
+    "sum": 283890,
+    "dt_productivity": 61.5,
+    "weight": 249254
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-07",
+    "sum": 38998,
+    "dt_productivity": 13.2,
+    "weight": 24898
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-08",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-09",
+    "sum": 234747,
+    "dt_productivity": 35.6,
+    "weight": 214275
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-10",
+    "sum": 264782,
+    "dt_productivity": 56.8,
+    "weight": 249337
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-11",
+    "sum": 290186,
+    "dt_productivity": 63.2,
+    "weight": 256198
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-12",
+    "sum": 265060,
+    "dt_productivity": 61.6,
+    "weight": 235199
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-13",
+    "sum": 260341,
+    "dt_productivity": 56.9,
+    "weight": 260526
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-14",
+    "sum": 42480,
+    "dt_productivity": 37.3,
+    "weight": 41821
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-15",
+    "sum": 1,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-16",
+    "sum": 124736,
+    "dt_productivity": 17.9,
+    "weight": 125747
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-17",
+    "sum": 241559,
+    "dt_productivity": 52.9,
+    "weight": 184732
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-18",
+    "sum": 286041,
+    "dt_productivity": 63.7,
+    "weight": 252367
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-19",
+    "sum": 200357,
+    "dt_productivity": 42.4,
+    "weight": 166697
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-20",
+    "sum": 287429,
+    "dt_productivity": 63.8,
+    "weight": 272340
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-21",
+    "sum": 10934,
+    "dt_productivity": 3.9,
+    "weight": 12342
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-22",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-23",
+    "sum": 207772,
+    "dt_productivity": 28.6,
+    "weight": 152398
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-24",
+    "sum": 232002,
+    "dt_productivity": 50.7,
+    "weight": 192293
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-25",
+    "sum": 296906,
+    "dt_productivity": 63.9,
+    "weight": 233529
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-26",
+    "sum": 327129,
+    "dt_productivity": 72.6,
+    "weight": 323817
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-27",
+    "sum": 316956,
+    "dt_productivity": 70.2,
+    "weight": 311583
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-28",
+    "sum": 281326,
+    "dt_productivity": 60.7,
+    "weight": 221357
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-29",
+    "sum": 52421,
+    "dt_productivity": 19,
+    "weight": 49643
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-30",
+    "dt": "2020-03-30",
+    "sum": 140537,
+    "dt_productivity": 19.8,
+    "weight": 118662
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-30",
+    "dt": "2020-03-31",
+    "sum": 233100,
+    "dt_productivity": 53.8,
+    "weight": 239964
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-01",
+    "sum": 324058,
+    "dt_productivity": 68.8,
+    "weight": 263118
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-02",
+    "sum": 295247,
+    "dt_productivity": 66.4,
+    "weight": 246939
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-03",
+    "sum": 262354,
+    "dt_productivity": 61.1,
+    "weight": 263736
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-04",
+    "sum": 248103,
+    "dt_productivity": 61.3,
+    "weight": 227832
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-05",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-06",
+    "sum": 197168,
+    "dt_productivity": 29.8,
+    "weight": 178745
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-07",
+    "sum": 318953,
+    "dt_productivity": 69.9,
+    "weight": 271739
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-08",
+    "sum": 286665,
+    "dt_productivity": 63.3,
+    "weight": 255001
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-09",
+    "sum": 300498,
+    "dt_productivity": 65.1,
+    "weight": 245912
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-10",
+    "sum": 285410,
+    "dt_productivity": 69.3,
+    "weight": 250489
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-11",
+    "sum": 18828,
+    "dt_productivity": 15.3,
+    "weight": 13608
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-13",
+    "sum": 195013,
+    "dt_productivity": 14.4,
+    "weight": 186243
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-14",
+    "sum": 308880,
+    "dt_productivity": 66.2,
+    "weight": 255674
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-15",
+    "sum": 300436,
+    "dt_productivity": 64.2,
+    "weight": 254366
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-16",
+    "sum": 311773,
+    "dt_productivity": 68.8,
+    "weight": 324026
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-17",
+    "sum": 316383,
+    "dt_productivity": 68.1,
+    "weight": 248761
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-18",
+    "sum": 35572,
+    "dt_productivity": 12.5,
+    "weight": 32127
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-19",
+    "sum": 1192,
+    "dt_productivity": 0.2,
+    "weight": 1103
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-20",
+    "sum": 107841,
+    "dt_productivity": 18.2,
+    "weight": 95076
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-21",
+    "sum": 197896,
+    "dt_productivity": 39,
+    "weight": 118103
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-22",
+    "sum": 126988,
+    "dt_productivity": 28.1,
+    "weight": 84268
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-23",
+    "sum": 211548,
+    "dt_productivity": 44.2,
+    "weight": 184087
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-24",
+    "sum": 195940,
+    "dt_productivity": 42.1,
+    "weight": 149018
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-25",
+    "sum": 146356,
+    "dt_productivity": 41.1,
+    "weight": 97027
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-27",
+    "sum": 94433,
+    "dt_productivity": 8.4,
+    "weight": 66248
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-28",
+    "sum": 167567,
+    "dt_productivity": 35.5,
+    "weight": 89678
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-29",
+    "sum": 219058,
+    "dt_productivity": 46.5,
+    "weight": 195998
+  },
+  {
+    "city_plant_no": "Charlie",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-30",
+    "sum": 16775,
+    "dt_productivity": 14.8,
+    "weight": 17278
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-13",
+    "sum": 31937,
+    "dt_productivity": 18.6,
+    "weight": 48244
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-14",
+    "sum": 31666,
+    "dt_productivity": 22,
+    "weight": 50045
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-15",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-16",
+    "sum": 19868,
+    "dt_productivity": 7.2,
+    "weight": 14399
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-17",
+    "sum": 99322,
+    "dt_productivity": 23.5,
+    "weight": 46037
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-18",
+    "sum": 147882,
+    "dt_productivity": 35.1,
+    "weight": 108696
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-19",
+    "sum": 130629,
+    "dt_productivity": 33,
+    "weight": 84892
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-20",
+    "sum": 60579,
+    "dt_productivity": 26.3,
+    "weight": 54241
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-21",
+    "sum": 20640,
+    "dt_productivity": 12.8,
+    "weight": 29368
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-22",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-23",
+    "sum": 29987,
+    "dt_productivity": 6.9,
+    "weight": 16988
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-24",
+    "sum": 28618,
+    "dt_productivity": 5.8,
+    "weight": 22888
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-25",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-26",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-27",
+    "sum": 83595,
+    "dt_productivity": 17.6,
+    "weight": 61655
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-28",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-29",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-30",
+    "dt": "2019-12-30",
+    "sum": 17977,
+    "dt_productivity": 3.6,
+    "weight": 9447
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-30",
+    "dt": "2019-12-31",
+    "sum": 38811,
+    "dt_productivity": 7.9,
+    "weight": 12897
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-01",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-02",
+    "sum": 47798,
+    "dt_productivity": 14.7,
+    "weight": 32050
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-03",
+    "sum": 77251,
+    "dt_productivity": 28.8,
+    "weight": 53740
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-04",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-05",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-06",
+    "sum": 8203,
+    "dt_productivity": 15.3,
+    "weight": 6567
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-07",
+    "sum": 61050,
+    "dt_productivity": 20.8,
+    "weight": 55537
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-08",
+    "sum": 117081,
+    "dt_productivity": 27.3,
+    "weight": 74154
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-09",
+    "sum": 111447,
+    "dt_productivity": 30.6,
+    "weight": 91442
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-10",
+    "sum": 181735,
+    "dt_productivity": 38.7,
+    "weight": 169676
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-11",
+    "sum": 90749,
+    "dt_productivity": 21.4,
+    "weight": 54045
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-12",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-13",
+    "sum": 66172,
+    "dt_productivity": 13.4,
+    "weight": 13638
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-14",
+    "sum": 33433,
+    "dt_productivity": 7.5,
+    "weight": 22330
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-15",
+    "sum": 104574,
+    "dt_productivity": 23.9,
+    "weight": 59989
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-16",
+    "sum": 83773,
+    "dt_productivity": 19,
+    "weight": 55578
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-17",
+    "sum": 130290,
+    "dt_productivity": 29.8,
+    "weight": 112902
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-18",
+    "sum": 109832,
+    "dt_productivity": 25.8,
+    "weight": 61538
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-19",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-20",
+    "sum": 115714,
+    "dt_productivity": 25.3,
+    "weight": 58944
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-21",
+    "sum": 177594,
+    "dt_productivity": 42.1,
+    "weight": 92349
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-22",
+    "sum": 65553,
+    "dt_productivity": 21.9,
+    "weight": 36636
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-23",
+    "sum": 115076,
+    "dt_productivity": 26,
+    "weight": 60709
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-24",
+    "sum": 44571,
+    "dt_productivity": 10.2,
+    "weight": 27707
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-25",
+    "sum": 26964,
+    "dt_productivity": 5.7,
+    "weight": 25559
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-26",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-27",
+    "sum": 94841,
+    "dt_productivity": 20.6,
+    "weight": 59869
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-28",
+    "sum": 78529,
+    "dt_productivity": 18,
+    "weight": 66505
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-29",
+    "sum": 120801,
+    "dt_productivity": 30.9,
+    "weight": 71130
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-30",
+    "sum": 114305,
+    "dt_productivity": 29.5,
+    "weight": 58390
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-31",
+    "sum": 135197,
+    "dt_productivity": 29.1,
+    "weight": 115148
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-27",
+    "dt": "2020-02-01",
+    "sum": 42089,
+    "dt_productivity": 8.5,
+    "weight": 22067
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-01-27",
+    "dt": "2020-02-02",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-03",
+    "sum": 74017,
+    "dt_productivity": 16.8,
+    "weight": 42042
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-04",
+    "sum": 77768,
+    "dt_productivity": 18.8,
+    "weight": 46817
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-05",
+    "sum": 164831,
+    "dt_productivity": 36.7,
+    "weight": 77743
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-06",
+    "sum": 130839,
+    "dt_productivity": 41.6,
+    "weight": 88997
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-07",
+    "sum": 124140,
+    "dt_productivity": 28.8,
+    "weight": 104820
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-08",
+    "sum": 47696,
+    "dt_productivity": 10.2,
+    "weight": 28902
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-09",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-10",
+    "sum": 89807,
+    "dt_productivity": 20.4,
+    "weight": 84846
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-11",
+    "sum": 108011,
+    "dt_productivity": 23.9,
+    "weight": 73768
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-12",
+    "sum": 148295,
+    "dt_productivity": 33.7,
+    "weight": 68257
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-13",
+    "sum": 166318,
+    "dt_productivity": 39.7,
+    "weight": 97959
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-14",
+    "sum": 103067,
+    "dt_productivity": 24.2,
+    "weight": 59415
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-15",
+    "sum": 99254,
+    "dt_productivity": 38.1,
+    "weight": 74139
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-17",
+    "sum": 136402,
+    "dt_productivity": 47.1,
+    "weight": 35568
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-18",
+    "sum": 84374,
+    "dt_productivity": 28.4,
+    "weight": 44933
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-19",
+    "sum": 104875,
+    "dt_productivity": 24.8,
+    "weight": 81512
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-20",
+    "sum": 139540,
+    "dt_productivity": 32.5,
+    "weight": 72147
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-21",
+    "sum": 25653,
+    "dt_productivity": 5.3,
+    "weight": 13151
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-22",
+    "sum": 86638,
+    "dt_productivity": 18.2,
+    "weight": 49757
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-23",
+    "sum": 33162,
+    "dt_productivity": 6.7,
+    "weight": 21841
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-24",
+    "sum": 73522,
+    "dt_productivity": 16.5,
+    "weight": 46531
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-25",
+    "sum": 65777,
+    "dt_productivity": 16.5,
+    "weight": 31631
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-26",
+    "sum": 220756,
+    "dt_productivity": 49.8,
+    "weight": 110266
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-27",
+    "sum": 156895,
+    "dt_productivity": 39.8,
+    "weight": 89632
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-28",
+    "sum": 105105,
+    "dt_productivity": 25.2,
+    "weight": 67135
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-29",
+    "sum": 69814,
+    "dt_productivity": 15.4,
+    "weight": 45734
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-02-24",
+    "dt": "2020-03-01",
+    "sum": 15896,
+    "dt_productivity": 3.3,
+    "weight": 9421
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-02",
+    "sum": 101297,
+    "dt_productivity": 21.8,
+    "weight": 77596
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-03",
+    "sum": 68814,
+    "dt_productivity": 14.9,
+    "weight": 29544
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-04",
+    "sum": 94833,
+    "dt_productivity": 23.5,
+    "weight": 69210
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-05",
+    "sum": 147712,
+    "dt_productivity": 36.7,
+    "weight": 103941
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-06",
+    "sum": 122299,
+    "dt_productivity": 27.6,
+    "weight": 90356
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-07",
+    "sum": 115765,
+    "dt_productivity": 25.3,
+    "weight": 57561
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-08",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-09",
+    "sum": 72936,
+    "dt_productivity": 16.3,
+    "weight": 45644
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-10",
+    "sum": 56565,
+    "dt_productivity": 23.7,
+    "weight": 37629
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-11",
+    "sum": 72276,
+    "dt_productivity": 17.7,
+    "weight": 54808
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-12",
+    "sum": 97588,
+    "dt_productivity": 22,
+    "weight": 49270
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-13",
+    "sum": 125706,
+    "dt_productivity": 27.8,
+    "weight": 67676
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-14",
+    "sum": 141053,
+    "dt_productivity": 32.3,
+    "weight": 82897
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-15",
+    "sum": 131515,
+    "dt_productivity": 30.6,
+    "weight": 71595
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-16",
+    "sum": 134698,
+    "dt_productivity": 32.3,
+    "weight": 75729
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-17",
+    "sum": 86511,
+    "dt_productivity": 18.7,
+    "weight": 56252
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-18",
+    "sum": 129874,
+    "dt_productivity": 29.6,
+    "weight": 76637
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-19",
+    "sum": 174305,
+    "dt_productivity": 43.4,
+    "weight": 85248
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-20",
+    "sum": 152628,
+    "dt_productivity": 36.8,
+    "weight": 87916
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-21",
+    "sum": 145765,
+    "dt_productivity": 33.6,
+    "weight": 92939
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-22",
+    "sum": 200139,
+    "dt_productivity": 44,
+    "weight": 135829
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-23",
+    "sum": 103085,
+    "dt_productivity": 24.2,
+    "weight": 68929
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-24",
+    "sum": 55711,
+    "dt_productivity": 11.8,
+    "weight": 43075
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-25",
+    "sum": 128354,
+    "dt_productivity": 28.7,
+    "weight": 72038
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-26",
+    "sum": 107807,
+    "dt_productivity": 25.9,
+    "weight": 56516
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-27",
+    "sum": 126767,
+    "dt_productivity": 30.7,
+    "weight": 66358
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-28",
+    "sum": 137855,
+    "dt_productivity": 30.7,
+    "weight": 94643
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-29",
+    "sum": 37830,
+    "dt_productivity": 33.5,
+    "weight": 22469
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-30",
+    "dt": "2020-03-30",
+    "sum": 90372,
+    "dt_productivity": 35.7,
+    "weight": 51589
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-30",
+    "dt": "2020-03-31",
+    "sum": 91707,
+    "dt_productivity": 22.1,
+    "weight": 66832
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-01",
+    "sum": 129001,
+    "dt_productivity": 33.2,
+    "weight": 100330
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-02",
+    "sum": 140587,
+    "dt_productivity": 33.3,
+    "weight": 97563
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-03",
+    "sum": 118924,
+    "dt_productivity": 27.4,
+    "weight": 75055
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-04",
+    "sum": 143109,
+    "dt_productivity": 32.6,
+    "weight": 132586
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-05",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-06",
+    "sum": 100718,
+    "dt_productivity": 21.4,
+    "weight": 56668
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-07",
+    "sum": 104828,
+    "dt_productivity": 22.6,
+    "weight": 55337
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-08",
+    "sum": 123195,
+    "dt_productivity": 29.1,
+    "weight": 71373
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-09",
+    "sum": 139200,
+    "dt_productivity": 34.4,
+    "weight": 85694
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-10",
+    "sum": 162036,
+    "dt_productivity": 34.1,
+    "weight": 92768
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-11",
+    "sum": 161159,
+    "dt_productivity": 34.8,
+    "weight": 163377
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-12",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-13",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-14",
+    "sum": 43791,
+    "dt_productivity": 9.1,
+    "weight": 32238
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-15",
+    "sum": 144556,
+    "dt_productivity": 35.2,
+    "weight": 77472
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-16",
+    "sum": 61996,
+    "dt_productivity": 14.2,
+    "weight": 40116
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-17",
+    "sum": 113424,
+    "dt_productivity": 26,
+    "weight": 62525
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-18",
+    "sum": 134240,
+    "dt_productivity": 28.8,
+    "weight": 130708
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-19",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-20",
+    "sum": 24944,
+    "dt_productivity": 4.9,
+    "weight": 12759
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-21",
+    "sum": 63154,
+    "dt_productivity": 12.6,
+    "weight": 36545
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-22",
+    "sum": 73944,
+    "dt_productivity": 16.3,
+    "weight": 43088
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-23",
+    "sum": 120905,
+    "dt_productivity": 26.8,
+    "weight": 58189
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-24",
+    "sum": 95443,
+    "dt_productivity": 20.6,
+    "weight": 82346
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-25",
+    "sum": 37956,
+    "dt_productivity": 7.8,
+    "weight": 23158
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-26",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-27",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-28",
+    "sum": 32,
+    "dt_productivity": 0,
+    "weight": 21
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-29",
+    "sum": 71608,
+    "dt_productivity": 15.7,
+    "weight": 51845
+  },
+  {
+    "city_plant_no": "Zacconi",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-30",
+    "sum": 56779,
+    "dt_productivity": 13.8,
+    "weight": 29861
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-13",
+    "sum": 53474,
+    "dt_productivity": 24.1,
+    "weight": 43438
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-14",
+    "sum": 105976,
+    "dt_productivity": 22.9,
+    "weight": 84874
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-15",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-16",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-17",
+    "sum": 109534,
+    "dt_productivity": 25,
+    "weight": 64312
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-18",
+    "sum": 103141,
+    "dt_productivity": 35.2,
+    "weight": 73441
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-19",
+    "sum": 86979,
+    "dt_productivity": 27.8,
+    "weight": 51891
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-20",
+    "sum": 132070,
+    "dt_productivity": 33.5,
+    "weight": 73219
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-21",
+    "sum": 61399,
+    "dt_productivity": 15.5,
+    "weight": 57068
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-22",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-23",
+    "sum": 4,
+    "dt_productivity": 0,
+    "weight": 4
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-24",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-25",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-26",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-27",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-28",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-29",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-30",
+    "dt": "2019-12-30",
+    "sum": 17327,
+    "dt_productivity": 8.8,
+    "weight": 23822
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-30",
+    "dt": "2019-12-31",
+    "sum": 34752,
+    "dt_productivity": 12.6,
+    "weight": 26343
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-02",
+    "sum": 99676,
+    "dt_productivity": 31.8,
+    "weight": 61271
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-03",
+    "sum": 24240,
+    "dt_productivity": 4.9,
+    "weight": 17153
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-04",
+    "sum": 50599,
+    "dt_productivity": 10.4,
+    "weight": 28741
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-05",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-06",
+    "sum": 8163,
+    "dt_productivity": 1.6,
+    "weight": 2951
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-07",
+    "sum": 116100,
+    "dt_productivity": 24.7,
+    "weight": 66014
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-08",
+    "sum": 138746,
+    "dt_productivity": 32.5,
+    "weight": 111325
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-09",
+    "sum": 61402,
+    "dt_productivity": 13.8,
+    "weight": 39975
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-10",
+    "sum": 130782,
+    "dt_productivity": 36.8,
+    "weight": 97426
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-11",
+    "sum": 226192,
+    "dt_productivity": 49,
+    "weight": 155838
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-12",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-13",
+    "sum": 104609,
+    "dt_productivity": 25.7,
+    "weight": 49949
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-14",
+    "sum": 122415,
+    "dt_productivity": 35.6,
+    "weight": 101495
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-15",
+    "sum": 140130,
+    "dt_productivity": 41.3,
+    "weight": 72776
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-16",
+    "sum": 101700,
+    "dt_productivity": 22.1,
+    "weight": 57265
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-17",
+    "sum": 160941,
+    "dt_productivity": 40,
+    "weight": 99358
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-18",
+    "sum": 128229,
+    "dt_productivity": 37.8,
+    "weight": 105873
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-20",
+    "sum": 77011,
+    "dt_productivity": 27.1,
+    "weight": 35199
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-21",
+    "sum": 190476,
+    "dt_productivity": 44.6,
+    "weight": 90790
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-22",
+    "sum": 211613,
+    "dt_productivity": 48.2,
+    "weight": 99944
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-23",
+    "sum": 80555,
+    "dt_productivity": 18.2,
+    "weight": 56856
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-24",
+    "sum": 68045,
+    "dt_productivity": 14.5,
+    "weight": 34659
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-25",
+    "sum": 109337,
+    "dt_productivity": 23.7,
+    "weight": 96840
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-26",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-27",
+    "sum": 167941,
+    "dt_productivity": 37,
+    "weight": 97683
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-28",
+    "sum": 121467,
+    "dt_productivity": 30,
+    "weight": 74686
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-29",
+    "sum": 122771,
+    "dt_productivity": 31.2,
+    "weight": 69127
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-30",
+    "sum": 70605,
+    "dt_productivity": 16.7,
+    "weight": 40311
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-31",
+    "sum": 152537,
+    "dt_productivity": 40.7,
+    "weight": 105613
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-27",
+    "dt": "2020-02-01",
+    "sum": 25193,
+    "dt_productivity": 5.3,
+    "weight": 10846
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-01-27",
+    "dt": "2020-02-02",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-03",
+    "sum": 75374,
+    "dt_productivity": 15.9,
+    "weight": 38560
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-04",
+    "sum": 145211,
+    "dt_productivity": 36.3,
+    "weight": 74834
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-05",
+    "sum": 81182,
+    "dt_productivity": 19.2,
+    "weight": 57651
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-06",
+    "sum": 138758,
+    "dt_productivity": 35.6,
+    "weight": 70996
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-07",
+    "sum": 52446,
+    "dt_productivity": 12.1,
+    "weight": 46261
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-08",
+    "sum": 94877,
+    "dt_productivity": 20.1,
+    "weight": 69459
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-09",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-10",
+    "sum": 64465,
+    "dt_productivity": 14.4,
+    "weight": 34639
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-11",
+    "sum": 139919,
+    "dt_productivity": 33.7,
+    "weight": 90149
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-12",
+    "sum": 118809,
+    "dt_productivity": 30.2,
+    "weight": 76054
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-13",
+    "sum": 137363,
+    "dt_productivity": 33.1,
+    "weight": 86033
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-14",
+    "sum": 115550,
+    "dt_productivity": 28.3,
+    "weight": 66939
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-15",
+    "sum": 88132,
+    "dt_productivity": 18.9,
+    "weight": 53629
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-16",
+    "sum": 25,
+    "dt_productivity": 0,
+    "weight": 22
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-17",
+    "sum": 122970,
+    "dt_productivity": 27,
+    "weight": 66294
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-18",
+    "sum": 111790,
+    "dt_productivity": 30.8,
+    "weight": 73697
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-19",
+    "sum": 83117,
+    "dt_productivity": 19.5,
+    "weight": 56556
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-20",
+    "sum": 117462,
+    "dt_productivity": 31.2,
+    "weight": 59536
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-21",
+    "sum": 166553,
+    "dt_productivity": 38.9,
+    "weight": 117684
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-22",
+    "sum": 115400,
+    "dt_productivity": 25.7,
+    "weight": 57646
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-23",
+    "sum": 20877,
+    "dt_productivity": 4.2,
+    "weight": 9939
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-24",
+    "sum": 64913,
+    "dt_productivity": 15.2,
+    "weight": 56902
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-25",
+    "sum": 148890,
+    "dt_productivity": 35,
+    "weight": 106853
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-26",
+    "sum": 203240,
+    "dt_productivity": 46,
+    "weight": 171029
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-27",
+    "sum": 168379,
+    "dt_productivity": 41,
+    "weight": 82257
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-28",
+    "sum": 89650,
+    "dt_productivity": 18.9,
+    "weight": 48201
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-29",
+    "sum": 123062,
+    "dt_productivity": 26.2,
+    "weight": 73278
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-02-24",
+    "dt": "2020-03-01",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-02",
+    "sum": 116416,
+    "dt_productivity": 26.9,
+    "weight": 69078
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-03",
+    "sum": 207253,
+    "dt_productivity": 50.8,
+    "weight": 102107
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-04",
+    "sum": 115013,
+    "dt_productivity": 30.7,
+    "weight": 102555
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-05",
+    "sum": 156191,
+    "dt_productivity": 39.3,
+    "weight": 74752
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-06",
+    "sum": 68513,
+    "dt_productivity": 14.6,
+    "weight": 31167
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-07",
+    "sum": 137803,
+    "dt_productivity": 29.7,
+    "weight": 130273
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-08",
+    "sum": 34487,
+    "dt_productivity": 7.3,
+    "weight": 16881
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-09",
+    "sum": 122266,
+    "dt_productivity": 27.1,
+    "weight": 92992
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-10",
+    "sum": 122462,
+    "dt_productivity": 29.4,
+    "weight": 74650
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-11",
+    "sum": 169578,
+    "dt_productivity": 38.9,
+    "weight": 87958
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-12",
+    "sum": 49699,
+    "dt_productivity": 12.3,
+    "weight": 30009
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-13",
+    "sum": 127518,
+    "dt_productivity": 28,
+    "weight": 70141
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-14",
+    "sum": 139673,
+    "dt_productivity": 33.6,
+    "weight": 82938
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-15",
+    "sum": 76854,
+    "dt_productivity": 29,
+    "weight": 62064
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-16",
+    "sum": 133718,
+    "dt_productivity": 31.4,
+    "weight": 105470
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-17",
+    "sum": 169934,
+    "dt_productivity": 37.3,
+    "weight": 105970
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-18",
+    "sum": 84736,
+    "dt_productivity": 39.6,
+    "weight": 46945
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-19",
+    "sum": 202983,
+    "dt_productivity": 50,
+    "weight": 105972
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-20",
+    "sum": 114258,
+    "dt_productivity": 40.1,
+    "weight": 65178
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-21",
+    "sum": 112355,
+    "dt_productivity": 27.7,
+    "weight": 87696
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-22",
+    "sum": 28135,
+    "dt_productivity": 6,
+    "weight": 18528
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-23",
+    "sum": 66910,
+    "dt_productivity": 15.5,
+    "weight": 34156
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-24",
+    "sum": 110142,
+    "dt_productivity": 29.4,
+    "weight": 78938
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-25",
+    "sum": 100926,
+    "dt_productivity": 31.8,
+    "weight": 85255
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-26",
+    "sum": 89586,
+    "dt_productivity": 20.1,
+    "weight": 47117
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-27",
+    "sum": 138551,
+    "dt_productivity": 35.9,
+    "weight": 80499
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-28",
+    "sum": 151002,
+    "dt_productivity": 32.6,
+    "weight": 83741
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-29",
+    "sum": 134974,
+    "dt_productivity": 28.7,
+    "weight": 71765
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-30",
+    "dt": "2020-03-30",
+    "sum": 99985,
+    "dt_productivity": 23.5,
+    "weight": 53786
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-30",
+    "dt": "2020-03-31",
+    "sum": 127148,
+    "dt_productivity": 30.8,
+    "weight": 84446
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-01",
+    "sum": 95302,
+    "dt_productivity": 21.5,
+    "weight": 58926
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-02",
+    "sum": 147009,
+    "dt_productivity": 33.2,
+    "weight": 94157
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-03",
+    "sum": 162896,
+    "dt_productivity": 37.9,
+    "weight": 115729
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-04",
+    "sum": 180702,
+    "dt_productivity": 39.2,
+    "weight": 94546
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-05",
+    "sum": 13379,
+    "dt_productivity": 2.7,
+    "weight": 6909
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-06",
+    "sum": 60669,
+    "dt_productivity": 12.9,
+    "weight": 38686
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-07",
+    "sum": 157218,
+    "dt_productivity": 38.5,
+    "weight": 89790
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-08",
+    "sum": 115600,
+    "dt_productivity": 26.7,
+    "weight": 67672
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-09",
+    "sum": 123400,
+    "dt_productivity": 43.3,
+    "weight": 85277
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-10",
+    "sum": 182354,
+    "dt_productivity": 38.2,
+    "weight": 94382
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-11",
+    "sum": 97512,
+    "dt_productivity": 24.4,
+    "weight": 74199
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-12",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-13",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-14",
+    "sum": 87211,
+    "dt_productivity": 19.4,
+    "weight": 51002
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-15",
+    "sum": 98956,
+    "dt_productivity": 24.4,
+    "weight": 53279
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-16",
+    "sum": 121975,
+    "dt_productivity": 30,
+    "weight": 78875
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-17",
+    "sum": 137036,
+    "dt_productivity": 28.2,
+    "weight": 74056
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-18",
+    "sum": 9095,
+    "dt_productivity": 1.8,
+    "weight": 9808
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-19",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-20",
+    "sum": 91261,
+    "dt_productivity": 20.9,
+    "weight": 49285
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-21",
+    "sum": 154220,
+    "dt_productivity": 43.5,
+    "weight": 96869
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-22",
+    "sum": 49678,
+    "dt_productivity": 11,
+    "weight": 28626
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-23",
+    "sum": 122508,
+    "dt_productivity": 27,
+    "weight": 73799
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-24",
+    "sum": 80536,
+    "dt_productivity": 17.6,
+    "weight": 53556
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-25",
+    "sum": 56783,
+    "dt_productivity": 11.9,
+    "weight": 29983
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-26",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-27",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-28",
+    "sum": 21699,
+    "dt_productivity": 7,
+    "weight": 17590
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-29",
+    "sum": 55762,
+    "dt_productivity": 30.8,
+    "weight": 54711
+  },
+  {
+    "city_plant_no": "Shima",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-30",
+    "sum": 70938,
+    "dt_productivity": 38.5,
+    "weight": 32363
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-13",
+    "sum": 75425,
+    "dt_productivity": 32.1,
+    "weight": 48004
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-14",
+    "sum": 135480,
+    "dt_productivity": 45.1,
+    "weight": 106614
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-15",
+    "sum": 91974,
+    "dt_productivity": 19.4,
+    "weight": 83989
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-16",
+    "sum": 29891,
+    "dt_productivity": 7.2,
+    "weight": 27161
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-17",
+    "sum": 102282,
+    "dt_productivity": 22,
+    "weight": 74903
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-18",
+    "sum": 133462,
+    "dt_productivity": 32.8,
+    "weight": 104730
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-19",
+    "sum": 186226,
+    "dt_productivity": 43.5,
+    "weight": 79203
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-20",
+    "sum": 154103,
+    "dt_productivity": 36.6,
+    "weight": 120468
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-21",
+    "sum": 111876,
+    "dt_productivity": 23.3,
+    "weight": 43120
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-22",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-23",
+    "sum": 115890,
+    "dt_productivity": 24.7,
+    "weight": 48391
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-24",
+    "sum": 82143,
+    "dt_productivity": 33,
+    "weight": 59181
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-27",
+    "sum": 82269,
+    "dt_productivity": 4.9,
+    "weight": 33434
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-28",
+    "sum": 47176,
+    "dt_productivity": 38.7,
+    "weight": 34984
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-30",
+    "dt": "2019-12-30",
+    "sum": 76420,
+    "dt_productivity": 5.6,
+    "weight": 76387
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-30",
+    "dt": "2019-12-31",
+    "sum": 28917,
+    "dt_productivity": 31.5,
+    "weight": 19781
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-03",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-06",
+    "sum": 1,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-07",
+    "sum": 75965,
+    "dt_productivity": 16.6,
+    "weight": 42466
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-08",
+    "sum": 153576,
+    "dt_productivity": 37.3,
+    "weight": 67152
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-09",
+    "sum": 182870,
+    "dt_productivity": 40,
+    "weight": 97453
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-10",
+    "sum": 152921,
+    "dt_productivity": 34,
+    "weight": 97209
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-11",
+    "sum": 73546,
+    "dt_productivity": 23.9,
+    "weight": 55240
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-13",
+    "sum": 114969,
+    "dt_productivity": 10,
+    "weight": 58064
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-14",
+    "sum": 122362,
+    "dt_productivity": 28.5,
+    "weight": 95139
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-15",
+    "sum": 158356,
+    "dt_productivity": 35.7,
+    "weight": 88257
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-16",
+    "sum": 210660,
+    "dt_productivity": 44.8,
+    "weight": 150932
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-17",
+    "sum": 132966,
+    "dt_productivity": 28.9,
+    "weight": 80023
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-18",
+    "sum": 77942,
+    "dt_productivity": 32.6,
+    "weight": 62955
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-20",
+    "sum": 77156,
+    "dt_productivity": 6.2,
+    "weight": 51789
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-21",
+    "sum": 136646,
+    "dt_productivity": 31.6,
+    "weight": 99869
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-22",
+    "sum": 111154,
+    "dt_productivity": 26.3,
+    "weight": 79859
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-23",
+    "sum": 133320,
+    "dt_productivity": 36.2,
+    "weight": 85769
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-24",
+    "sum": 222335,
+    "dt_productivity": 49.3,
+    "weight": 128320
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-25",
+    "sum": 91338,
+    "dt_productivity": 36.1,
+    "weight": 83225
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-27",
+    "sum": 111350,
+    "dt_productivity": 9.6,
+    "weight": 63210
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-28",
+    "sum": 102379,
+    "dt_productivity": 29.5,
+    "weight": 79749
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-29",
+    "sum": 167147,
+    "dt_productivity": 35.2,
+    "weight": 93034
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-30",
+    "sum": 205382,
+    "dt_productivity": 44.2,
+    "weight": 133875
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-31",
+    "sum": 177026,
+    "dt_productivity": 41.8,
+    "weight": 96059
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-27",
+    "dt": "2020-02-01",
+    "sum": 37734,
+    "dt_productivity": 31.1,
+    "weight": 22027
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-01-27",
+    "dt": "2020-02-02",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-03",
+    "sum": 75139,
+    "dt_productivity": 11,
+    "weight": 65635
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-04",
+    "sum": 163311,
+    "dt_productivity": 36.1,
+    "weight": 95795
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-05",
+    "sum": 172632,
+    "dt_productivity": 42.9,
+    "weight": 108607
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-06",
+    "sum": 146211,
+    "dt_productivity": 39.3,
+    "weight": 87795
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-07",
+    "sum": 157931,
+    "dt_productivity": 35.5,
+    "weight": 97360
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-08",
+    "sum": 89111,
+    "dt_productivity": 31.6,
+    "weight": 62220
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-09",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-10",
+    "sum": 93226,
+    "dt_productivity": 14.5,
+    "weight": 55885
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-11",
+    "sum": 126196,
+    "dt_productivity": 32.3,
+    "weight": 86974
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-12",
+    "sum": 180084,
+    "dt_productivity": 44.1,
+    "weight": 105049
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-13",
+    "sum": 94662,
+    "dt_productivity": 30.3,
+    "weight": 70088
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-14",
+    "sum": 93140,
+    "dt_productivity": 21.2,
+    "weight": 84706
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-15",
+    "sum": 72410,
+    "dt_productivity": 25.2,
+    "weight": 38847
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-17",
+    "sum": 83098,
+    "dt_productivity": 7.3,
+    "weight": 55808
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-18",
+    "sum": 167563,
+    "dt_productivity": 37.1,
+    "weight": 117303
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-19",
+    "sum": 115222,
+    "dt_productivity": 30,
+    "weight": 85654
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-20",
+    "sum": 141993,
+    "dt_productivity": 53.5,
+    "weight": 81103
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-21",
+    "sum": 113346,
+    "dt_productivity": 30.7,
+    "weight": 96177
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-22",
+    "sum": 95145,
+    "dt_productivity": 32.8,
+    "weight": 60226
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-24",
+    "sum": 111478,
+    "dt_productivity": 9.6,
+    "weight": 67230
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-25",
+    "sum": 65177,
+    "dt_productivity": 19.8,
+    "weight": 34189
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-26",
+    "sum": 129871,
+    "dt_productivity": 29.1,
+    "weight": 95265
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-27",
+    "sum": 151876,
+    "dt_productivity": 36,
+    "weight": 64263
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-28",
+    "sum": 128675,
+    "dt_productivity": 39.9,
+    "weight": 73027
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-29",
+    "sum": 94942,
+    "dt_productivity": 38.6,
+    "weight": 71916
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-02",
+    "sum": 68245,
+    "dt_productivity": 5.9,
+    "weight": 43809
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-03",
+    "sum": 173348,
+    "dt_productivity": 37.8,
+    "weight": 99978
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-04",
+    "sum": 162674,
+    "dt_productivity": 37.3,
+    "weight": 96747
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-05",
+    "sum": 157499,
+    "dt_productivity": 35.6,
+    "weight": 95318
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-06",
+    "sum": 129087,
+    "dt_productivity": 28.1,
+    "weight": 72670
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-07",
+    "sum": 49846,
+    "dt_productivity": 20.4,
+    "weight": 35199
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-08",
+    "sum": 44735,
+    "dt_productivity": 6.6,
+    "weight": 25166
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-09",
+    "sum": 92869,
+    "dt_productivity": 23.8,
+    "weight": 69401
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-10",
+    "sum": 122855,
+    "dt_productivity": 28.6,
+    "weight": 82849
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-11",
+    "sum": 83709,
+    "dt_productivity": 18,
+    "weight": 48007
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-12",
+    "sum": 119466,
+    "dt_productivity": 27.8,
+    "weight": 70485
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-13",
+    "sum": 140988,
+    "dt_productivity": 29.4,
+    "weight": 76925
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-14",
+    "sum": 135661,
+    "dt_productivity": 29.3,
+    "weight": 72346
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-15",
+    "sum": 67164,
+    "dt_productivity": 18.6,
+    "weight": 75356
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-16",
+    "sum": 49030,
+    "dt_productivity": 10.4,
+    "weight": 39524
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-17",
+    "sum": 101765,
+    "dt_productivity": 23.9,
+    "weight": 58101
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-18",
+    "sum": 82259,
+    "dt_productivity": 17.8,
+    "weight": 52490
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-19",
+    "sum": 147293,
+    "dt_productivity": 31.3,
+    "weight": 79476
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-20",
+    "sum": 145804,
+    "dt_productivity": 33.3,
+    "weight": 79370
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-21",
+    "sum": 136057,
+    "dt_productivity": 29.1,
+    "weight": 73432
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-22",
+    "sum": 127892,
+    "dt_productivity": 31.8,
+    "weight": 68926
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-23",
+    "sum": 111998,
+    "dt_productivity": 24.9,
+    "weight": 82563
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-24",
+    "sum": 98392,
+    "dt_productivity": 21.9,
+    "weight": 57122
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-25",
+    "sum": 170096,
+    "dt_productivity": 35.4,
+    "weight": 91625
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-26",
+    "sum": 64083,
+    "dt_productivity": 17.1,
+    "weight": 39225
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-27",
+    "sum": 124952,
+    "dt_productivity": 27.1,
+    "weight": 69283
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-28",
+    "sum": 64449,
+    "dt_productivity": 21.7,
+    "weight": 43437
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-29",
+    "sum": 94680,
+    "dt_productivity": 23.5,
+    "weight": 59464
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-30",
+    "dt": "2020-03-30",
+    "sum": 103743,
+    "dt_productivity": 22.9,
+    "weight": 57915
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-30",
+    "dt": "2020-03-31",
+    "sum": 116244,
+    "dt_productivity": 24.5,
+    "weight": 62029
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-01",
+    "sum": 72945,
+    "dt_productivity": 17.7,
+    "weight": 45916
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-02",
+    "sum": 68271,
+    "dt_productivity": 14.9,
+    "weight": 42008
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-03",
+    "sum": 142067,
+    "dt_productivity": 32.5,
+    "weight": 78285
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-04",
+    "sum": 132905,
+    "dt_productivity": 31.6,
+    "weight": 70531
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-05",
+    "sum": 125506,
+    "dt_productivity": 25.7,
+    "weight": 71488
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-06",
+    "sum": 175412,
+    "dt_productivity": 38.3,
+    "weight": 94933
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-07",
+    "sum": 146627,
+    "dt_productivity": 31.9,
+    "weight": 95269
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-08",
+    "sum": 111021,
+    "dt_productivity": 29.6,
+    "weight": 63333
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-09",
+    "sum": 154446,
+    "dt_productivity": 33.7,
+    "weight": 86603
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-10",
+    "sum": 44972,
+    "dt_productivity": 9.8,
+    "weight": 31778
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-11",
+    "sum": 151076,
+    "dt_productivity": 31.6,
+    "weight": 84959
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-12",
+    "sum": 161739,
+    "dt_productivity": 35.7,
+    "weight": 86796
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-13",
+    "sum": 150072,
+    "dt_productivity": 32.4,
+    "weight": 84495
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-14",
+    "sum": 127547,
+    "dt_productivity": 31,
+    "weight": 76658
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-15",
+    "sum": 121907,
+    "dt_productivity": 26.8,
+    "weight": 77373
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-16",
+    "sum": 68354,
+    "dt_productivity": 17.5,
+    "weight": 38851
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-17",
+    "sum": 135850,
+    "dt_productivity": 31.7,
+    "weight": 84178
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-18",
+    "sum": 161889,
+    "dt_productivity": 37.8,
+    "weight": 126333
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-19",
+    "sum": 175716,
+    "dt_productivity": 41,
+    "weight": 108723
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-20",
+    "sum": 102003,
+    "dt_productivity": 23.4,
+    "weight": 63322
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-21",
+    "sum": 113317,
+    "dt_productivity": 25.2,
+    "weight": 70697
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-22",
+    "sum": 108441,
+    "dt_productivity": 25.3,
+    "weight": 68556
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-23",
+    "sum": 131465,
+    "dt_productivity": 32.4,
+    "weight": 84581
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-24",
+    "sum": 126449,
+    "dt_productivity": 26.7,
+    "weight": 72929
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-25",
+    "sum": 139838,
+    "dt_productivity": 33.7,
+    "weight": 82507
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-26",
+    "sum": 99652,
+    "dt_productivity": 27.4,
+    "weight": 65213
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-27",
+    "sum": 140681,
+    "dt_productivity": 31.1,
+    "weight": 81950
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-28",
+    "sum": 98437,
+    "dt_productivity": 23,
+    "weight": 73150
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-29",
+    "sum": 109041,
+    "dt_productivity": 24.2,
+    "weight": 70169
+  },
+  {
+    "city_plant_no": "Hevin",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-30",
+    "sum": 70748,
+    "dt_productivity": 24.6,
+    "weight": 39877
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-13",
+    "sum": 224664,
+    "dt_productivity": 48.5,
+    "weight": 196875
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-14",
+    "sum": 151096,
+    "dt_productivity": 41.1,
+    "weight": 163063
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-09",
+    "dt": "2019-12-15",
+    "sum": 28545,
+    "dt_productivity": 5,
+    "weight": 19325
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-16",
+    "sum": 148664,
+    "dt_productivity": 27.3,
+    "weight": 99440
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-17",
+    "sum": 143356,
+    "dt_productivity": 28.9,
+    "weight": 152849
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-18",
+    "sum": 202959,
+    "dt_productivity": 38.2,
+    "weight": 133740
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-19",
+    "sum": 262586,
+    "dt_productivity": 48.2,
+    "weight": 182313
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-20",
+    "sum": 197150,
+    "dt_productivity": 37.5,
+    "weight": 118850
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-21",
+    "sum": 206708,
+    "dt_productivity": 41.4,
+    "weight": 180448
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-16",
+    "dt": "2019-12-22",
+    "sum": 182877,
+    "dt_productivity": 33.3,
+    "weight": 117451
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-23",
+    "sum": 26181,
+    "dt_productivity": 14.6,
+    "weight": 19682
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-26",
+    "sum": 76221,
+    "dt_productivity": 3.7,
+    "weight": 60688
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-27",
+    "sum": 198002,
+    "dt_productivity": 36.4,
+    "weight": 123418
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-28",
+    "sum": 199725,
+    "dt_productivity": 37.1,
+    "weight": 154219
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-23",
+    "dt": "2019-12-29",
+    "sum": 225143,
+    "dt_productivity": 43.4,
+    "weight": 224998
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-30",
+    "dt": "2019-12-30",
+    "sum": 32162,
+    "dt_productivity": 5.6,
+    "weight": 41744
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-30",
+    "dt": "2019-12-31",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-01",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-02",
+    "sum": 122786,
+    "dt_productivity": 23.1,
+    "weight": 81022
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-03",
+    "sum": 179795,
+    "dt_productivity": 34.9,
+    "weight": 159531
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-04",
+    "sum": 141134,
+    "dt_productivity": 32.7,
+    "weight": 123215
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2019-12-30",
+    "dt": "2020-01-05",
+    "sum": 23244,
+    "dt_productivity": 4.1,
+    "weight": 22882
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-06",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-07",
+    "sum": 190511,
+    "dt_productivity": 21.3,
+    "weight": 146200
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-08",
+    "sum": 249182,
+    "dt_productivity": 50.3,
+    "weight": 167686
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-09",
+    "sum": 206747,
+    "dt_productivity": 41.3,
+    "weight": 196887
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-10",
+    "sum": 218068,
+    "dt_productivity": 42.7,
+    "weight": 154133
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-11",
+    "sum": 216381,
+    "dt_productivity": 42.7,
+    "weight": 211292
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-06",
+    "dt": "2020-01-12",
+    "sum": 14681,
+    "dt_productivity": 2.6,
+    "weight": 14416
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-13",
+    "sum": 200691,
+    "dt_productivity": 37.2,
+    "weight": 152273
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-14",
+    "sum": 310755,
+    "dt_productivity": 60.3,
+    "weight": 208213
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-15",
+    "sum": 218239,
+    "dt_productivity": 44.2,
+    "weight": 208585
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-16",
+    "sum": 190334,
+    "dt_productivity": 38.5,
+    "weight": 160514
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-17",
+    "sum": 209486,
+    "dt_productivity": 41,
+    "weight": 175336
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-18",
+    "sum": 182694,
+    "dt_productivity": 38.2,
+    "weight": 168071
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-13",
+    "dt": "2020-01-19",
+    "sum": 19474,
+    "dt_productivity": 3.4,
+    "weight": 28625
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-20",
+    "sum": 94094,
+    "dt_productivity": 17.2,
+    "weight": 96623
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-21",
+    "sum": 140587,
+    "dt_productivity": 27.1,
+    "weight": 110004
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-22",
+    "sum": 148346,
+    "dt_productivity": 27.7,
+    "weight": 138503
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-23",
+    "sum": 228474,
+    "dt_productivity": 44,
+    "weight": 165919
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-24",
+    "sum": 258633,
+    "dt_productivity": 49.9,
+    "weight": 173127
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-25",
+    "sum": 80646,
+    "dt_productivity": 14.6,
+    "weight": 66350
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-20",
+    "dt": "2020-01-26",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-27",
+    "sum": 148161,
+    "dt_productivity": 27.3,
+    "weight": 113674
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-28",
+    "sum": 192534,
+    "dt_productivity": 37.3,
+    "weight": 157074
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-29",
+    "sum": 140597,
+    "dt_productivity": 29.2,
+    "weight": 111008
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-30",
+    "sum": 201778,
+    "dt_productivity": 38.5,
+    "weight": 187799
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-27",
+    "dt": "2020-01-31",
+    "sum": 155154,
+    "dt_productivity": 31.1,
+    "weight": 111551
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-27",
+    "dt": "2020-02-01",
+    "sum": 115063,
+    "dt_productivity": 22.3,
+    "weight": 95512
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-01-27",
+    "dt": "2020-02-02",
+    "sum": 2,
+    "dt_productivity": 0,
+    "weight": 2
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-03",
+    "sum": 157174,
+    "dt_productivity": 29.1,
+    "weight": 148527
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-04",
+    "sum": 223668,
+    "dt_productivity": 43.4,
+    "weight": 176918
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-05",
+    "sum": 216635,
+    "dt_productivity": 41.8,
+    "weight": 218315
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-06",
+    "sum": 142347,
+    "dt_productivity": 31,
+    "weight": 100895
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-07",
+    "sum": 139067,
+    "dt_productivity": 28,
+    "weight": 116957
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-08",
+    "sum": 87806,
+    "dt_productivity": 16.2,
+    "weight": 51315
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-03",
+    "dt": "2020-02-09",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-10",
+    "sum": 87835,
+    "dt_productivity": 17.4,
+    "weight": 50606
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-11",
+    "sum": 239520,
+    "dt_productivity": 46.4,
+    "weight": 149366
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-12",
+    "sum": 198006,
+    "dt_productivity": 39.3,
+    "weight": 172238
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-13",
+    "sum": 242963,
+    "dt_productivity": 46.2,
+    "weight": 194100
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-14",
+    "sum": 160555,
+    "dt_productivity": 30.6,
+    "weight": 134210
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-15",
+    "sum": 146700,
+    "dt_productivity": 26.9,
+    "weight": 117323
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-10",
+    "dt": "2020-02-16",
+    "sum": 2,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-17",
+    "sum": 147860,
+    "dt_productivity": 26.7,
+    "weight": 94003
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-18",
+    "sum": 232374,
+    "dt_productivity": 45.6,
+    "weight": 201875
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-19",
+    "sum": 202315,
+    "dt_productivity": 44,
+    "weight": 168533
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-20",
+    "sum": 200080,
+    "dt_productivity": 38.2,
+    "weight": 153791
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-21",
+    "sum": 232238,
+    "dt_productivity": 44.7,
+    "weight": 159644
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-22",
+    "sum": 32716,
+    "dt_productivity": 5.7,
+    "weight": 27684
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-17",
+    "dt": "2020-02-23",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-24",
+    "sum": 159331,
+    "dt_productivity": 21,
+    "weight": 157704
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-25",
+    "sum": 226181,
+    "dt_productivity": 45.3,
+    "weight": 149758
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-26",
+    "sum": 197071,
+    "dt_productivity": 38,
+    "weight": 145464
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-27",
+    "sum": 208738,
+    "dt_productivity": 39.7,
+    "weight": 179215
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-28",
+    "sum": 205759,
+    "dt_productivity": 42.5,
+    "weight": 188632
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-24",
+    "dt": "2020-02-29",
+    "sum": 170837,
+    "dt_productivity": 32.6,
+    "weight": 125610
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-02-24",
+    "dt": "2020-03-01",
+    "sum": 1,
+    "dt_productivity": 0,
+    "weight": 1
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-02",
+    "sum": 94976,
+    "dt_productivity": 19,
+    "weight": 93328
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-03",
+    "sum": 195426,
+    "dt_productivity": 36.5,
+    "weight": 164141
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-04",
+    "sum": 168886,
+    "dt_productivity": 31.5,
+    "weight": 171237
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-05",
+    "sum": 250633,
+    "dt_productivity": 49.5,
+    "weight": 178949
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-06",
+    "sum": 253412,
+    "dt_productivity": 50.8,
+    "weight": 189017
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-07",
+    "sum": 175290,
+    "dt_productivity": 33.5,
+    "weight": 167462
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-02",
+    "dt": "2020-03-08",
+    "sum": 47510,
+    "dt_productivity": 8.4,
+    "weight": 43798
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-09",
+    "sum": 208843,
+    "dt_productivity": 37.7,
+    "weight": 136455
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-10",
+    "sum": 172426,
+    "dt_productivity": 38.2,
+    "weight": 146526
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-11",
+    "sum": 113349,
+    "dt_productivity": 21.4,
+    "weight": 75615
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-12",
+    "sum": 229089,
+    "dt_productivity": 46.4,
+    "weight": 126214
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-13",
+    "sum": 199174,
+    "dt_productivity": 39.6,
+    "weight": 162111
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-14",
+    "sum": 193044,
+    "dt_productivity": 38.2,
+    "weight": 179018
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-09",
+    "dt": "2020-03-15",
+    "sum": 15375,
+    "dt_productivity": 2.7,
+    "weight": 10205
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-16",
+    "sum": 162169,
+    "dt_productivity": 30.8,
+    "weight": 122919
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-17",
+    "sum": 215059,
+    "dt_productivity": 40.1,
+    "weight": 159359
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-18",
+    "sum": 233301,
+    "dt_productivity": 44.7,
+    "weight": 219876
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-19",
+    "sum": 132884,
+    "dt_productivity": 26.6,
+    "weight": 127951
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-20",
+    "sum": 235342,
+    "dt_productivity": 47.2,
+    "weight": 203748
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-21",
+    "sum": 297757,
+    "dt_productivity": 56.3,
+    "weight": 222449
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-16",
+    "dt": "2020-03-22",
+    "sum": 39023,
+    "dt_productivity": 6.8,
+    "weight": 23539
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-23",
+    "sum": 166663,
+    "dt_productivity": 30.9,
+    "weight": 91669
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-24",
+    "sum": 282509,
+    "dt_productivity": 52.6,
+    "weight": 185683
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-25",
+    "sum": 189374,
+    "dt_productivity": 36.7,
+    "weight": 126107
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-26",
+    "sum": 205077,
+    "dt_productivity": 40.8,
+    "weight": 156914
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-27",
+    "sum": 172092,
+    "dt_productivity": 35.4,
+    "weight": 132445
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-28",
+    "sum": 195936,
+    "dt_productivity": 41.3,
+    "weight": 166664
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-23",
+    "dt": "2020-03-29",
+    "sum": 15991,
+    "dt_productivity": 63.5,
+    "weight": 8675
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-30",
+    "dt": "2020-03-30",
+    "sum": 168382,
+    "dt_productivity": 51.9,
+    "weight": 138149
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-30",
+    "dt": "2020-03-31",
+    "sum": 249181,
+    "dt_productivity": 47.7,
+    "weight": 159429
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-01",
+    "sum": 187564,
+    "dt_productivity": 39.1,
+    "weight": 163730
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-02",
+    "sum": 214519,
+    "dt_productivity": 45,
+    "weight": 163159
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-03",
+    "sum": 243912,
+    "dt_productivity": 50.9,
+    "weight": 202936
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-04",
+    "sum": 243347,
+    "dt_productivity": 45.3,
+    "weight": 166823
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-03-30",
+    "dt": "2020-04-05",
+    "sum": 21944,
+    "dt_productivity": 3.8,
+    "weight": 12432
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-06",
+    "sum": 192631,
+    "dt_productivity": 36.7,
+    "weight": 124901
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-07",
+    "sum": 102130,
+    "dt_productivity": 17.8,
+    "weight": 43192
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-08",
+    "sum": 204199,
+    "dt_productivity": 39.5,
+    "weight": 183170
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-09",
+    "sum": 209543,
+    "dt_productivity": 40.5,
+    "weight": 144684
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-10",
+    "sum": 245085,
+    "dt_productivity": 47.7,
+    "weight": 173999
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-11",
+    "sum": 26610,
+    "dt_productivity": 4.7,
+    "weight": 17623
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-06",
+    "dt": "2020-04-12",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-13",
+    "sum": 141169,
+    "dt_productivity": 27.1,
+    "weight": 121045
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-14",
+    "sum": 191393,
+    "dt_productivity": 36.4,
+    "weight": 171374
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-15",
+    "sum": 158619,
+    "dt_productivity": 29.9,
+    "weight": 135125
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-16",
+    "sum": 206102,
+    "dt_productivity": 39.2,
+    "weight": 135315
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-17",
+    "sum": 224676,
+    "dt_productivity": 43.3,
+    "weight": 204944
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-18",
+    "sum": 236171,
+    "dt_productivity": 44.3,
+    "weight": 189845
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-13",
+    "dt": "2020-04-19",
+    "sum": 18322,
+    "dt_productivity": 3.3,
+    "weight": 14075
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-20",
+    "sum": 65975,
+    "dt_productivity": 12.4,
+    "weight": 37178
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-21",
+    "sum": 179767,
+    "dt_productivity": 31.5,
+    "weight": 111081
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-22",
+    "sum": 134254,
+    "dt_productivity": 25.4,
+    "weight": 124957
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-23",
+    "sum": 114884,
+    "dt_productivity": 21.3,
+    "weight": 102562
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-24",
+    "sum": 119559,
+    "dt_productivity": 24.7,
+    "weight": 86940
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-25",
+    "sum": 70332,
+    "dt_productivity": 13.4,
+    "weight": 62591
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-20",
+    "dt": "2020-04-26",
+    "sum": 0,
+    "dt_productivity": 0,
+    "weight": 0
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-27",
+    "sum": 66203,
+    "dt_productivity": 13,
+    "weight": 52374
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-28",
+    "sum": 142913,
+    "dt_productivity": 29.9,
+    "weight": 140232
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-29",
+    "sum": 119457,
+    "dt_productivity": 23.4,
+    "weight": 95189
+  },
+  {
+    "city_plant_no": "Grey",
+    "week_start": "2020-04-27",
+    "dt": "2020-04-30",
+    "sum": 18787,
+    "dt_productivity": 22.4,
+    "weight": 17295
+  }
+]
