@@ -286,8 +286,6 @@ export default {
     fillData() {
       const func_filter = (item, index, self) => {
         return (
-          (this.stateFilterData.selectregion.length == 0 ||
-            this.stateFilterData.selectregion.indexOf(item.region) >= 0) &&
           (this.stateFilterData.selectplant.length == 0 ||
             this.stateFilterData.selectplant.indexOf(item.city_plant_no) >=
               0) &&
@@ -299,8 +297,6 @@ export default {
           (!this.stateFilterData.from ||
             new Date(item.prod_start_time_local) >
               new Date(this.stateFilterData.from)) &&
-          (!this.stateFilterData.selectorderid ||
-            item.order_id.indexOf(this.stateFilterData.selectorderid) >= 0) &&
           (!this.stateFilterData.selectorderno ||
             item.order_no.indexOf(this.stateFilterData.selectorderno) >= 0)
         );
