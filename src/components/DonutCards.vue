@@ -163,40 +163,22 @@ export default {
   },
   computed: {
     orderTotal: function() {
-      return this.donuts_objs.Order.donut_data.datasets[0].data.reduce(function(
-        a,
-        x
-      ) {
-        return a + x;
-      });
+      return this.orderDonut.series[0].data.reduce(function(a, x) {
+        return a + x[1];
+      }, 0);
     },
     volTotal: function() {
-      return this.donuts_objs.Volume.donut_data.datasets[0].data.reduce(
-        function(a, x) {
-          return a + x;
-        }
-      );
+      return this.volDonut.series[0].data.reduce(function(a, x) {
+        return a + x[1];
+      }, 0);
     },
     weightTotal: function() {
-      let weightdata = this.donuts_objs.Weight.donut_data.datasets[0];
-      if (!this.unit_inch) {
-        //単位：mの場合
-        return weightdata.data.reduce(function(a, x) {
-          return a + x;
-        });
-      } else {
-        //単位：inの場合
-        return Math.round(
-          (weightdata.data.reduce(function(a, x) {
-            return a + x;
-          }) *
-            1550) /
-            1000
-        );
-      }
+      return this.weightDonut.series[0].data.reduce(function(a, x) {
+        return a + x[1];
+      }, 0);
     },
     prodTotal: function() {
-      return this.donuts_objs.Productivity.donut_data.datasets[0].data[0];
+      return this.prodDonut.series[0].data[0][1];
     },
     productivity: function() {
       return true;
@@ -211,7 +193,6 @@ export default {
       handler: function(value) {
         if (Object.keys(value).length > 0) {
           this.createDonutData();
-          this.pushData();
         }
       },
       immediate: true
@@ -219,152 +200,77 @@ export default {
   },
   methods: {
     createDonutData() {
-      //★セグメント名をいちいち指定せずにドーナツデータ作れないのか？
-      let view_A = this.viewdata["Candy"] ? this.viewdata["Candy"] : [];
-      let view_B = this.viewdata["Chocolate"] ? this.viewdata["Chocolate"] : [];
-      let view_C = this.viewdata["Cookie"] ? this.viewdata["Cookie"] : [];
-      let view_D = this.viewdata["Gum"] ? this.viewdata["Gum"] : [];
+      /*viewdataはorder_idごとに分かれてるのでそれをセグメントごとに合計してchartOptionsに入れればいい
+       */
 
-      let count_a = view_A.length;
-      let count_b = view_B.length;
-      let count_c = view_C.length;
-      let count_d = view_D.length;
+      //★これいる？
+      if (Object.keys(this.viewdata) === 0) {
+        return;
+      }
 
-      const func_sumsht = (accumulator, currentValue) => {
-        return accumulator + parseInt(currentValue["prod_volume"]);
-      };
-      let sumsht_A = view_A.reduce(func_sumsht, 0);
-      let sumsht_B = view_B.reduce(func_sumsht, 0);
-      let sumsht_C = view_C.reduce(func_sumsht, 0);
-      let sumsht_D = view_D.reduce(func_sumsht, 0);
-
-      const func_sumproductivity = (accumulator, currentValue) => {
-        return accumulator + parseFloat(currentValue["productivity"]);
-      };
-      let sump_A = view_A.reduce(func_sumproductivity, 0);
-      let sump_B = view_B.reduce(func_sumproductivity, 0);
-      let sump_C = view_C.reduce(func_sumproductivity, 0);
-      let sump_D = view_D.reduce(func_sumproductivity, 0);
-
-      const func_sumshtxs = (accumulator, currentValue) => {
-        return accumulator + parseInt(currentValue["weight"]);
-      };
-      let sumshtxs_A = view_A.reduce(func_sumshtxs, 0);
-      let sumshtxs_B = view_B.reduce(func_sumshtxs, 0);
-      let sumshtxs_C = view_C.reduce(func_sumshtxs, 0);
-      let sumshtxs_D = view_D.reduce(func_sumshtxs, 0);
-
-      console.log(this.donuts_objs);
-
-      this.donuts_objs["Order"].donut_data = {
-        datasets: [
-          {
-            data: [count_a, count_b, count_c, count_d]
-          }
-        ],
-        labels: ["A", "B", "C", "D"]
-      };
-      this.donuts_objs["Volume"].donut_data = {
-        datasets: [
-          {
-            data: [sumsht_A, sumsht_B, sumsht_C, sumsht_D]
-          }
-        ],
-        labels: ["A", "B", "C", "D"]
-      };
-      this.donuts_objs["Weight"].donut_data = {
-        datasets: [
-          {
-            data: [sumshtxs_A, sumshtxs_B, sumshtxs_C, sumshtxs_D]
-          }
-        ],
-        labels: ["A", "B", "C", "D"]
-      };
-      let ave_productivity =
-        Math.round(
-          ((sump_A + sump_B + sump_C + sump_D) /
-            (count_a + count_b + count_c + count_d)) *
-            1000
-        ) / 10;
-      this.donuts_objs["Productivity"].donut_data = {
-        datasets: [
-          {
-            data: [ave_productivity, 100 - ave_productivity]
-          }
-        ],
-        labels: []
-      };
-    },
-    pushData() {
       this.orderDonut = this.$_.cloneDeep(this.defaultOptions);
       this.volDonut = this.$_.cloneDeep(this.defaultOptions);
       this.weightDonut = this.$_.cloneDeep(this.defaultOptions);
       this.prodDonut = this.$_.cloneDeep(this.defaultOptions);
 
+      let prodSum = 0;
+      let orderSum = 0;
+
+      Object.values(this.viewdata).forEach(el => {
+        let orderdata = [];
+        let volumedata = [];
+        let weightdata = [];
+
+        let volume = el.reduce(
+          (accumulator, currentValue) =>
+            accumulator + parseInt(currentValue["prod_volume"]),
+          0
+        );
+        let weight = el.reduce(
+          (accumulator, currentValue) =>
+            accumulator + parseInt(currentValue["weight"]),
+          0
+        );
+
+        prodSum += el.reduce(
+          (accumulator, currentValue) =>
+            accumulator + parseFloat(currentValue["productivity"]),
+          0
+        );
+
+        orderSum += el.length;
+
+        orderdata.push(el[0].segment, el.length);
+        volumedata.push(el[0].segment, volume);
+        weightdata.push(el[0].segment, weight);
+        this.orderDonut.series[0].data.push(orderdata);
+        this.volDonut.series[0].data.push(volumedata);
+        this.weightDonut.series[0].data.push(weightdata);
+      });
+
+      let productivity = Math.round((prodSum / orderSum) * 1000) / 10;
+      this.prodDonut.series[0].data = [
+        ["", productivity],
+        ["", 100 - productivity]
+      ];
+
+      this.orderDonut.title.text = this.orderTotal.toLocaleString();
       this.orderDonut.subtitle.text =
         "<span style='position:absolute; top:47px; font-size:14px;'>orders</span>";
 
+      this.volDonut.title.text = this.volTotal.toLocaleString();
       this.volDonut.subtitle.text =
-        "<span style='position:absolute; top:47px; left:10px; font-size:14px;'>packages</span>";
+        "<span style='position:absolute; top:47px; font-size:14px;'>packages</span>";
 
+      this.weightDonut.title.text = this.weightTotal.toLocaleString();
       this.weightDonut.subtitle.text =
-        "<span style='position:absolute; top:47px; left:-10px; font-size:14px;'>kg</span>";
-
-      this.prodDonut.subtitle.text =
-        "<span style='position:absolute; top:47px; left:20px; font-size:14px;'>%</span>";
+        "<span style='position:absolute; top:47px; font-size:14px;'>kg</span>";
 
       this.prodDonut.plotOptions.pie.colors = ["#4a71f4", "#d8d8d8"];
       this.prodDonut.plotOptions.pie.dataLabels.enabled = false;
-
-      if (this.productivity) {
-        //有料会員の場合内訳も表示する
-        let orderarr = [
-          ["Candy", this.donuts_objs.Order.donut_data.datasets[0].data[0]],
-          ["Chocolate", this.donuts_objs.Order.donut_data.datasets[0].data[1]],
-          ["Cookie", this.donuts_objs.Order.donut_data.datasets[0].data[2]],
-          ["Gum", this.donuts_objs.Order.donut_data.datasets[0].data[3]]
-        ];
-
-        orderarr.forEach(el => this.orderDonut.series[0].data.push(el));
-        this.orderDonut.title.text = this.orderTotal.toLocaleString();
-
-        console.log(this.orderDonut);
-
-        let volarr = [
-          ["Candy", this.donuts_objs.Volume.donut_data.datasets[0].data[0]],
-          ["Chocolate", this.donuts_objs.Volume.donut_data.datasets[0].data[1]],
-          ["Cookie", this.donuts_objs.Volume.donut_data.datasets[0].data[2]],
-          ["Gum", this.donuts_objs.Volume.donut_data.datasets[0].data[3]]
-        ];
-
-        volarr.forEach(el => this.volDonut.series[0].data.push(el));
-        this.volDonut.title.text = this.volTotal.toLocaleString();
-
-        let weightarr = [];
-        console.log(this.donuts_objs);
-
-        weightarr = [
-          ["Candy", this.donuts_objs["Weight"].donut_data.datasets[0].data[0]],
-          [
-            "Chocolate",
-            this.donuts_objs["Weight"].donut_data.datasets[0].data[1]
-          ],
-          ["Cookie", this.donuts_objs["Weight"].donut_data.datasets[0].data[2]],
-          ["Gum", this.donuts_objs["Weight"].donut_data.datasets[0].data[3]]
-        ];
-
-        weightarr.forEach(el => this.weightDonut.series[0].data.push(el));
-        this.weightDonut.title.text = this.weightTotal.toLocaleString();
-
-        let prodarr = [
-          ["A", this.donuts_objs.Productivity.donut_data.datasets[0].data[0]],
-          ["B", this.donuts_objs.Productivity.donut_data.datasets[0].data[1]]
-        ];
-
-        prodarr.forEach(el => this.prodDonut.series[0].data.push(el));
-        this.prodDonut.title.text = this.prodTotal.toLocaleString();
-      }
-      console.log(this.orderDonut);
+      this.prodDonut.title.text = this.prodTotal.toLocaleString();
+      this.prodDonut.subtitle.text =
+        "<span style='position:absolute; top:47px; left:20px; font-size:14px;'>%</span>";
     }
   }
 };
