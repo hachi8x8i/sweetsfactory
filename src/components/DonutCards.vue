@@ -32,14 +32,6 @@
           <v-toolbar dense class="transparent" flat>
             <v-toolbar-title>Productivity</v-toolbar-title>
             <v-spacer />
-            <v-tooltip bottom button>
-              <template v-slot:activator="{ on }">
-                <v-btn icon v-on="on">
-                  <v-icon>help</v-icon>
-                </v-btn>
-              </template>
-              <span></span>
-            </v-tooltip>
           </v-toolbar>
 
           <highcharts v-if="Object.keys(viewdata).length > 0" :options="prodDonut" />
@@ -183,8 +175,8 @@ export default {
     productivity: function() {
       return true;
     },
-    unit_inch: function() {
-      return false;
+    isPound: function() {
+      return this.$store.state.userdata.unitpound;
     }
   },
 
@@ -202,11 +194,6 @@ export default {
     createDonutData() {
       /*viewdataはorder_idごとに分かれてるのでそれをセグメントごとに合計してchartOptionsに入れればいい
        */
-
-      //★これいる？
-      if (Object.keys(this.viewdata) === 0) {
-        return;
-      }
 
       this.orderDonut = this.$_.cloneDeep(this.defaultOptions);
       this.volDonut = this.$_.cloneDeep(this.defaultOptions);
@@ -231,6 +218,9 @@ export default {
             accumulator + parseInt(currentValue["weight"]),
           0
         );
+        if (this.isPound) {
+          weight = Math.round(weight / 454);
+        }
 
         prodSum += el.reduce(
           (accumulator, currentValue) =>
@@ -263,8 +253,9 @@ export default {
         "<span style='position:absolute; top:47px; font-size:14px;'>packages</span>";
 
       this.weightDonut.title.text = this.weightTotal.toLocaleString();
-      this.weightDonut.subtitle.text =
-        "<span style='position:absolute; top:47px; font-size:14px;'>kg</span>";
+      this.weightDonut.subtitle.text = this.isPound
+        ? "<span style='position:absolute; top:47px; left:20px; font-size:14px;'>lb</span>"
+        : "<span style='position:absolute; top:47px; left:20px; font-size:14px;'>g</span>";
 
       this.prodDonut.plotOptions.pie.colors = ["#4a71f4", "#d8d8d8"];
       this.prodDonut.plotOptions.pie.dataLabels.enabled = false;

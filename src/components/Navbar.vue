@@ -22,7 +22,7 @@
     <v-toolbar-items class="d-none d-md-flex">
       <v-btn text rounded to="/" class="text-center">Production</v-btn>
       <v-btn text to="/byplant">By Plant</v-btn>
-      <v-btn text to="/compare">Setting</v-btn>
+      <v-btn text to="/setting">Setting</v-btn>
     </v-toolbar-items>
     <v-menu offset-y>
       <template v-slot:activator="{ on }">
@@ -39,7 +39,7 @@
             <v-list-item-title>BY PLANT</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
-        <v-list-item to="/user">
+        <v-list-item to="/setting">
           <v-list-item-title>SETTING</v-list-item-title>
         </v-list-item>
       </v-list>

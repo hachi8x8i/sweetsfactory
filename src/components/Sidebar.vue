@@ -61,7 +61,7 @@
           </v-menu>
         </v-list-item-content>
       </v-list-item>
-      <v-list-item>
+      <v-list-item v-if="this.$route.path === '/'">
         <v-list-item-content class="py-0">
           <v-select
             v-model="selectplant"
@@ -73,7 +73,7 @@
           ></v-select>
         </v-list-item-content>
       </v-list-item>
-      <v-list-item>
+      <v-list-item v-if="this.$route.path === '/'">
         <v-list-item-content class="py-0">
           <v-select
             v-model="selectsegment"
@@ -84,14 +84,6 @@
             chips
             @change="edit_filter('plant')"
           ></v-select>
-
-          <v-tooltip bottom button>
-            <template v-slot:activator="{ on }">
-              <v-btn style="position:absolute; right:11px; top:14px" icon v-on="on">
-                <v-icon>help</v-icon>
-              </v-btn>
-            </template>
-          </v-tooltip>
         </v-list-item-content>
       </v-list-item>
       <v-list-item v-if="this.$route.path === '/'">
@@ -99,25 +91,16 @@
           <v-text-field v-model="selectorderno" label="Order NO" @change="edit_filter('plant')"></v-text-field>
         </v-list-item-content>
       </v-list-item>
-      <v-list-item v-if="this.$route.path === '/condition'">
-        <v-list-item-content class="py-0">
-          <v-select
-            v-model="selectalarm_type"
-            :items="alarm_types"
-            label="Alarm Type"
-            multiple
-            chips
-            @change="edit_filter('alarm')"
-          ></v-select>
-        </v-list-item-content>
-      </v-list-item>
     </v-list>
   </v-navigation-drawer>
 </template>
 
 <script>
+import util from "../components/util/util.js";
+
 export default {
   name: "Sidebar",
+  mixins: [util],
   data() {
     return {
       from_menu: "",
@@ -131,14 +114,11 @@ export default {
       segments: [], //選択可能プラント
       selectsegment: [], //選択したプラント
       selectorderno: "", //入力したオーダーNO
-      alarm_types: [], //選択可能プラント
-      selectalarm_type: [], //選択したプラント
       component_notes: [], //選択可能プラント
       selectcomponent_note: [] //選択したプラント
     };
   },
   computed: {
-    //cumputedの中ではアロー関数つかうとthisが見えないからダメ
     limit_proddata: function() {
       return 70000;
     },
@@ -156,6 +136,12 @@ export default {
     }
   },
   async created() {
+    //★Sidebarのcreatedはアプリ起動時しか実行されない
+
+    this.$vuetify.theme.dark = this.$store.state.userdata.darkmode;
+    util.methods.setChartOptions(this.$vuetify.theme.dark);
+
+    //★あとで消す
     this.convertData();
 
     //state割り当て
@@ -164,7 +150,6 @@ export default {
     this.to_date = this.stateFilterData.to;
     this.from_date = this.stateFilterData.from;
     this.selectorderno = this.stateFilterData.selectorderno;
-    this.selectalarm_type = this.stateFilterData.selectalarm_type;
     this.selectsegment = this.stateFilterData.selectsegment;
 
     this.getByplantData();
@@ -228,13 +213,16 @@ export default {
         this.create_segments();
       }
 
-      this.$store.dispatch("setFilterdata", {
+      const filterdata = {
         selectplant: this.selectplant,
         from: this.from_date,
         to: this.to_date,
         selectorderno: this.selectorderno,
         selectsegment: this.selectsegment
-      });
+      };
+
+      this.$store.commit("setFilterdata", filterdata);
+      //★Byplantでプラントのフィルタを初期化する必要がある
     },
     /**
      * プラントの選択肢をつくるメソッド
@@ -283,32 +271,6 @@ export default {
       );
     },
     /**
-     * アラームタイプの選択肢をつくるメソッド
-     */
-    create_alarmtypes() {
-      const func_filter = item => {
-        return (
-          (this.selectcustomer.length == 0 ||
-            this.selectcustomer.indexOf(item.customer) >= 0) &&
-          (this.selectplant.length == 0 ||
-            this.selectplant.indexOf(item.city_plant_no) >= 0) &&
-          (!this.to_date ||
-            new Date(item.alarm_start_time_local) < new Date(this.to_date)) &&
-          (!this.from_date ||
-            new Date(item.alarm_start_time_local) > new Date(this.from_date))
-        );
-      };
-
-      let filterddata = this.alarms.filter(func_filter);
-      let pl_array = filterddata.map(obj => obj.alarm_type);
-      this.alarm_types = pl_array.filter(
-        (item, index, self) => self.indexOf(item) === index
-      );
-      this.selectalarm_type = this.selectalarm_type.filter(
-        item => this.alarm_types.indexOf(item) >= 0
-      );
-    },
-    /**
      * フィルタの日付を初期化するメソッド
      */
     clearDate(type) {
@@ -320,7 +282,7 @@ export default {
       this.edit_filter();
     },
     convertData() {
-      let orders = require("../../srv/orders.json");
+      let orders = require("../../srv/ordersPrev.json");
 
       orders.map((order, index) => {
         delete order.order_id;
@@ -340,16 +302,20 @@ export default {
         order.weight = order.prod_volume_size;
         delete order.prod_volume_size;
 
+        order.prod_volume = Math.round(order.prod_volume / 500);
+
         if (order.city_plant_no === "Aston(P2353)") {
           order.city_plant_no = "Charlie";
         } else if (order.city_plant_no === "Lancaster(P2368)") {
           order.city_plant_no = "Grey";
+        } else if (order.city_plant_no === "JNB#1(PE0885)") {
+          order.city_plant_no = "Shima";
         } else if (order.city_plant_no === "JNB#3(PE0923)") {
           order.city_plant_no = "Hevin";
         } else if (order.city_plant_no === "CPT#1(PE0901)") {
           order.city_plant_no = "Zacconi";
         } else if (order.city_plant_no === "CPT#2(PE0911)") {
-          order.city_plant_no = "Shima";
+          order.city_plant_no = "DongFeng";
         } else {
           order.city_plant_no = "delete";
         }
@@ -385,19 +351,22 @@ export default {
           el.city_plant_no = "Charlie";
         } else if (el.city_plant_no === "Lancaster(P2368)") {
           el.city_plant_no = "Grey";
+        } else if (el.city_plant_no === "JNB#1(PE0885)") {
+          el.city_plant_no = "Shima";
         } else if (el.city_plant_no === "JNB#3(PE0923)") {
           el.city_plant_no = "Hevin";
         } else if (el.city_plant_no === "CPT#1(PE0901)") {
           el.city_plant_no = "Zacconi";
         } else if (el.city_plant_no === "CPT#2(PE0911)") {
-          el.city_plant_no = "Shima";
+          el.city_plant_no = "DongFeng";
         } else {
           el.city_plant_no = "delete";
         }
       });
+      //なぜかプラント数が5の時だけByPlantグラフがバグる（ALLのX軸がおかしくなる）
       aggvol = aggvol.filter(el => el.city_plant_no !== "delete");
 
-      console.log(JSON.stringify(aggvol));
+      //    console.log(JSON.stringify(aggvol));
     }
   }
 };

@@ -3,7 +3,11 @@
     <v-row class="ma-0">
       <v-col class="pa-0" cols="12">
         <v-toolbar class="translucent" dense height="64px">
-          <ToggleButtons :contents="timeButtons" :default="'day'" @select-button="changeTimescale" />
+          <ToggleButtons
+            :contents="timeButtons"
+            :default="'day'"
+            @select-button="changeTimescale"
+          />
           <v-spacer />
           <ToggleButtons
             :contents="volumeButtons"
@@ -24,13 +28,20 @@
               @select-button="changeGraphtype"
             />
             <v-spacer />STACK LABEL
-            <v-switch v-model="chartOptions.yAxis.stackLabels.enabled" inset class="pt-6 pl-4" />
+            <v-switch
+              v-model="chartOptions.yAxis.stackLabels.enabled"
+              inset
+              class="pt-6 pl-4"
+            />
           </v-toolbar>
           <highcharts :options="chartOptions" />
         </v-card>
       </v-col>
     </v-row>
-    <v-row v-if="Object.keys(chartOptionsSingles).length > 1" class="ma-0 px-2 pb-2">
+    <v-row
+      v-if="Object.keys(chartOptionsSingles).length > 1"
+      class="ma-0 px-2 pb-2"
+    >
       <v-col
         v-for="(chartOptionsSingle, plant) in chartOptionsSingles"
         :key="plant"
@@ -60,7 +71,7 @@ import ToggleButtons from "../components/ToggleButtons";
 export default {
   components: {
     highcharts: Chart,
-    ToggleButtons
+    ToggleButtons,
   },
   data() {
     return {
@@ -77,19 +88,19 @@ export default {
           backgroundColor: "transparent",
           style: { fontFamily: "Roboto", fontSize: "12px" },
           height: "600px",
-          zoomType: "xy"
+          zoomType: "xy",
         },
         title: {
-          text: ""
+          text: "",
         },
         legend: {
-          enabled: true
+          enabled: true,
         },
         series: [{ data: [] }],
         plotOptions: {
           column: {
-            stacking: "normal"
-          }
+            stacking: "normal",
+          },
         },
         credits: { enabled: false },
         xAxis: {
@@ -97,30 +108,26 @@ export default {
           labels: {
             rotation: -45,
             max: null,
-            min: null
-          }
+            min: null,
+          },
         },
         yAxis: {
           stackLabels: { enabled: false },
-          title: { text: "packages" }
-        }
+          title: { text: "packages" },
+        },
       },
       /**
        * 個別用
        */
       chartOptionsSingles: {},
-      colors_plant: {
-        /*
-        "Aston(P2353)": "rgba(255,138,128 ,1)",
-        "CPT#1(PE0901)": "rgba(140,158,255 ,1)",
-        "CPT#2(PE0911)": "rgba(130,177,255 ,1)",
-        "Carol Stream(P3043)": "rgba(179,136,255 ,1)",
-        "JNB#1(PE0885)": "rgba(128,216,255 ,1)"
-        /* "JNB#2(PE0887)": "rgba(132,255,255 ,1)",
-        "JNB#3(PE0923)": "rgba(167,255,235 ,1)",
-        "Lancaster(P2368)": "rgba(255,128,171 ,1)",
-        "Lancaster(P2382)": "rgba(234,128,252 ,1)"*/
-      }
+      plantColors: {
+        Charlie: "rgba(255,138,128 ,1)",
+        Zacconi: "rgba(140,158,255 ,1)",
+        DongFeng: "rgba(130,177,255 ,1)",
+        Shima: "rgba(128,216,255 ,1)",
+        Hevin: "rgba(167,255,235 ,1)",
+        Grey: "rgba(255,128,171 ,1)",
+      },
     };
   },
   computed: {
@@ -138,7 +145,7 @@ export default {
     },
     stackButtons: function() {
       return ["normal", "stack", "ratio"];
-    }
+    },
   },
   watch: {
     stateFilterData: {
@@ -146,8 +153,8 @@ export default {
         this.prepareData();
         this.createViewdata();
       },
-      immediate: true
-    }
+      immediate: true,
+    },
   },
   methods: {
     async prepareData() {
@@ -289,7 +296,7 @@ export default {
           name: plantNo,
           data: viewdataOptional[plantNo],
           borderWidth: 0,
-          color: this.colors_plant[plantNo]
+          color: this.plantColors[plantNo],
         });
       }
       this.chartOptions.series = viewdataSet;
@@ -397,7 +404,7 @@ export default {
         let current = {
           name: ary[0].city_plant_no,
           y: null,
-          color: null
+          color: null,
         };
         this.$_.forEach(ary, (value, plantdataindex) => {
           if (this.switchTarget === "productivity") {
@@ -413,7 +420,7 @@ export default {
         if (this.switchTarget === "productivity") {
           current.y = current.y / daycount;
         }
-        current.color = this.colors_plant[current.name];
+        current.color = this.plantColors[current.name];
         plantTotalArr.push(current);
       });
       this.chartOptions.xAxis.type = "category";
@@ -458,7 +465,7 @@ export default {
             break;
         }
       }
-    }
-  }
+    },
+  },
 };
 </script>
