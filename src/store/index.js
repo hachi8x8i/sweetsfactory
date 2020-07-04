@@ -1,5 +1,6 @@
 import Vue from "vue";
 import Vuex from "vuex";
+import createPersistedState from "vuex-persistedstate";
 
 Vue.use(Vuex);
 
@@ -11,15 +12,15 @@ export default new Vuex.Store({
       from: null,
       to: null,
       selectorderno: "",
-      selectalarm_type: [],
       selectsegment: [],
     },
     firstdata: [],
     byplantdata: [],
+    userdata: { unitpound: false, darkmode: false },
   },
   mutations: {
-    setFilterdata(state, filterdata) {
-      state.filterdata = filterdata;
+    setFilterdata(state, value) {
+      state.filterdata = value;
     },
     setFirstdata(state, value) {
       state.firstdata = value;
@@ -27,11 +28,11 @@ export default new Vuex.Store({
     setByplantdata(state, value) {
       state.byplantdata = value;
     },
+    setUserdata(state, value) {
+      state.userdata = value;
+    },
   },
   actions: {
-    setFilterdata({ commit }, filterdata) {
-      commit("setFilterdata", filterdata);
-    },
     setFirstdata({ commit }, firstdata) {
       commit("setFirstdata", firstdata);
     },
@@ -39,4 +40,16 @@ export default new Vuex.Store({
       commit("setByplantdata", byplantdata);
     },
   },
+  plugins: [
+    createPersistedState({
+      key: "FilterData",
+      paths: ["filterdata"],
+      storage: window.localStorage,
+    }),
+    createPersistedState({
+      key: "Userdata",
+      paths: ["userdata"],
+      storage: window.localStorage,
+    }),
+  ],
 });
